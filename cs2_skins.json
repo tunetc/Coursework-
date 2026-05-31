@@ -1,0 +1,7092 @@
+[
+    {
+        "weapon_type": "AWP",
+        "skin_name": "Lightning Strike",
+        "base_market_hash_name": "AWP | Lightning Strike"
+    },
+    {
+        "weapon_type": "AK-47",
+        "skin_name": "Case Hardened",
+        "base_market_hash_name": "AK-47 | Case Hardened"
+    },
+    {
+        "weapon_type": "Desert Eagle",
+        "skin_name": "Hypnotic",
+        "base_market_hash_name": "Desert Eagle | Hypnotic"
+    },
+    {
+        "weapon_type": "Glock-18",
+        "skin_name": "Dragon Tattoo",
+        "base_market_hash_name": "Glock-18 | Dragon Tattoo"
+    },
+    {
+        "weapon_type": "USP-S",
+        "skin_name": "Dark Water",
+        "base_market_hash_name": "USP-S | Dark Water"
+    },
+    {
+        "weapon_type": "M4A1-S",
+        "skin_name": "Dark Water",
+        "base_market_hash_name": "M4A1-S | Dark Water"
+    },
+    {
+        "weapon_type": "AUG",
+        "skin_name": "Wings",
+        "base_market_hash_name": "AUG | Wings"
+    },
+    {
+        "weapon_type": "SG 553",
+        "skin_name": "Ultraviolet",
+        "base_market_hash_name": "SG 553 | Ultraviolet"
+    },
+    {
+        "weapon_type": "MP7",
+        "skin_name": "Skulls",
+        "base_market_hash_name": "MP7 | Skulls"
+    },
+    {
+        "weapon_type": "Glock-18",
+        "skin_name": "Fade",
+        "base_market_hash_name": "Glock-18 | Fade"
+    },
+    {
+        "weapon_type": "MP9",
+        "skin_name": "Bulldozer",
+        "base_market_hash_name": "MP9 | Bulldozer"
+    },
+    {
+        "weapon_type": "AUG",
+        "skin_name": "Hot Rod",
+        "base_market_hash_name": "AUG | Hot Rod"
+    },
+    {
+        "weapon_type": "Negev",
+        "skin_name": "Anodized Navy",
+        "base_market_hash_name": "Negev | Anodized Navy"
+    },
+    {
+        "weapon_type": "Five-SeveN",
+        "skin_name": "Candy Apple",
+        "base_market_hash_name": "Five-SeveN | Candy Apple"
+    },
+    {
+        "weapon_type": "UMP-45",
+        "skin_name": "Caramel",
+        "base_market_hash_name": "UMP-45 | Caramel"
+    },
+    {
+        "weapon_type": "SG 553",
+        "skin_name": "Tornado",
+        "base_market_hash_name": "SG 553 | Tornado"
+    },
+    {
+        "weapon_type": "Tec-9",
+        "skin_name": "Ossified",
+        "base_market_hash_name": "Tec-9 | Ossified"
+    },
+    {
+        "weapon_type": "M4A4",
+        "skin_name": "Jungle Tiger",
+        "base_market_hash_name": "M4A4 | Jungle Tiger"
+    },
+    {
+        "weapon_type": "AK-47",
+        "skin_name": "Jungle Spray",
+        "base_market_hash_name": "AK-47 | Jungle Spray"
+    },
+    {
+        "weapon_type": "SSG 08",
+        "skin_name": "Lichen Dashed",
+        "base_market_hash_name": "SSG 08 | Lichen Dashed"
+    },
+    {
+        "weapon_type": "Five-SeveN",
+        "skin_name": "Jungle",
+        "base_market_hash_name": "Five-SeveN | Jungle"
+    },
+    {
+        "weapon_type": "Nova",
+        "skin_name": "Forest Leaves",
+        "base_market_hash_name": "Nova | Forest Leaves"
+    },
+    {
+        "weapon_type": "Glock-18",
+        "skin_name": "Brass",
+        "base_market_hash_name": "Glock-18 | Brass"
+    },
+    {
+        "weapon_type": "Desert Eagle",
+        "skin_name": "Blaze",
+        "base_market_hash_name": "Desert Eagle | Blaze"
+    },
+    {
+        "weapon_type": "P2000",
+        "skin_name": "Scorpion",
+        "base_market_hash_name": "P2000 | Scorpion"
+    },
+    {
+        "weapon_type": "Sawed-Off",
+        "skin_name": "Copper",
+        "base_market_hash_name": "Sawed-Off | Copper"
+    },
+    {
+        "weapon_type": "AUG",
+        "skin_name": "Copperhead",
+        "base_market_hash_name": "AUG | Copperhead"
+    },
+    {
+        "weapon_type": "AWP",
+        "skin_name": "Snake Camo",
+        "base_market_hash_name": "AWP | Snake Camo"
+    },
+    {
+        "weapon_type": "AK-47",
+        "skin_name": "Predator",
+        "base_market_hash_name": "AK-47 | Predator"
+    },
+    {
+        "weapon_type": "M4A4",
+        "skin_name": "Desert Storm",
+        "base_market_hash_name": "M4A4 | Desert Storm"
+    },
+    {
+        "weapon_type": "SCAR-20",
+        "skin_name": "Palm",
+        "base_market_hash_name": "SCAR-20 | Palm"
+    },
+    {
+        "weapon_type": "P90",
+        "skin_name": "Death by Kitty",
+        "base_market_hash_name": "P90 | Death by Kitty"
+    },
+    {
+        "weapon_type": "AWP",
+        "skin_name": "BOOM",
+        "base_market_hash_name": "AWP | BOOM"
+    },
+    {
+        "weapon_type": "AK-47",
+        "skin_name": "Red Laminate",
+        "base_market_hash_name": "AK-47 | Red Laminate"
+    },
+    {
+        "weapon_type": "P250",
+        "skin_name": "Splash",
+        "base_market_hash_name": "P250 | Splash"
+    },
+    {
+        "weapon_type": "Sawed-Off",
+        "skin_name": "Orange DDPAT",
+        "base_market_hash_name": "Sawed-Off | Orange DDPAT"
+    },
+    {
+        "weapon_type": "Galil AR",
+        "skin_name": "Orange DDPAT",
+        "base_market_hash_name": "Galil AR | Orange DDPAT"
+    },
+    {
+        "weapon_type": "FAMAS",
+        "skin_name": "Doomkitty",
+        "base_market_hash_name": "FAMAS | Doomkitty"
+    },
+    {
+        "weapon_type": "MAG-7",
+        "skin_name": "Memento",
+        "base_market_hash_name": "MAG-7 | Memento"
+    },
+    {
+        "weapon_type": "M4A4",
+        "skin_name": "Faded Zebra",
+        "base_market_hash_name": "M4A4 | Faded Zebra"
+    },
+    {
+        "weapon_type": "Tec-9",
+        "skin_name": "Brass",
+        "base_market_hash_name": "Tec-9 | Brass"
+    },
+    {
+        "weapon_type": "Dual Berettas",
+        "skin_name": "Anodized Navy",
+        "base_market_hash_name": "Dual Berettas | Anodized Navy"
+    },
+    {
+        "weapon_type": "M4A4",
+        "skin_name": "Tornado",
+        "base_market_hash_name": "M4A4 | Tornado"
+    },
+    {
+        "weapon_type": "P250",
+        "skin_name": "Gunsmoke",
+        "base_market_hash_name": "P250 | Gunsmoke"
+    },
+    {
+        "weapon_type": "Nova",
+        "skin_name": "Walnut",
+        "base_market_hash_name": "Nova | Walnut"
+    },
+    {
+        "weapon_type": "MAG-7",
+        "skin_name": "Sand Dune",
+        "base_market_hash_name": "MAG-7 | Sand Dune"
+    },
+    {
+        "weapon_type": "SCAR-20",
+        "skin_name": "Splash Jam",
+        "base_market_hash_name": "SCAR-20 | Splash Jam"
+    },
+    {
+        "weapon_type": "M4A4",
+        "skin_name": "Modern Hunter",
+        "base_market_hash_name": "M4A4 | Modern Hunter"
+    },
+    {
+        "weapon_type": "Nova",
+        "skin_name": "Modern Hunter",
+        "base_market_hash_name": "Nova | Modern Hunter"
+    },
+    {
+        "weapon_type": "Nova",
+        "skin_name": "Blaze Orange",
+        "base_market_hash_name": "Nova | Blaze Orange"
+    },
+    {
+        "weapon_type": "PP-Bizon",
+        "skin_name": "Modern Hunter",
+        "base_market_hash_name": "PP-Bizon | Modern Hunter"
+    },
+    {
+        "weapon_type": "XM1014",
+        "skin_name": "Blaze Orange",
+        "base_market_hash_name": "XM1014 | Blaze Orange"
+    },
+    {
+        "weapon_type": "P250",
+        "skin_name": "Modern Hunter",
+        "base_market_hash_name": "P250 | Modern Hunter"
+    },
+    {
+        "weapon_type": "P2000",
+        "skin_name": "Grassland Leaves",
+        "base_market_hash_name": "P2000 | Grassland Leaves"
+    },
+    {
+        "weapon_type": "MAC-10",
+        "skin_name": "Tornado",
+        "base_market_hash_name": "MAC-10 | Tornado"
+    },
+    {
+        "weapon_type": "PP-Bizon",
+        "skin_name": "Forest Leaves",
+        "base_market_hash_name": "PP-Bizon | Forest Leaves"
+    },
+    {
+        "weapon_type": "XM1014",
+        "skin_name": "Grassland",
+        "base_market_hash_name": "XM1014 | Grassland"
+    },
+    {
+        "weapon_type": "Tec-9",
+        "skin_name": "Nuclear Threat",
+        "base_market_hash_name": "Tec-9 | Nuclear Threat"
+    },
+    {
+        "weapon_type": "P250",
+        "skin_name": "Nuclear Threat",
+        "base_market_hash_name": "P250 | Nuclear Threat"
+    },
+    {
+        "weapon_type": "M4A4",
+        "skin_name": "Radiation Hazard",
+        "base_market_hash_name": "M4A4 | Radiation Hazard"
+    },
+    {
+        "weapon_type": "UMP-45",
+        "skin_name": "Fallout Warning",
+        "base_market_hash_name": "UMP-45 | Fallout Warning"
+    },
+    {
+        "weapon_type": "P90",
+        "skin_name": "Fallout Warning",
+        "base_market_hash_name": "P90 | Fallout Warning"
+    },
+    {
+        "weapon_type": "XM1014",
+        "skin_name": "Fallout Warning",
+        "base_market_hash_name": "XM1014 | Fallout Warning"
+    },
+    {
+        "weapon_type": "Sawed-Off",
+        "skin_name": "Irradiated Alert",
+        "base_market_hash_name": "Sawed-Off | Irradiated Alert"
+    },
+    {
+        "weapon_type": "PP-Bizon",
+        "skin_name": "Irradiated Alert",
+        "base_market_hash_name": "PP-Bizon | Irradiated Alert"
+    },
+    {
+        "weapon_type": "MAG-7",
+        "skin_name": "Irradiated Alert",
+        "base_market_hash_name": "MAG-7 | Irradiated Alert"
+    },
+    {
+        "weapon_type": "MP7",
+        "skin_name": "Whiteout",
+        "base_market_hash_name": "MP7 | Whiteout"
+    },
+    {
+        "weapon_type": "P2000",
+        "skin_name": "Silver",
+        "base_market_hash_name": "P2000 | Silver"
+    },
+    {
+        "weapon_type": "M249",
+        "skin_name": "Blizzard Marbleized",
+        "base_market_hash_name": "M249 | Blizzard Marbleized"
+    },
+    {
+        "weapon_type": "G3SG1",
+        "skin_name": "Arctic Camo",
+        "base_market_hash_name": "G3SG1 | Arctic Camo"
+    },
+    {
+        "weapon_type": "Galil AR",
+        "skin_name": "Winter Forest",
+        "base_market_hash_name": "Galil AR | Winter Forest"
+    },
+    {
+        "weapon_type": "FAMAS",
+        "skin_name": "Contrast Spray",
+        "base_market_hash_name": "FAMAS | Contrast Spray"
+    },
+    {
+        "weapon_type": "Dual Berettas",
+        "skin_name": "Demolition",
+        "base_market_hash_name": "Dual Berettas | Demolition"
+    },
+    {
+        "weapon_type": "P90",
+        "skin_name": "Glacier Mesh",
+        "base_market_hash_name": "P90 | Glacier Mesh"
+    },
+    {
+        "weapon_type": "AK-47",
+        "skin_name": "Black Laminate",
+        "base_market_hash_name": "AK-47 | Black Laminate"
+    },
+    {
+        "weapon_type": "PP-Bizon",
+        "skin_name": "Carbon Fiber",
+        "base_market_hash_name": "PP-Bizon | Carbon Fiber"
+    },
+    {
+        "weapon_type": "MAC-10",
+        "skin_name": "Urban DDPAT",
+        "base_market_hash_name": "MAC-10 | Urban DDPAT"
+    },
+    {
+        "weapon_type": "XM1014",
+        "skin_name": "Urban Perforated",
+        "base_market_hash_name": "XM1014 | Urban Perforated"
+    },
+    {
+        "weapon_type": "SCAR-20",
+        "skin_name": "Emerald",
+        "base_market_hash_name": "SCAR-20 | Emerald"
+    },
+    {
+        "weapon_type": "FAMAS",
+        "skin_name": "Spitfire",
+        "base_market_hash_name": "FAMAS | Spitfire"
+    },
+    {
+        "weapon_type": "AUG",
+        "skin_name": "Anodized Navy",
+        "base_market_hash_name": "AUG | Anodized Navy"
+    },
+    {
+        "weapon_type": "PP-Bizon",
+        "skin_name": "Rust Coat",
+        "base_market_hash_name": "PP-Bizon | Rust Coat"
+    },
+    {
+        "weapon_type": "MAG-7",
+        "skin_name": "Hazard",
+        "base_market_hash_name": "MAG-7 | Hazard"
+    },
+    {
+        "weapon_type": "P250",
+        "skin_name": "Facets",
+        "base_market_hash_name": "P250 | Facets"
+    },
+    {
+        "weapon_type": "Sawed-Off",
+        "skin_name": "Mosaico",
+        "base_market_hash_name": "Sawed-Off | Mosaico"
+    },
+    {
+        "weapon_type": "Negev",
+        "skin_name": "Palm",
+        "base_market_hash_name": "Negev | Palm"
+    },
+    {
+        "weapon_type": "SSG 08",
+        "skin_name": "Mayan Dreams",
+        "base_market_hash_name": "SSG 08 | Mayan Dreams"
+    },
+    {
+        "weapon_type": "Glock-18",
+        "skin_name": "Sand Dune",
+        "base_market_hash_name": "Glock-18 | Sand Dune"
+    },
+    {
+        "weapon_type": "MP7",
+        "skin_name": "Groundwater",
+        "base_market_hash_name": "MP7 | Groundwater"
+    },
+    {
+        "weapon_type": "XM1014",
+        "skin_name": "Jungle",
+        "base_market_hash_name": "XM1014 | Jungle"
+    },
+    {
+        "weapon_type": "Five-SeveN",
+        "skin_name": "Anodized Gunmetal",
+        "base_market_hash_name": "Five-SeveN | Anodized Gunmetal"
+    },
+    {
+        "weapon_type": "MP9",
+        "skin_name": "Dry Season",
+        "base_market_hash_name": "MP9 | Dry Season"
+    },
+    {
+        "weapon_type": "Tec-9",
+        "skin_name": "Tornado",
+        "base_market_hash_name": "Tec-9 | Tornado"
+    },
+    {
+        "weapon_type": "M249",
+        "skin_name": "Jungle DDPAT",
+        "base_market_hash_name": "M249 | Jungle DDPAT"
+    },
+    {
+        "weapon_type": "AK-47",
+        "skin_name": "Fire Serpent",
+        "base_market_hash_name": "AK-47 | Fire Serpent"
+    },
+    {
+        "weapon_type": "Desert Eagle",
+        "skin_name": "Golden Koi",
+        "base_market_hash_name": "Desert Eagle | Golden Koi"
+    },
+    {
+        "weapon_type": "AWP",
+        "skin_name": "Graphite",
+        "base_market_hash_name": "AWP | Graphite"
+    },
+    {
+        "weapon_type": "P2000",
+        "skin_name": "Ocean Foam",
+        "base_market_hash_name": "P2000 | Ocean Foam"
+    },
+    {
+        "weapon_type": "P90",
+        "skin_name": "Emerald Dragon",
+        "base_market_hash_name": "P90 | Emerald Dragon"
+    },
+    {
+        "weapon_type": "USP-S",
+        "skin_name": "Overgrowth",
+        "base_market_hash_name": "USP-S | Overgrowth"
+    },
+    {
+        "weapon_type": "MAC-10",
+        "skin_name": "Graven",
+        "base_market_hash_name": "MAC-10 | Graven"
+    },
+    {
+        "weapon_type": "M4A4",
+        "skin_name": "Zirka",
+        "base_market_hash_name": "M4A4 | Zirka"
+    },
+    {
+        "weapon_type": "M4A1-S",
+        "skin_name": "Bright Water",
+        "base_market_hash_name": "M4A1-S | Bright Water"
+    },
+    {
+        "weapon_type": "G3SG1",
+        "skin_name": "Demeter",
+        "base_market_hash_name": "G3SG1 | Demeter"
+    },
+    {
+        "weapon_type": "Galil AR",
+        "skin_name": "Shattered",
+        "base_market_hash_name": "Galil AR | Shattered"
+    },
+    {
+        "weapon_type": "SG 553",
+        "skin_name": "Wave Spray",
+        "base_market_hash_name": "SG 553 | Wave Spray"
+    },
+    {
+        "weapon_type": "UMP-45",
+        "skin_name": "Bone Pile",
+        "base_market_hash_name": "UMP-45 | Bone Pile"
+    },
+    {
+        "weapon_type": "Dual Berettas",
+        "skin_name": "Black Limba",
+        "base_market_hash_name": "Dual Berettas | Black Limba"
+    },
+    {
+        "weapon_type": "Nova",
+        "skin_name": "Tempest",
+        "base_market_hash_name": "Nova | Tempest"
+    },
+    {
+        "weapon_type": "SSG 08",
+        "skin_name": "Blood in the Water",
+        "base_market_hash_name": "SSG 08 | Blood in the Water"
+    },
+    {
+        "weapon_type": "USP-S",
+        "skin_name": "Serum",
+        "base_market_hash_name": "USP-S | Serum"
+    },
+    {
+        "weapon_type": "P90",
+        "skin_name": "Cold Blooded",
+        "base_market_hash_name": "P90 | Cold Blooded"
+    },
+    {
+        "weapon_type": "Dual Berettas",
+        "skin_name": "Hemoglobin",
+        "base_market_hash_name": "Dual Berettas | Hemoglobin"
+    },
+    {
+        "weapon_type": "Nova",
+        "skin_name": "Graphite",
+        "base_market_hash_name": "Nova | Graphite"
+    },
+    {
+        "weapon_type": "MP9",
+        "skin_name": "Hypnotic",
+        "base_market_hash_name": "MP9 | Hypnotic"
+    },
+    {
+        "weapon_type": "Five-SeveN",
+        "skin_name": "Case Hardened",
+        "base_market_hash_name": "Five-SeveN | Case Hardened"
+    },
+    {
+        "weapon_type": "SCAR-20",
+        "skin_name": "Crimson Web",
+        "base_market_hash_name": "SCAR-20 | Crimson Web"
+    },
+    {
+        "weapon_type": "P250",
+        "skin_name": "Hive",
+        "base_market_hash_name": "P250 | Hive"
+    },
+    {
+        "weapon_type": "FAMAS",
+        "skin_name": "Hexane",
+        "base_market_hash_name": "FAMAS | Hexane"
+    },
+    {
+        "weapon_type": "M4A1-S",
+        "skin_name": "Blood Tiger",
+        "base_market_hash_name": "M4A1-S | Blood Tiger"
+    },
+    {
+        "weapon_type": "Tec-9",
+        "skin_name": "Blue Titanium",
+        "base_market_hash_name": "Tec-9 | Blue Titanium"
+    },
+    {
+        "weapon_type": "P2000",
+        "skin_name": "Amber Fade",
+        "base_market_hash_name": "P2000 | Amber Fade"
+    },
+    {
+        "weapon_type": "PP-Bizon",
+        "skin_name": "Brass",
+        "base_market_hash_name": "PP-Bizon | Brass"
+    },
+    {
+        "weapon_type": "M4A1-S",
+        "skin_name": "VariCamo",
+        "base_market_hash_name": "M4A1-S | VariCamo"
+    },
+    {
+        "weapon_type": "SG 553",
+        "skin_name": "Damascus Steel",
+        "base_market_hash_name": "SG 553 | Damascus Steel"
+    },
+    {
+        "weapon_type": "MAC-10",
+        "skin_name": "Palm",
+        "base_market_hash_name": "MAC-10 | Palm"
+    },
+    {
+        "weapon_type": "Sawed-Off",
+        "skin_name": "Snake Camo",
+        "base_market_hash_name": "Sawed-Off | Snake Camo"
+    },
+    {
+        "weapon_type": "Five-SeveN",
+        "skin_name": "Orange Peel",
+        "base_market_hash_name": "Five-SeveN | Orange Peel"
+    },
+    {
+        "weapon_type": "Tec-9",
+        "skin_name": "VariCamo",
+        "base_market_hash_name": "Tec-9 | VariCamo"
+    },
+    {
+        "weapon_type": "AK-47",
+        "skin_name": "Safari Mesh",
+        "base_market_hash_name": "AK-47 | Safari Mesh"
+    },
+    {
+        "weapon_type": "Nova",
+        "skin_name": "Predator",
+        "base_market_hash_name": "Nova | Predator"
+    },
+    {
+        "weapon_type": "MP9",
+        "skin_name": "Sand Dashed",
+        "base_market_hash_name": "MP9 | Sand Dashed"
+    },
+    {
+        "weapon_type": "P90",
+        "skin_name": "Sand Spray",
+        "base_market_hash_name": "P90 | Sand Spray"
+    },
+    {
+        "weapon_type": "G3SG1",
+        "skin_name": "Desert Storm",
+        "base_market_hash_name": "G3SG1 | Desert Storm"
+    },
+    {
+        "weapon_type": "P250",
+        "skin_name": "Sand Dune",
+        "base_market_hash_name": "P250 | Sand Dune"
+    },
+    {
+        "weapon_type": "SCAR-20",
+        "skin_name": "Sand Mesh",
+        "base_market_hash_name": "SCAR-20 | Sand Mesh"
+    },
+    {
+        "weapon_type": "AWP",
+        "skin_name": "Pit Viper",
+        "base_market_hash_name": "AWP | Pit Viper"
+    },
+    {
+        "weapon_type": "Sawed-Off",
+        "skin_name": "Full Stop",
+        "base_market_hash_name": "Sawed-Off | Full Stop"
+    },
+    {
+        "weapon_type": "MP7",
+        "skin_name": "Anodized Navy",
+        "base_market_hash_name": "MP7 | Anodized Navy"
+    },
+    {
+        "weapon_type": "Nova",
+        "skin_name": "Candy Apple",
+        "base_market_hash_name": "Nova | Candy Apple"
+    },
+    {
+        "weapon_type": "UMP-45",
+        "skin_name": "Gunsmoke",
+        "base_market_hash_name": "UMP-45 | Gunsmoke"
+    },
+    {
+        "weapon_type": "XM1014",
+        "skin_name": "CaliCamo",
+        "base_market_hash_name": "XM1014 | CaliCamo"
+    },
+    {
+        "weapon_type": "Dual Berettas",
+        "skin_name": "Stained",
+        "base_market_hash_name": "Dual Berettas | Stained"
+    },
+    {
+        "weapon_type": "P2000",
+        "skin_name": "Granite Marbleized",
+        "base_market_hash_name": "P2000 | Granite Marbleized"
+    },
+    {
+        "weapon_type": "M4A1-S",
+        "skin_name": "Boreal Forest",
+        "base_market_hash_name": "M4A1-S | Boreal Forest"
+    },
+    {
+        "weapon_type": "Nova",
+        "skin_name": "Sand Dune",
+        "base_market_hash_name": "Nova | Sand Dune"
+    },
+    {
+        "weapon_type": "PP-Bizon",
+        "skin_name": "Sand Dashed",
+        "base_market_hash_name": "PP-Bizon | Sand Dashed"
+    },
+    {
+        "weapon_type": "AUG",
+        "skin_name": "Contractor",
+        "base_market_hash_name": "AUG | Contractor"
+    },
+    {
+        "weapon_type": "Tec-9",
+        "skin_name": "Groundwater",
+        "base_market_hash_name": "Tec-9 | Groundwater"
+    },
+    {
+        "weapon_type": "FAMAS",
+        "skin_name": "Colony",
+        "base_market_hash_name": "FAMAS | Colony"
+    },
+    {
+        "weapon_type": "Dual Berettas",
+        "skin_name": "Cobalt Quartz",
+        "base_market_hash_name": "Dual Berettas | Cobalt Quartz"
+    },
+    {
+        "weapon_type": "P90",
+        "skin_name": "Teardown",
+        "base_market_hash_name": "P90 | Teardown"
+    },
+    {
+        "weapon_type": "USP-S",
+        "skin_name": "Night Ops",
+        "base_market_hash_name": "USP-S | Night Ops"
+    },
+    {
+        "weapon_type": "SG 553",
+        "skin_name": "Anodized Navy",
+        "base_market_hash_name": "SG 553 | Anodized Navy"
+    },
+    {
+        "weapon_type": "PP-Bizon",
+        "skin_name": "Night Ops",
+        "base_market_hash_name": "PP-Bizon | Night Ops"
+    },
+    {
+        "weapon_type": "XM1014",
+        "skin_name": "Blue Steel",
+        "base_market_hash_name": "XM1014 | Blue Steel"
+    },
+    {
+        "weapon_type": "Desert Eagle",
+        "skin_name": "Mudder",
+        "base_market_hash_name": "Desert Eagle | Mudder"
+    },
+    {
+        "weapon_type": "FAMAS",
+        "skin_name": "Cyanospatter",
+        "base_market_hash_name": "FAMAS | Cyanospatter"
+    },
+    {
+        "weapon_type": "AWP",
+        "skin_name": "Safari Mesh",
+        "base_market_hash_name": "AWP | Safari Mesh"
+    },
+    {
+        "weapon_type": "AUG",
+        "skin_name": "Storm",
+        "base_market_hash_name": "AUG | Storm"
+    },
+    {
+        "weapon_type": "XM1014",
+        "skin_name": "Blue Spruce",
+        "base_market_hash_name": "XM1014 | Blue Spruce"
+    },
+    {
+        "weapon_type": "G3SG1",
+        "skin_name": "Jungle Dashed",
+        "base_market_hash_name": "G3SG1 | Jungle Dashed"
+    },
+    {
+        "weapon_type": "P250",
+        "skin_name": "Boreal Forest",
+        "base_market_hash_name": "P250 | Boreal Forest"
+    },
+    {
+        "weapon_type": "Galil AR",
+        "skin_name": "Sage Spray",
+        "base_market_hash_name": "Galil AR | Sage Spray"
+    },
+    {
+        "weapon_type": "SG 553",
+        "skin_name": "Waves Perforated",
+        "base_market_hash_name": "SG 553 | Waves Perforated"
+    },
+    {
+        "weapon_type": "MAG-7",
+        "skin_name": "Bulldozer",
+        "base_market_hash_name": "MAG-7 | Bulldozer"
+    },
+    {
+        "weapon_type": "MAC-10",
+        "skin_name": "Amber Fade",
+        "base_market_hash_name": "MAC-10 | Amber Fade"
+    },
+    {
+        "weapon_type": "MP9",
+        "skin_name": "Hot Rod",
+        "base_market_hash_name": "MP9 | Hot Rod"
+    },
+    {
+        "weapon_type": "UMP-45",
+        "skin_name": "Blaze",
+        "base_market_hash_name": "UMP-45 | Blaze"
+    },
+    {
+        "weapon_type": "SSG 08",
+        "skin_name": "Tropical Storm",
+        "base_market_hash_name": "SSG 08 | Tropical Storm"
+    },
+    {
+        "weapon_type": "MP7",
+        "skin_name": "Orange Peel",
+        "base_market_hash_name": "MP7 | Orange Peel"
+    },
+    {
+        "weapon_type": "Negev",
+        "skin_name": "CaliCamo",
+        "base_market_hash_name": "Negev | CaliCamo"
+    },
+    {
+        "weapon_type": "Glock-18",
+        "skin_name": "Groundwater",
+        "base_market_hash_name": "Glock-18 | Groundwater"
+    },
+    {
+        "weapon_type": "SG 553",
+        "skin_name": "Gator Mesh",
+        "base_market_hash_name": "SG 553 | Gator Mesh"
+    },
+    {
+        "weapon_type": "AUG",
+        "skin_name": "Colony",
+        "base_market_hash_name": "AUG | Colony"
+    },
+    {
+        "weapon_type": "P90",
+        "skin_name": "Scorched",
+        "base_market_hash_name": "P90 | Scorched"
+    },
+    {
+        "weapon_type": "Five-SeveN",
+        "skin_name": "Contractor",
+        "base_market_hash_name": "Five-SeveN | Contractor"
+    },
+    {
+        "weapon_type": "G3SG1",
+        "skin_name": "Safari Mesh",
+        "base_market_hash_name": "G3SG1 | Safari Mesh"
+    },
+    {
+        "weapon_type": "P250",
+        "skin_name": "Bone Mask",
+        "base_market_hash_name": "P250 | Bone Mask"
+    },
+    {
+        "weapon_type": "Galil AR",
+        "skin_name": "Hunting Blind",
+        "base_market_hash_name": "Galil AR | Hunting Blind"
+    },
+    {
+        "weapon_type": "M4A1-S",
+        "skin_name": "Nitro",
+        "base_market_hash_name": "M4A1-S | Nitro"
+    },
+    {
+        "weapon_type": "SSG 08",
+        "skin_name": "Acid Fade",
+        "base_market_hash_name": "SSG 08 | Acid Fade"
+    },
+    {
+        "weapon_type": "Five-SeveN",
+        "skin_name": "Silver Quartz",
+        "base_market_hash_name": "Five-SeveN | Silver Quartz"
+    },
+    {
+        "weapon_type": "FAMAS",
+        "skin_name": "Teardown",
+        "base_market_hash_name": "FAMAS | Teardown"
+    },
+    {
+        "weapon_type": "M249",
+        "skin_name": "Gator Mesh",
+        "base_market_hash_name": "M249 | Gator Mesh"
+    },
+    {
+        "weapon_type": "MP9",
+        "skin_name": "Orange Peel",
+        "base_market_hash_name": "MP9 | Orange Peel"
+    },
+    {
+        "weapon_type": "AUG",
+        "skin_name": "Condemned",
+        "base_market_hash_name": "AUG | Condemned"
+    },
+    {
+        "weapon_type": "USP-S",
+        "skin_name": "Forest Leaves",
+        "base_market_hash_name": "USP-S | Forest Leaves"
+    },
+    {
+        "weapon_type": "G3SG1",
+        "skin_name": "VariCamo",
+        "base_market_hash_name": "G3SG1 | VariCamo"
+    },
+    {
+        "weapon_type": "Galil AR",
+        "skin_name": "VariCamo",
+        "base_market_hash_name": "Galil AR | VariCamo"
+    },
+    {
+        "weapon_type": "SSG 08",
+        "skin_name": "Blue Spruce",
+        "base_market_hash_name": "SSG 08 | Blue Spruce"
+    },
+    {
+        "weapon_type": "MP7",
+        "skin_name": "Army Recon",
+        "base_market_hash_name": "MP7 | Army Recon"
+    },
+    {
+        "weapon_type": "Tec-9",
+        "skin_name": "Army Mesh",
+        "base_market_hash_name": "Tec-9 | Army Mesh"
+    },
+    {
+        "weapon_type": "Dual Berettas",
+        "skin_name": "Contractor",
+        "base_market_hash_name": "Dual Berettas | Contractor"
+    },
+    {
+        "weapon_type": "SCAR-20",
+        "skin_name": "Contractor",
+        "base_market_hash_name": "SCAR-20 | Contractor"
+    },
+    {
+        "weapon_type": "Tec-9",
+        "skin_name": "Red Quartz",
+        "base_market_hash_name": "Tec-9 | Red Quartz"
+    },
+    {
+        "weapon_type": "Sawed-Off",
+        "skin_name": "Amber Fade",
+        "base_market_hash_name": "Sawed-Off | Amber Fade"
+    },
+    {
+        "weapon_type": "Desert Eagle",
+        "skin_name": "Urban Rubble",
+        "base_market_hash_name": "Desert Eagle | Urban Rubble"
+    },
+    {
+        "weapon_type": "MAC-10",
+        "skin_name": "Candy Apple",
+        "base_market_hash_name": "MAC-10 | Candy Apple"
+    },
+    {
+        "weapon_type": "P90",
+        "skin_name": "Ash Wood",
+        "base_market_hash_name": "P90 | Ash Wood"
+    },
+    {
+        "weapon_type": "P250",
+        "skin_name": "Metallic DDPAT",
+        "base_market_hash_name": "P250 | Metallic DDPAT"
+    },
+    {
+        "weapon_type": "M4A4",
+        "skin_name": "Urban DDPAT",
+        "base_market_hash_name": "M4A4 | Urban DDPAT"
+    },
+    {
+        "weapon_type": "SCAR-20",
+        "skin_name": "Carbon Fiber",
+        "base_market_hash_name": "SCAR-20 | Carbon Fiber"
+    },
+    {
+        "weapon_type": "MAG-7",
+        "skin_name": "Metallic DDPAT",
+        "base_market_hash_name": "MAG-7 | Metallic DDPAT"
+    },
+    {
+        "weapon_type": "Nova",
+        "skin_name": "Polar Mesh",
+        "base_market_hash_name": "Nova | Polar Mesh"
+    },
+    {
+        "weapon_type": "PP-Bizon",
+        "skin_name": "Urban Dashed",
+        "base_market_hash_name": "PP-Bizon | Urban Dashed"
+    },
+    {
+        "weapon_type": "UMP-45",
+        "skin_name": "Urban DDPAT",
+        "base_market_hash_name": "UMP-45 | Urban DDPAT"
+    },
+    {
+        "weapon_type": "Five-SeveN",
+        "skin_name": "Forest Night",
+        "base_market_hash_name": "Five-SeveN | Forest Night"
+    },
+    {
+        "weapon_type": "Dual Berettas",
+        "skin_name": "Colony",
+        "base_market_hash_name": "Dual Berettas | Colony"
+    },
+    {
+        "weapon_type": "G3SG1",
+        "skin_name": "Polar Camo",
+        "base_market_hash_name": "G3SG1 | Polar Camo"
+    },
+    {
+        "weapon_type": "M4A4",
+        "skin_name": "X-Ray",
+        "base_market_hash_name": "M4A4 | X-Ray"
+    },
+    {
+        "weapon_type": "Desert Eagle",
+        "skin_name": "Cobalt Disruption",
+        "base_market_hash_name": "Desert Eagle | Cobalt Disruption"
+    },
+    {
+        "weapon_type": "AWP",
+        "skin_name": "Electric Hive",
+        "base_market_hash_name": "AWP | Electric Hive"
+    },
+    {
+        "weapon_type": "FAMAS",
+        "skin_name": "Afterimage",
+        "base_market_hash_name": "FAMAS | Afterimage"
+    },
+    {
+        "weapon_type": "P90",
+        "skin_name": "Blind Spot",
+        "base_market_hash_name": "P90 | Blind Spot"
+    },
+    {
+        "weapon_type": "AK-47",
+        "skin_name": "Blue Laminate",
+        "base_market_hash_name": "AK-47 | Blue Laminate"
+    },
+    {
+        "weapon_type": "P250",
+        "skin_name": "Steel Disruption",
+        "base_market_hash_name": "P250 | Steel Disruption"
+    },
+    {
+        "weapon_type": "G3SG1",
+        "skin_name": "Azure Zebra",
+        "base_market_hash_name": "G3SG1 | Azure Zebra"
+    },
+    {
+        "weapon_type": "Nova",
+        "skin_name": "Ghost Camo",
+        "base_market_hash_name": "Nova | Ghost Camo"
+    },
+    {
+        "weapon_type": "PP-Bizon",
+        "skin_name": "Water Sigil",
+        "base_market_hash_name": "PP-Bizon | Water Sigil"
+    },
+    {
+        "weapon_type": "Five-SeveN",
+        "skin_name": "Nightshade",
+        "base_market_hash_name": "Five-SeveN | Nightshade"
+    },
+    {
+        "weapon_type": "Galil AR",
+        "skin_name": "Blue Titanium",
+        "base_market_hash_name": "Galil AR | Blue Titanium"
+    },
+    {
+        "weapon_type": "M4A4",
+        "skin_name": "Asiimov",
+        "base_market_hash_name": "M4A4 | Asiimov"
+    },
+    {
+        "weapon_type": "Sawed-Off",
+        "skin_name": "The Kraken",
+        "base_market_hash_name": "Sawed-Off | The Kraken"
+    },
+    {
+        "weapon_type": "AWP",
+        "skin_name": "Redline",
+        "base_market_hash_name": "AWP | Redline"
+    },
+    {
+        "weapon_type": "P250",
+        "skin_name": "Mehndi",
+        "base_market_hash_name": "P250 | Mehndi"
+    },
+    {
+        "weapon_type": "M4A1-S",
+        "skin_name": "Guardian",
+        "base_market_hash_name": "M4A1-S | Guardian"
+    },
+    {
+        "weapon_type": "FAMAS",
+        "skin_name": "Pulse",
+        "base_market_hash_name": "FAMAS | Pulse"
+    },
+    {
+        "weapon_type": "Dual Berettas",
+        "skin_name": "Marina",
+        "base_market_hash_name": "Dual Berettas | Marina"
+    },
+    {
+        "weapon_type": "MP9",
+        "skin_name": "Rose Iron",
+        "base_market_hash_name": "MP9 | Rose Iron"
+    },
+    {
+        "weapon_type": "Nova",
+        "skin_name": "Rising Skull",
+        "base_market_hash_name": "Nova | Rising Skull"
+    },
+    {
+        "weapon_type": "Galil AR",
+        "skin_name": "Sandstorm",
+        "base_market_hash_name": "Galil AR | Sandstorm"
+    },
+    {
+        "weapon_type": "Five-SeveN",
+        "skin_name": "Kami",
+        "base_market_hash_name": "Five-SeveN | Kami"
+    },
+    {
+        "weapon_type": "M249",
+        "skin_name": "Magma",
+        "base_market_hash_name": "M249 | Magma"
+    },
+    {
+        "weapon_type": "PP-Bizon",
+        "skin_name": "Cobalt Halftone",
+        "base_market_hash_name": "PP-Bizon | Cobalt Halftone"
+    },
+    {
+        "weapon_type": "CZ75-Auto",
+        "skin_name": "Victoria",
+        "base_market_hash_name": "CZ75-Auto | Victoria"
+    },
+    {
+        "weapon_type": "CZ75-Auto",
+        "skin_name": "The Fuschia Is Now",
+        "base_market_hash_name": "CZ75-Auto | The Fuschia Is Now"
+    },
+    {
+        "weapon_type": "P250",
+        "skin_name": "Undertow",
+        "base_market_hash_name": "P250 | Undertow"
+    },
+    {
+        "weapon_type": "CZ75-Auto",
+        "skin_name": "Tread Plate",
+        "base_market_hash_name": "CZ75-Auto | Tread Plate"
+    },
+    {
+        "weapon_type": "Tec-9",
+        "skin_name": "Titanium Bit",
+        "base_market_hash_name": "Tec-9 | Titanium Bit"
+    },
+    {
+        "weapon_type": "Desert Eagle",
+        "skin_name": "Heirloom",
+        "base_market_hash_name": "Desert Eagle | Heirloom"
+    },
+    {
+        "weapon_type": "Five-SeveN",
+        "skin_name": "Copper Galaxy",
+        "base_market_hash_name": "Five-SeveN | Copper Galaxy"
+    },
+    {
+        "weapon_type": "CZ75-Auto",
+        "skin_name": "Crimson Web",
+        "base_market_hash_name": "CZ75-Auto | Crimson Web"
+    },
+    {
+        "weapon_type": "P2000",
+        "skin_name": "Red FragCam",
+        "base_market_hash_name": "P2000 | Red FragCam"
+    },
+    {
+        "weapon_type": "Dual Berettas",
+        "skin_name": "Panther",
+        "base_market_hash_name": "Dual Berettas | Panther"
+    },
+    {
+        "weapon_type": "USP-S",
+        "skin_name": "Stainless",
+        "base_market_hash_name": "USP-S | Stainless"
+    },
+    {
+        "weapon_type": "Glock-18",
+        "skin_name": "Blue Fissure",
+        "base_market_hash_name": "Glock-18 | Blue Fissure"
+    },
+    {
+        "weapon_type": "AWP",
+        "skin_name": "Asiimov",
+        "base_market_hash_name": "AWP | Asiimov"
+    },
+    {
+        "weapon_type": "AUG",
+        "skin_name": "Chameleon",
+        "base_market_hash_name": "AUG | Chameleon"
+    },
+    {
+        "weapon_type": "AK-47",
+        "skin_name": "Redline",
+        "base_market_hash_name": "AK-47 | Redline"
+    },
+    {
+        "weapon_type": "P90",
+        "skin_name": "Trigon",
+        "base_market_hash_name": "P90 | Trigon"
+    },
+    {
+        "weapon_type": "Nova",
+        "skin_name": "Antique",
+        "base_market_hash_name": "Nova | Antique"
+    },
+    {
+        "weapon_type": "MAC-10",
+        "skin_name": "Heat",
+        "base_market_hash_name": "MAC-10 | Heat"
+    },
+    {
+        "weapon_type": "SG 553",
+        "skin_name": "Pulse",
+        "base_market_hash_name": "SG 553 | Pulse"
+    },
+    {
+        "weapon_type": "USP-S",
+        "skin_name": "Guardian",
+        "base_market_hash_name": "USP-S | Guardian"
+    },
+    {
+        "weapon_type": "FAMAS",
+        "skin_name": "Sergeant",
+        "base_market_hash_name": "FAMAS | Sergeant"
+    },
+    {
+        "weapon_type": "UMP-45",
+        "skin_name": "Corporal",
+        "base_market_hash_name": "UMP-45 | Corporal"
+    },
+    {
+        "weapon_type": "Negev",
+        "skin_name": "Terrain",
+        "base_market_hash_name": "Negev | Terrain"
+    },
+    {
+        "weapon_type": "Tec-9",
+        "skin_name": "Sandstorm",
+        "base_market_hash_name": "Tec-9 | Sandstorm"
+    },
+    {
+        "weapon_type": "MAG-7",
+        "skin_name": "Heaven Guard",
+        "base_market_hash_name": "MAG-7 | Heaven Guard"
+    },
+    {
+        "weapon_type": "P250",
+        "skin_name": "Franklin",
+        "base_market_hash_name": "P250 | Franklin"
+    },
+    {
+        "weapon_type": "AK-47",
+        "skin_name": "Emerald Pinstripe",
+        "base_market_hash_name": "AK-47 | Emerald Pinstripe"
+    },
+    {
+        "weapon_type": "CZ75-Auto",
+        "skin_name": "Tuxedo",
+        "base_market_hash_name": "CZ75-Auto | Tuxedo"
+    },
+    {
+        "weapon_type": "Galil AR",
+        "skin_name": "Tuxedo",
+        "base_market_hash_name": "Galil AR | Tuxedo"
+    },
+    {
+        "weapon_type": "Desert Eagle",
+        "skin_name": "Meteorite",
+        "base_market_hash_name": "Desert Eagle | Meteorite"
+    },
+    {
+        "weapon_type": "G3SG1",
+        "skin_name": "Green Apple",
+        "base_market_hash_name": "G3SG1 | Green Apple"
+    },
+    {
+        "weapon_type": "Glock-18",
+        "skin_name": "Death Rattle",
+        "base_market_hash_name": "Glock-18 | Death Rattle"
+    },
+    {
+        "weapon_type": "MAC-10",
+        "skin_name": "Silver",
+        "base_market_hash_name": "MAC-10 | Silver"
+    },
+    {
+        "weapon_type": "Nova",
+        "skin_name": "Caged Steel",
+        "base_market_hash_name": "Nova | Caged Steel"
+    },
+    {
+        "weapon_type": "UMP-45",
+        "skin_name": "Carbon Fiber",
+        "base_market_hash_name": "UMP-45 | Carbon Fiber"
+    },
+    {
+        "weapon_type": "MP7",
+        "skin_name": "Forest DDPAT",
+        "base_market_hash_name": "MP7 | Forest DDPAT"
+    },
+    {
+        "weapon_type": "Sawed-Off",
+        "skin_name": "Forest DDPAT",
+        "base_market_hash_name": "Sawed-Off | Forest DDPAT"
+    },
+    {
+        "weapon_type": "Tec-9",
+        "skin_name": "Urban DDPAT",
+        "base_market_hash_name": "Tec-9 | Urban DDPAT"
+    },
+    {
+        "weapon_type": "Negev",
+        "skin_name": "Army Sheen",
+        "base_market_hash_name": "Negev | Army Sheen"
+    },
+    {
+        "weapon_type": "SG 553",
+        "skin_name": "Army Sheen",
+        "base_market_hash_name": "SG 553 | Army Sheen"
+    },
+    {
+        "weapon_type": "M4A4",
+        "skin_name": "Howl",
+        "base_market_hash_name": "M4A4 | Howl"
+    },
+    {
+        "weapon_type": "AK-47",
+        "skin_name": "Vulcan",
+        "base_market_hash_name": "AK-47 | Vulcan"
+    },
+    {
+        "weapon_type": "M4A1-S",
+        "skin_name": "Atomic Alloy",
+        "base_market_hash_name": "M4A1-S | Atomic Alloy"
+    },
+    {
+        "weapon_type": "USP-S",
+        "skin_name": "Orion",
+        "base_market_hash_name": "USP-S | Orion"
+    },
+    {
+        "weapon_type": "SCAR-20",
+        "skin_name": "Cyrex",
+        "base_market_hash_name": "SCAR-20 | Cyrex"
+    },
+    {
+        "weapon_type": "MAC-10",
+        "skin_name": "Curse",
+        "base_market_hash_name": "MAC-10 | Curse"
+    },
+    {
+        "weapon_type": "PP-Bizon",
+        "skin_name": "Antique",
+        "base_market_hash_name": "PP-Bizon | Antique"
+    },
+    {
+        "weapon_type": "AUG",
+        "skin_name": "Torque",
+        "base_market_hash_name": "AUG | Torque"
+    },
+    {
+        "weapon_type": "XM1014",
+        "skin_name": "Heaven Guard",
+        "base_market_hash_name": "XM1014 | Heaven Guard"
+    },
+    {
+        "weapon_type": "SSG 08",
+        "skin_name": "Slashed",
+        "base_market_hash_name": "SSG 08 | Slashed"
+    },
+    {
+        "weapon_type": "P90",
+        "skin_name": "Desert Warfare",
+        "base_market_hash_name": "P90 | Desert Warfare"
+    },
+    {
+        "weapon_type": "Tec-9",
+        "skin_name": "Isaac",
+        "base_market_hash_name": "Tec-9 | Isaac"
+    },
+    {
+        "weapon_type": "CZ75-Auto",
+        "skin_name": "Poison Dart",
+        "base_market_hash_name": "CZ75-Auto | Poison Dart"
+    },
+    {
+        "weapon_type": "Dual Berettas",
+        "skin_name": "Retribution",
+        "base_market_hash_name": "Dual Berettas | Retribution"
+    },
+    {
+        "weapon_type": "Galil AR",
+        "skin_name": "Kami",
+        "base_market_hash_name": "Galil AR | Kami"
+    },
+    {
+        "weapon_type": "M4A4",
+        "skin_name": "Desert-Strike",
+        "base_market_hash_name": "M4A4 | Desert-Strike"
+    },
+    {
+        "weapon_type": "MAC-10",
+        "skin_name": "Tatter",
+        "base_market_hash_name": "MAC-10 | Tatter"
+    },
+    {
+        "weapon_type": "P90",
+        "skin_name": "Module",
+        "base_market_hash_name": "P90 | Module"
+    },
+    {
+        "weapon_type": "CZ75-Auto",
+        "skin_name": "Twist",
+        "base_market_hash_name": "CZ75-Auto | Twist"
+    },
+    {
+        "weapon_type": "P2000",
+        "skin_name": "Pulse",
+        "base_market_hash_name": "P2000 | Pulse"
+    },
+    {
+        "weapon_type": "AK-47",
+        "skin_name": "Jet Set",
+        "base_market_hash_name": "AK-47 | Jet Set"
+    },
+    {
+        "weapon_type": "Desert Eagle",
+        "skin_name": "Pilot",
+        "base_market_hash_name": "Desert Eagle | Pilot"
+    },
+    {
+        "weapon_type": "AK-47",
+        "skin_name": "First Class",
+        "base_market_hash_name": "AK-47 | First Class"
+    },
+    {
+        "weapon_type": "Sawed-Off",
+        "skin_name": "First Class",
+        "base_market_hash_name": "Sawed-Off | First Class"
+    },
+    {
+        "weapon_type": "XM1014",
+        "skin_name": "Red Leather",
+        "base_market_hash_name": "XM1014 | Red Leather"
+    },
+    {
+        "weapon_type": "USP-S",
+        "skin_name": "Business Class",
+        "base_market_hash_name": "USP-S | Business Class"
+    },
+    {
+        "weapon_type": "MAC-10",
+        "skin_name": "Commuter",
+        "base_market_hash_name": "MAC-10 | Commuter"
+    },
+    {
+        "weapon_type": "P90",
+        "skin_name": "Leather",
+        "base_market_hash_name": "P90 | Leather"
+    },
+    {
+        "weapon_type": "P2000",
+        "skin_name": "Coach Class",
+        "base_market_hash_name": "P2000 | Coach Class"
+    },
+    {
+        "weapon_type": "SG 553",
+        "skin_name": "Traveler",
+        "base_market_hash_name": "SG 553 | Traveler"
+    },
+    {
+        "weapon_type": "SSG 08",
+        "skin_name": "Sand Dune",
+        "base_market_hash_name": "SSG 08 | Sand Dune"
+    },
+    {
+        "weapon_type": "MP7",
+        "skin_name": "Olive Plaid",
+        "base_market_hash_name": "MP7 | Olive Plaid"
+    },
+    {
+        "weapon_type": "MP9",
+        "skin_name": "Green Plaid",
+        "base_market_hash_name": "MP9 | Green Plaid"
+    },
+    {
+        "weapon_type": "CZ75-Auto",
+        "skin_name": "Green Plaid",
+        "base_market_hash_name": "CZ75-Auto | Green Plaid"
+    },
+    {
+        "weapon_type": "G3SG1",
+        "skin_name": "Contractor",
+        "base_market_hash_name": "G3SG1 | Contractor"
+    },
+    {
+        "weapon_type": "P90",
+        "skin_name": "Asiimov",
+        "base_market_hash_name": "P90 | Asiimov"
+    },
+    {
+        "weapon_type": "M4A1-S",
+        "skin_name": "Cyrex",
+        "base_market_hash_name": "M4A1-S | Cyrex"
+    },
+    {
+        "weapon_type": "Five-SeveN",
+        "skin_name": "Fowl Play",
+        "base_market_hash_name": "Five-SeveN | Fowl Play"
+    },
+    {
+        "weapon_type": "Glock-18",
+        "skin_name": "Water Elemental",
+        "base_market_hash_name": "Glock-18 | Water Elemental"
+    },
+    {
+        "weapon_type": "Desert Eagle",
+        "skin_name": "Conspiracy",
+        "base_market_hash_name": "Desert Eagle | Conspiracy"
+    },
+    {
+        "weapon_type": "Nova",
+        "skin_name": "Koi",
+        "base_market_hash_name": "Nova | Koi"
+    },
+    {
+        "weapon_type": "PP-Bizon",
+        "skin_name": "Osiris",
+        "base_market_hash_name": "PP-Bizon | Osiris"
+    },
+    {
+        "weapon_type": "CZ75-Auto",
+        "skin_name": "Tigris",
+        "base_market_hash_name": "CZ75-Auto | Tigris"
+    },
+    {
+        "weapon_type": "P250",
+        "skin_name": "Supernova",
+        "base_market_hash_name": "P250 | Supernova"
+    },
+    {
+        "weapon_type": "SSG 08",
+        "skin_name": "Abyss",
+        "base_market_hash_name": "SSG 08 | Abyss"
+    },
+    {
+        "weapon_type": "MP7",
+        "skin_name": "Urban Hazard",
+        "base_market_hash_name": "MP7 | Urban Hazard"
+    },
+    {
+        "weapon_type": "Negev",
+        "skin_name": "Desert-Strike",
+        "base_market_hash_name": "Negev | Desert-Strike"
+    },
+    {
+        "weapon_type": "UMP-45",
+        "skin_name": "Labyrinth",
+        "base_market_hash_name": "UMP-45 | Labyrinth"
+    },
+    {
+        "weapon_type": "P2000",
+        "skin_name": "Ivory",
+        "base_market_hash_name": "P2000 | Ivory"
+    },
+    {
+        "weapon_type": "AWP",
+        "skin_name": "Dragon Lore",
+        "base_market_hash_name": "AWP | Dragon Lore"
+    },
+    {
+        "weapon_type": "M4A1-S",
+        "skin_name": "Knight",
+        "base_market_hash_name": "M4A1-S | Knight"
+    },
+    {
+        "weapon_type": "Desert Eagle",
+        "skin_name": "Hand Cannon",
+        "base_market_hash_name": "Desert Eagle | Hand Cannon"
+    },
+    {
+        "weapon_type": "CZ75-Auto",
+        "skin_name": "Chalice",
+        "base_market_hash_name": "CZ75-Auto | Chalice"
+    },
+    {
+        "weapon_type": "MP9",
+        "skin_name": "Dark Age",
+        "base_market_hash_name": "MP9 | Dark Age"
+    },
+    {
+        "weapon_type": "P2000",
+        "skin_name": "Chainmail",
+        "base_market_hash_name": "P2000 | Chainmail"
+    },
+    {
+        "weapon_type": "USP-S",
+        "skin_name": "Royal Blue",
+        "base_market_hash_name": "USP-S | Royal Blue"
+    },
+    {
+        "weapon_type": "Nova",
+        "skin_name": "Green Apple",
+        "base_market_hash_name": "Nova | Green Apple"
+    },
+    {
+        "weapon_type": "MAG-7",
+        "skin_name": "Silver",
+        "base_market_hash_name": "MAG-7 | Silver"
+    },
+    {
+        "weapon_type": "Sawed-Off",
+        "skin_name": "Rust Coat",
+        "base_market_hash_name": "Sawed-Off | Rust Coat"
+    },
+    {
+        "weapon_type": "P90",
+        "skin_name": "Storm",
+        "base_market_hash_name": "P90 | Storm"
+    },
+    {
+        "weapon_type": "UMP-45",
+        "skin_name": "Indigo",
+        "base_market_hash_name": "UMP-45 | Indigo"
+    },
+    {
+        "weapon_type": "MAC-10",
+        "skin_name": "Indigo",
+        "base_market_hash_name": "MAC-10 | Indigo"
+    },
+    {
+        "weapon_type": "SCAR-20",
+        "skin_name": "Storm",
+        "base_market_hash_name": "SCAR-20 | Storm"
+    },
+    {
+        "weapon_type": "Dual Berettas",
+        "skin_name": "Briar",
+        "base_market_hash_name": "Dual Berettas | Briar"
+    },
+    {
+        "weapon_type": "Glock-18",
+        "skin_name": "Candy Apple",
+        "base_market_hash_name": "Glock-18 | Candy Apple"
+    },
+    {
+        "weapon_type": "M4A1-S",
+        "skin_name": "Master Piece",
+        "base_market_hash_name": "M4A1-S | Master Piece"
+    },
+    {
+        "weapon_type": "USP-S",
+        "skin_name": "Road Rash",
+        "base_market_hash_name": "USP-S | Road Rash"
+    },
+    {
+        "weapon_type": "AWP",
+        "skin_name": "Pink DDPAT",
+        "base_market_hash_name": "AWP | Pink DDPAT"
+    },
+    {
+        "weapon_type": "SSG 08",
+        "skin_name": "Detour",
+        "base_market_hash_name": "SSG 08 | Detour"
+    },
+    {
+        "weapon_type": "XM1014",
+        "skin_name": "VariCamo Blue",
+        "base_market_hash_name": "XM1014 | VariCamo Blue"
+    },
+    {
+        "weapon_type": "CZ75-Auto",
+        "skin_name": "Nitro",
+        "base_market_hash_name": "CZ75-Auto | Nitro"
+    },
+    {
+        "weapon_type": "MP7",
+        "skin_name": "Gunsmoke",
+        "base_market_hash_name": "MP7 | Gunsmoke"
+    },
+    {
+        "weapon_type": "Glock-18",
+        "skin_name": "Night",
+        "base_market_hash_name": "Glock-18 | Night"
+    },
+    {
+        "weapon_type": "Desert Eagle",
+        "skin_name": "Urban DDPAT",
+        "base_market_hash_name": "Desert Eagle | Urban DDPAT"
+    },
+    {
+        "weapon_type": "P2000",
+        "skin_name": "Grassland",
+        "base_market_hash_name": "P2000 | Grassland"
+    },
+    {
+        "weapon_type": "Sawed-Off",
+        "skin_name": "Sage Spray",
+        "base_market_hash_name": "Sawed-Off | Sage Spray"
+    },
+    {
+        "weapon_type": "M249",
+        "skin_name": "Contrast Spray",
+        "base_market_hash_name": "M249 | Contrast Spray"
+    },
+    {
+        "weapon_type": "MP9",
+        "skin_name": "Storm",
+        "base_market_hash_name": "MP9 | Storm"
+    },
+    {
+        "weapon_type": "UMP-45",
+        "skin_name": "Scorched",
+        "base_market_hash_name": "UMP-45 | Scorched"
+    },
+    {
+        "weapon_type": "MAG-7",
+        "skin_name": "Storm",
+        "base_market_hash_name": "MAG-7 | Storm"
+    },
+    {
+        "weapon_type": "AK-47",
+        "skin_name": "Jaguar",
+        "base_market_hash_name": "AK-47 | Jaguar"
+    },
+    {
+        "weapon_type": "M4A4",
+        "skin_name": "Bullet Rain",
+        "base_market_hash_name": "M4A4 | Bullet Rain"
+    },
+    {
+        "weapon_type": "Nova",
+        "skin_name": "Bloomstick",
+        "base_market_hash_name": "Nova | Bloomstick"
+    },
+    {
+        "weapon_type": "AUG",
+        "skin_name": "Bengal Tiger",
+        "base_market_hash_name": "AUG | Bengal Tiger"
+    },
+    {
+        "weapon_type": "P2000",
+        "skin_name": "Corticera",
+        "base_market_hash_name": "P2000 | Corticera"
+    },
+    {
+        "weapon_type": "AWP",
+        "skin_name": "Corticera",
+        "base_market_hash_name": "AWP | Corticera"
+    },
+    {
+        "weapon_type": "MP7",
+        "skin_name": "Ocean Foam",
+        "base_market_hash_name": "MP7 | Ocean Foam"
+    },
+    {
+        "weapon_type": "PP-Bizon",
+        "skin_name": "Blue Streak",
+        "base_market_hash_name": "PP-Bizon | Blue Streak"
+    },
+    {
+        "weapon_type": "P90",
+        "skin_name": "Virus",
+        "base_market_hash_name": "P90 | Virus"
+    },
+    {
+        "weapon_type": "Glock-18",
+        "skin_name": "Steel Disruption",
+        "base_market_hash_name": "Glock-18 | Steel Disruption"
+    },
+    {
+        "weapon_type": "Desert Eagle",
+        "skin_name": "Crimson Web",
+        "base_market_hash_name": "Desert Eagle | Crimson Web"
+    },
+    {
+        "weapon_type": "SSG 08",
+        "skin_name": "Dark Water",
+        "base_market_hash_name": "SSG 08 | Dark Water"
+    },
+    {
+        "weapon_type": "MAC-10",
+        "skin_name": "Ultraviolet",
+        "base_market_hash_name": "MAC-10 | Ultraviolet"
+    },
+    {
+        "weapon_type": "Negev",
+        "skin_name": "Bratatat",
+        "base_market_hash_name": "Negev | Bratatat"
+    },
+    {
+        "weapon_type": "XM1014",
+        "skin_name": "Red Python",
+        "base_market_hash_name": "XM1014 | Red Python"
+    },
+    {
+        "weapon_type": "CZ75-Auto",
+        "skin_name": "Hexane",
+        "base_market_hash_name": "CZ75-Auto | Hexane"
+    },
+    {
+        "weapon_type": "USP-S",
+        "skin_name": "Blood Tiger",
+        "base_market_hash_name": "USP-S | Blood Tiger"
+    },
+    {
+        "weapon_type": "USP-S",
+        "skin_name": "Caiman",
+        "base_market_hash_name": "USP-S | Caiman"
+    },
+    {
+        "weapon_type": "FAMAS",
+        "skin_name": "Styx",
+        "base_market_hash_name": "FAMAS | Styx"
+    },
+    {
+        "weapon_type": "Galil AR",
+        "skin_name": "Cerberus",
+        "base_market_hash_name": "Galil AR | Cerberus"
+    },
+    {
+        "weapon_type": "MAC-10",
+        "skin_name": "Nuclear Garden",
+        "base_market_hash_name": "MAC-10 | Nuclear Garden"
+    },
+    {
+        "weapon_type": "MP9",
+        "skin_name": "Setting Sun",
+        "base_market_hash_name": "MP9 | Setting Sun"
+    },
+    {
+        "weapon_type": "XM1014",
+        "skin_name": "Bone Machine",
+        "base_market_hash_name": "XM1014 | Bone Machine"
+    },
+    {
+        "weapon_type": "Tec-9",
+        "skin_name": "Toxic",
+        "base_market_hash_name": "Tec-9 | Toxic"
+    },
+    {
+        "weapon_type": "Glock-18",
+        "skin_name": "Reactor",
+        "base_market_hash_name": "Glock-18 | Reactor"
+    },
+    {
+        "weapon_type": "Negev",
+        "skin_name": "Nuclear Waste",
+        "base_market_hash_name": "Negev | Nuclear Waste"
+    },
+    {
+        "weapon_type": "PP-Bizon",
+        "skin_name": "Chemical Green",
+        "base_market_hash_name": "PP-Bizon | Chemical Green"
+    },
+    {
+        "weapon_type": "AUG",
+        "skin_name": "Radiation Hazard",
+        "base_market_hash_name": "AUG | Radiation Hazard"
+    },
+    {
+        "weapon_type": "Five-SeveN",
+        "skin_name": "Hot Shot",
+        "base_market_hash_name": "Five-SeveN | Hot Shot"
+    },
+    {
+        "weapon_type": "P250",
+        "skin_name": "Contamination",
+        "base_market_hash_name": "P250 | Contamination"
+    },
+    {
+        "weapon_type": "SG 553",
+        "skin_name": "Fallout Warning",
+        "base_market_hash_name": "SG 553 | Fallout Warning"
+    },
+    {
+        "weapon_type": "P2000",
+        "skin_name": "Fire Elemental",
+        "base_market_hash_name": "P2000 | Fire Elemental"
+    },
+    {
+        "weapon_type": "AK-47",
+        "skin_name": "Wasteland Rebel",
+        "base_market_hash_name": "AK-47 | Wasteland Rebel"
+    },
+    {
+        "weapon_type": "XM1014",
+        "skin_name": "Tranquility",
+        "base_market_hash_name": "XM1014 | Tranquility"
+    },
+    {
+        "weapon_type": "P250",
+        "skin_name": "Cartel",
+        "base_market_hash_name": "P250 | Cartel"
+    },
+    {
+        "weapon_type": "SCAR-20",
+        "skin_name": "Cardiac",
+        "base_market_hash_name": "SCAR-20 | Cardiac"
+    },
+    {
+        "weapon_type": "Sawed-Off",
+        "skin_name": "Highwayman",
+        "base_market_hash_name": "Sawed-Off | Highwayman"
+    },
+    {
+        "weapon_type": "Glock-18",
+        "skin_name": "Grinder",
+        "base_market_hash_name": "Glock-18 | Grinder"
+    },
+    {
+        "weapon_type": "M4A1-S",
+        "skin_name": "Basilisk",
+        "base_market_hash_name": "M4A1-S | Basilisk"
+    },
+    {
+        "weapon_type": "M4A4",
+        "skin_name": "Griffin",
+        "base_market_hash_name": "M4A4 | Griffin"
+    },
+    {
+        "weapon_type": "MP9",
+        "skin_name": "Dart",
+        "base_market_hash_name": "MP9 | Dart"
+    },
+    {
+        "weapon_type": "UMP-45",
+        "skin_name": "Delusion",
+        "base_market_hash_name": "UMP-45 | Delusion"
+    },
+    {
+        "weapon_type": "Five-SeveN",
+        "skin_name": "Urban Hazard",
+        "base_market_hash_name": "Five-SeveN | Urban Hazard"
+    },
+    {
+        "weapon_type": "G3SG1",
+        "skin_name": "Murky",
+        "base_market_hash_name": "G3SG1 | Murky"
+    },
+    {
+        "weapon_type": "MAG-7",
+        "skin_name": "Firestarter",
+        "base_market_hash_name": "MAG-7 | Firestarter"
+    },
+    {
+        "weapon_type": "AWP",
+        "skin_name": "Man-o'-war",
+        "base_market_hash_name": "AWP | Man-o'-war"
+    },
+    {
+        "weapon_type": "Galil AR",
+        "skin_name": "Chatterbox",
+        "base_market_hash_name": "Galil AR | Chatterbox"
+    },
+    {
+        "weapon_type": "AK-47",
+        "skin_name": "Cartel",
+        "base_market_hash_name": "AK-47 | Cartel"
+    },
+    {
+        "weapon_type": "P250",
+        "skin_name": "Muertos",
+        "base_market_hash_name": "P250 | Muertos"
+    },
+    {
+        "weapon_type": "M4A4",
+        "skin_name": "龍王 (Dragon King)",
+        "base_market_hash_name": "M4A4 | 龍王 (Dragon King)"
+    },
+    {
+        "weapon_type": "MAC-10",
+        "skin_name": "Malachite",
+        "base_market_hash_name": "MAC-10 | Malachite"
+    },
+    {
+        "weapon_type": "Sawed-Off",
+        "skin_name": "Serenity",
+        "base_market_hash_name": "Sawed-Off | Serenity"
+    },
+    {
+        "weapon_type": "Desert Eagle",
+        "skin_name": "Naga",
+        "base_market_hash_name": "Desert Eagle | Naga"
+    },
+    {
+        "weapon_type": "Dual Berettas",
+        "skin_name": "Urban Shock",
+        "base_market_hash_name": "Dual Berettas | Urban Shock"
+    },
+    {
+        "weapon_type": "M249",
+        "skin_name": "System Lock",
+        "base_market_hash_name": "M249 | System Lock"
+    },
+    {
+        "weapon_type": "MP9",
+        "skin_name": "Deadly Poison",
+        "base_market_hash_name": "MP9 | Deadly Poison"
+    },
+    {
+        "weapon_type": "XM1014",
+        "skin_name": "Quicksilver",
+        "base_market_hash_name": "XM1014 | Quicksilver"
+    },
+    {
+        "weapon_type": "Glock-18",
+        "skin_name": "Catacombs",
+        "base_market_hash_name": "Glock-18 | Catacombs"
+    },
+    {
+        "weapon_type": "SCAR-20",
+        "skin_name": "Grotto",
+        "base_market_hash_name": "SCAR-20 | Grotto"
+    },
+    {
+        "weapon_type": "MAC-10",
+        "skin_name": "Neon Rider",
+        "base_market_hash_name": "MAC-10 | Neon Rider"
+    },
+    {
+        "weapon_type": "M4A1-S",
+        "skin_name": "Hyper Beast",
+        "base_market_hash_name": "M4A1-S | Hyper Beast"
+    },
+    {
+        "weapon_type": "Five-SeveN",
+        "skin_name": "Monkey Business",
+        "base_market_hash_name": "Five-SeveN | Monkey Business"
+    },
+    {
+        "weapon_type": "FAMAS",
+        "skin_name": "Djinn",
+        "base_market_hash_name": "FAMAS | Djinn"
+    },
+    {
+        "weapon_type": "Galil AR",
+        "skin_name": "Eco",
+        "base_market_hash_name": "Galil AR | Eco"
+    },
+    {
+        "weapon_type": "MAG-7",
+        "skin_name": "Heat",
+        "base_market_hash_name": "MAG-7 | Heat"
+    },
+    {
+        "weapon_type": "UMP-45",
+        "skin_name": "Grand Prix",
+        "base_market_hash_name": "UMP-45 | Grand Prix"
+    },
+    {
+        "weapon_type": "CZ75-Auto",
+        "skin_name": "Pole Position",
+        "base_market_hash_name": "CZ75-Auto | Pole Position"
+    },
+    {
+        "weapon_type": "AWP",
+        "skin_name": "Worm God",
+        "base_market_hash_name": "AWP | Worm God"
+    },
+    {
+        "weapon_type": "Sawed-Off",
+        "skin_name": "Origami",
+        "base_market_hash_name": "Sawed-Off | Origami"
+    },
+    {
+        "weapon_type": "MP7",
+        "skin_name": "Armor Core",
+        "base_market_hash_name": "MP7 | Armor Core"
+    },
+    {
+        "weapon_type": "Negev",
+        "skin_name": "Man-o'-war",
+        "base_market_hash_name": "Negev | Man-o'-war"
+    },
+    {
+        "weapon_type": "Desert Eagle",
+        "skin_name": "Bronze Deco",
+        "base_market_hash_name": "Desert Eagle | Bronze Deco"
+    },
+    {
+        "weapon_type": "AK-47",
+        "skin_name": "Elite Build",
+        "base_market_hash_name": "AK-47 | Elite Build"
+    },
+    {
+        "weapon_type": "P250",
+        "skin_name": "Valence",
+        "base_market_hash_name": "P250 | Valence"
+    },
+    {
+        "weapon_type": "Glock-18",
+        "skin_name": "Twilight Galaxy",
+        "base_market_hash_name": "Glock-18 | Twilight Galaxy"
+    },
+    {
+        "weapon_type": "M4A1-S",
+        "skin_name": "Hot Rod",
+        "base_market_hash_name": "M4A1-S | Hot Rod"
+    },
+    {
+        "weapon_type": "Dual Berettas",
+        "skin_name": "Duelist",
+        "base_market_hash_name": "Dual Berettas | Duelist"
+    },
+    {
+        "weapon_type": "SG 553",
+        "skin_name": "Bulldozer",
+        "base_market_hash_name": "SG 553 | Bulldozer"
+    },
+    {
+        "weapon_type": "MAC-10",
+        "skin_name": "Fade",
+        "base_market_hash_name": "MAC-10 | Fade"
+    },
+    {
+        "weapon_type": "MP7",
+        "skin_name": "Full Stop",
+        "base_market_hash_name": "MP7 | Full Stop"
+    },
+    {
+        "weapon_type": "Five-SeveN",
+        "skin_name": "Nitro",
+        "base_market_hash_name": "Five-SeveN | Nitro"
+    },
+    {
+        "weapon_type": "CZ75-Auto",
+        "skin_name": "Emerald",
+        "base_market_hash_name": "CZ75-Auto | Emerald"
+    },
+    {
+        "weapon_type": "P250",
+        "skin_name": "Whiteout",
+        "base_market_hash_name": "P250 | Whiteout"
+    },
+    {
+        "weapon_type": "Desert Eagle",
+        "skin_name": "Night",
+        "base_market_hash_name": "Desert Eagle | Night"
+    },
+    {
+        "weapon_type": "USP-S",
+        "skin_name": "Para Green",
+        "base_market_hash_name": "USP-S | Para Green"
+    },
+    {
+        "weapon_type": "Galil AR",
+        "skin_name": "Urban Rubble",
+        "base_market_hash_name": "Galil AR | Urban Rubble"
+    },
+    {
+        "weapon_type": "M249",
+        "skin_name": "Impact Drill",
+        "base_market_hash_name": "M249 | Impact Drill"
+    },
+    {
+        "weapon_type": "CZ75-Auto",
+        "skin_name": "Army Sheen",
+        "base_market_hash_name": "CZ75-Auto | Army Sheen"
+    },
+    {
+        "weapon_type": "SCAR-20",
+        "skin_name": "Army Sheen",
+        "base_market_hash_name": "SCAR-20 | Army Sheen"
+    },
+    {
+        "weapon_type": "MAG-7",
+        "skin_name": "Seabird",
+        "base_market_hash_name": "MAG-7 | Seabird"
+    },
+    {
+        "weapon_type": "AK-47",
+        "skin_name": "Aquamarine Revenge",
+        "base_market_hash_name": "AK-47 | Aquamarine Revenge"
+    },
+    {
+        "weapon_type": "AWP",
+        "skin_name": "Hyper Beast",
+        "base_market_hash_name": "AWP | Hyper Beast"
+    },
+    {
+        "weapon_type": "MP7",
+        "skin_name": "Nemesis",
+        "base_market_hash_name": "MP7 | Nemesis"
+    },
+    {
+        "weapon_type": "CZ75-Auto",
+        "skin_name": "Yellow Jacket",
+        "base_market_hash_name": "CZ75-Auto | Yellow Jacket"
+    },
+    {
+        "weapon_type": "SG 553",
+        "skin_name": "Cyrex",
+        "base_market_hash_name": "SG 553 | Cyrex"
+    },
+    {
+        "weapon_type": "Negev",
+        "skin_name": "Loudmouth",
+        "base_market_hash_name": "Negev | Loudmouth"
+    },
+    {
+        "weapon_type": "MP9",
+        "skin_name": "Ruby Poison Dart",
+        "base_market_hash_name": "MP9 | Ruby Poison Dart"
+    },
+    {
+        "weapon_type": "P2000",
+        "skin_name": "Handgun",
+        "base_market_hash_name": "P2000 | Handgun"
+    },
+    {
+        "weapon_type": "FAMAS",
+        "skin_name": "Neural Net",
+        "base_market_hash_name": "FAMAS | Neural Net"
+    },
+    {
+        "weapon_type": "M4A4",
+        "skin_name": "Evil Daimyo",
+        "base_market_hash_name": "M4A4 | Evil Daimyo"
+    },
+    {
+        "weapon_type": "Nova",
+        "skin_name": "Ranger",
+        "base_market_hash_name": "Nova | Ranger"
+    },
+    {
+        "weapon_type": "UMP-45",
+        "skin_name": "Riot",
+        "base_market_hash_name": "UMP-45 | Riot"
+    },
+    {
+        "weapon_type": "P90",
+        "skin_name": "Elite Build",
+        "base_market_hash_name": "P90 | Elite Build"
+    },
+    {
+        "weapon_type": "Glock-18",
+        "skin_name": "Bunsen Burner",
+        "base_market_hash_name": "Glock-18 | Bunsen Burner"
+    },
+    {
+        "weapon_type": "USP-S",
+        "skin_name": "Torque",
+        "base_market_hash_name": "USP-S | Torque"
+    },
+    {
+        "weapon_type": "Galil AR",
+        "skin_name": "Rocket Pop",
+        "base_market_hash_name": "Galil AR | Rocket Pop"
+    },
+    {
+        "weapon_type": "AWP",
+        "skin_name": "Medusa",
+        "base_market_hash_name": "AWP | Medusa"
+    },
+    {
+        "weapon_type": "M4A4",
+        "skin_name": "Poseidon",
+        "base_market_hash_name": "M4A4 | Poseidon"
+    },
+    {
+        "weapon_type": "M4A1-S",
+        "skin_name": "Icarus Fell",
+        "base_market_hash_name": "M4A1-S | Icarus Fell"
+    },
+    {
+        "weapon_type": "G3SG1",
+        "skin_name": "Chronos",
+        "base_market_hash_name": "G3SG1 | Chronos"
+    },
+    {
+        "weapon_type": "MP9",
+        "skin_name": "Pandora's Box",
+        "base_market_hash_name": "MP9 | Pandora's Box"
+    },
+    {
+        "weapon_type": "UMP-45",
+        "skin_name": "Minotaur's Labyrinth",
+        "base_market_hash_name": "UMP-45 | Minotaur's Labyrinth"
+    },
+    {
+        "weapon_type": "M249",
+        "skin_name": "Shipping Forecast",
+        "base_market_hash_name": "M249 | Shipping Forecast"
+    },
+    {
+        "weapon_type": "Tec-9",
+        "skin_name": "Hades",
+        "base_market_hash_name": "Tec-9 | Hades"
+    },
+    {
+        "weapon_type": "P2000",
+        "skin_name": "Pathfinder",
+        "base_market_hash_name": "P2000 | Pathfinder"
+    },
+    {
+        "weapon_type": "AWP",
+        "skin_name": "Sun in Leo",
+        "base_market_hash_name": "AWP | Sun in Leo"
+    },
+    {
+        "weapon_type": "Nova",
+        "skin_name": "Moon in Libra",
+        "base_market_hash_name": "Nova | Moon in Libra"
+    },
+    {
+        "weapon_type": "MP7",
+        "skin_name": "Asterion",
+        "base_market_hash_name": "MP7 | Asterion"
+    },
+    {
+        "weapon_type": "AUG",
+        "skin_name": "Daedalus",
+        "base_market_hash_name": "AUG | Daedalus"
+    },
+    {
+        "weapon_type": "Dual Berettas",
+        "skin_name": "Moon in Libra",
+        "base_market_hash_name": "Dual Berettas | Moon in Libra"
+    },
+    {
+        "weapon_type": "AUG",
+        "skin_name": "Akihabara Accept",
+        "base_market_hash_name": "AUG | Akihabara Accept"
+    },
+    {
+        "weapon_type": "AK-47",
+        "skin_name": "Hydroponic",
+        "base_market_hash_name": "AK-47 | Hydroponic"
+    },
+    {
+        "weapon_type": "Five-SeveN",
+        "skin_name": "Neon Kimono",
+        "base_market_hash_name": "Five-SeveN | Neon Kimono"
+    },
+    {
+        "weapon_type": "Desert Eagle",
+        "skin_name": "Sunset Storm 弐",
+        "base_market_hash_name": "Desert Eagle | Sunset Storm 弐"
+    },
+    {
+        "weapon_type": "Desert Eagle",
+        "skin_name": "Sunset Storm 壱",
+        "base_market_hash_name": "Desert Eagle | Sunset Storm 壱"
+    },
+    {
+        "weapon_type": "M4A4",
+        "skin_name": "Daybreak",
+        "base_market_hash_name": "M4A4 | Daybreak"
+    },
+    {
+        "weapon_type": "Tec-9",
+        "skin_name": "Terrace",
+        "base_market_hash_name": "Tec-9 | Terrace"
+    },
+    {
+        "weapon_type": "Galil AR",
+        "skin_name": "Aqua Terrace",
+        "base_market_hash_name": "Galil AR | Aqua Terrace"
+    },
+    {
+        "weapon_type": "MAG-7",
+        "skin_name": "Counter Terrace",
+        "base_market_hash_name": "MAG-7 | Counter Terrace"
+    },
+    {
+        "weapon_type": "Desert Eagle",
+        "skin_name": "Midnight Storm",
+        "base_market_hash_name": "Desert Eagle | Midnight Storm"
+    },
+    {
+        "weapon_type": "P250",
+        "skin_name": "Crimson Kimono",
+        "base_market_hash_name": "P250 | Crimson Kimono"
+    },
+    {
+        "weapon_type": "Sawed-Off",
+        "skin_name": "Bamboo Shadow",
+        "base_market_hash_name": "Sawed-Off | Bamboo Shadow"
+    },
+    {
+        "weapon_type": "PP-Bizon",
+        "skin_name": "Bamboo Print",
+        "base_market_hash_name": "PP-Bizon | Bamboo Print"
+    },
+    {
+        "weapon_type": "Tec-9",
+        "skin_name": "Bamboo Forest",
+        "base_market_hash_name": "Tec-9 | Bamboo Forest"
+    },
+    {
+        "weapon_type": "G3SG1",
+        "skin_name": "Orange Kimono",
+        "base_market_hash_name": "G3SG1 | Orange Kimono"
+    },
+    {
+        "weapon_type": "P250",
+        "skin_name": "Mint Kimono",
+        "base_market_hash_name": "P250 | Mint Kimono"
+    },
+    {
+        "weapon_type": "M4A1-S",
+        "skin_name": "Golden Coil",
+        "base_market_hash_name": "M4A1-S | Golden Coil"
+    },
+    {
+        "weapon_type": "USP-S",
+        "skin_name": "Kill Confirmed",
+        "base_market_hash_name": "USP-S | Kill Confirmed"
+    },
+    {
+        "weapon_type": "AK-47",
+        "skin_name": "Frontside Misty",
+        "base_market_hash_name": "AK-47 | Frontside Misty"
+    },
+    {
+        "weapon_type": "G3SG1",
+        "skin_name": "Flux",
+        "base_market_hash_name": "G3SG1 | Flux"
+    },
+    {
+        "weapon_type": "SSG 08",
+        "skin_name": "Big Iron",
+        "base_market_hash_name": "SSG 08 | Big Iron"
+    },
+    {
+        "weapon_type": "MP7",
+        "skin_name": "Special Delivery",
+        "base_market_hash_name": "MP7 | Special Delivery"
+    },
+    {
+        "weapon_type": "M249",
+        "skin_name": "Nebula Crusader",
+        "base_market_hash_name": "M249 | Nebula Crusader"
+    },
+    {
+        "weapon_type": "Galil AR",
+        "skin_name": "Stone Cold",
+        "base_market_hash_name": "Galil AR | Stone Cold"
+    },
+    {
+        "weapon_type": "P250",
+        "skin_name": "Wingshot",
+        "base_market_hash_name": "P250 | Wingshot"
+    },
+    {
+        "weapon_type": "MAG-7",
+        "skin_name": "Cobalt Core",
+        "base_market_hash_name": "MAG-7 | Cobalt Core"
+    },
+    {
+        "weapon_type": "MAC-10",
+        "skin_name": "Rangeen",
+        "base_market_hash_name": "MAC-10 | Rangeen"
+    },
+    {
+        "weapon_type": "XM1014",
+        "skin_name": "Scumbria",
+        "base_market_hash_name": "XM1014 | Scumbria"
+    },
+    {
+        "weapon_type": "Glock-18",
+        "skin_name": "Wraiths",
+        "base_market_hash_name": "Glock-18 | Wraiths"
+    },
+    {
+        "weapon_type": "Dual Berettas",
+        "skin_name": "Dualing Dragons",
+        "base_market_hash_name": "Dual Berettas | Dualing Dragons"
+    },
+    {
+        "weapon_type": "FAMAS",
+        "skin_name": "Survivor Z",
+        "base_market_hash_name": "FAMAS | Survivor Z"
+    },
+    {
+        "weapon_type": "SCAR-20",
+        "skin_name": "Green Marine",
+        "base_market_hash_name": "SCAR-20 | Green Marine"
+    },
+    {
+        "weapon_type": "R8 Revolver",
+        "skin_name": "Bone Mask",
+        "base_market_hash_name": "R8 Revolver | Bone Mask"
+    },
+    {
+        "weapon_type": "R8 Revolver",
+        "skin_name": "Amber Fade",
+        "base_market_hash_name": "R8 Revolver | Amber Fade"
+    },
+    {
+        "weapon_type": "R8 Revolver",
+        "skin_name": "Fade",
+        "base_market_hash_name": "R8 Revolver | Fade"
+    },
+    {
+        "weapon_type": "M4A4",
+        "skin_name": "Royal Paladin",
+        "base_market_hash_name": "M4A4 | Royal Paladin"
+    },
+    {
+        "weapon_type": "P90",
+        "skin_name": "Shapewood",
+        "base_market_hash_name": "P90 | Shapewood"
+    },
+    {
+        "weapon_type": "AK-47",
+        "skin_name": "Point Disarray",
+        "base_market_hash_name": "AK-47 | Point Disarray"
+    },
+    {
+        "weapon_type": "G3SG1",
+        "skin_name": "The Executioner",
+        "base_market_hash_name": "G3SG1 | The Executioner"
+    },
+    {
+        "weapon_type": "Negev",
+        "skin_name": "Power Loader",
+        "base_market_hash_name": "Negev | Power Loader"
+    },
+    {
+        "weapon_type": "PP-Bizon",
+        "skin_name": "Fuel Rod",
+        "base_market_hash_name": "PP-Bizon | Fuel Rod"
+    },
+    {
+        "weapon_type": "XM1014",
+        "skin_name": "Teclu Burner",
+        "base_market_hash_name": "XM1014 | Teclu Burner"
+    },
+    {
+        "weapon_type": "Five-SeveN",
+        "skin_name": "Retrobution",
+        "base_market_hash_name": "Five-SeveN | Retrobution"
+    },
+    {
+        "weapon_type": "Tec-9",
+        "skin_name": "Avalanche",
+        "base_market_hash_name": "Tec-9 | Avalanche"
+    },
+    {
+        "weapon_type": "SG 553",
+        "skin_name": "Tiger Moth",
+        "base_market_hash_name": "SG 553 | Tiger Moth"
+    },
+    {
+        "weapon_type": "Sawed-Off",
+        "skin_name": "Yorick",
+        "base_market_hash_name": "Sawed-Off | Yorick"
+    },
+    {
+        "weapon_type": "AUG",
+        "skin_name": "Ricochet",
+        "base_market_hash_name": "AUG | Ricochet"
+    },
+    {
+        "weapon_type": "Desert Eagle",
+        "skin_name": "Corinthian",
+        "base_market_hash_name": "Desert Eagle | Corinthian"
+    },
+    {
+        "weapon_type": "P2000",
+        "skin_name": "Imperial",
+        "base_market_hash_name": "P2000 | Imperial"
+    },
+    {
+        "weapon_type": "R8 Revolver",
+        "skin_name": "Crimson Web",
+        "base_market_hash_name": "R8 Revolver | Crimson Web"
+    },
+    {
+        "weapon_type": "SCAR-20",
+        "skin_name": "Outbreak",
+        "base_market_hash_name": "SCAR-20 | Outbreak"
+    },
+    {
+        "weapon_type": "AK-47",
+        "skin_name": "Fuel Injector",
+        "base_market_hash_name": "AK-47 | Fuel Injector"
+    },
+    {
+        "weapon_type": "M4A4",
+        "skin_name": "The Battlestar",
+        "base_market_hash_name": "M4A4 | The Battlestar"
+    },
+    {
+        "weapon_type": "Nova",
+        "skin_name": "Hyper Beast",
+        "base_market_hash_name": "Nova | Hyper Beast"
+    },
+    {
+        "weapon_type": "Desert Eagle",
+        "skin_name": "Kumicho Dragon",
+        "base_market_hash_name": "Desert Eagle | Kumicho Dragon"
+    },
+    {
+        "weapon_type": "AWP",
+        "skin_name": "Elite Build",
+        "base_market_hash_name": "AWP | Elite Build"
+    },
+    {
+        "weapon_type": "MAG-7",
+        "skin_name": "Praetorian",
+        "base_market_hash_name": "MAG-7 | Praetorian"
+    },
+    {
+        "weapon_type": "MP7",
+        "skin_name": "Impire",
+        "base_market_hash_name": "MP7 | Impire"
+    },
+    {
+        "weapon_type": "Five-SeveN",
+        "skin_name": "Triumvirate",
+        "base_market_hash_name": "Five-SeveN | Triumvirate"
+    },
+    {
+        "weapon_type": "Glock-18",
+        "skin_name": "Royal Legion",
+        "base_market_hash_name": "Glock-18 | Royal Legion"
+    },
+    {
+        "weapon_type": "FAMAS",
+        "skin_name": "Valence",
+        "base_market_hash_name": "FAMAS | Valence"
+    },
+    {
+        "weapon_type": "SSG 08",
+        "skin_name": "Necropos",
+        "base_market_hash_name": "SSG 08 | Necropos"
+    },
+    {
+        "weapon_type": "MAC-10",
+        "skin_name": "Lapis Gator",
+        "base_market_hash_name": "MAC-10 | Lapis Gator"
+    },
+    {
+        "weapon_type": "PP-Bizon",
+        "skin_name": "Photic Zone",
+        "base_market_hash_name": "PP-Bizon | Photic Zone"
+    },
+    {
+        "weapon_type": "Tec-9",
+        "skin_name": "Jambiya",
+        "base_market_hash_name": "Tec-9 | Jambiya"
+    },
+    {
+        "weapon_type": "Dual Berettas",
+        "skin_name": "Cartel",
+        "base_market_hash_name": "Dual Berettas | Cartel"
+    },
+    {
+        "weapon_type": "USP-S",
+        "skin_name": "Lead Conduit",
+        "base_market_hash_name": "USP-S | Lead Conduit"
+    },
+    {
+        "weapon_type": "PP-Bizon",
+        "skin_name": "Judgement of Anubis",
+        "base_market_hash_name": "PP-Bizon | Judgement of Anubis"
+    },
+    {
+        "weapon_type": "M4A1-S",
+        "skin_name": "Chantico's Fire",
+        "base_market_hash_name": "M4A1-S | Chantico's Fire"
+    },
+    {
+        "weapon_type": "UMP-45",
+        "skin_name": "Primal Saber",
+        "base_market_hash_name": "UMP-45 | Primal Saber"
+    },
+    {
+        "weapon_type": "AUG",
+        "skin_name": "Fleet Flock",
+        "base_market_hash_name": "AUG | Fleet Flock"
+    },
+    {
+        "weapon_type": "P250",
+        "skin_name": "Asiimov",
+        "base_market_hash_name": "P250 | Asiimov"
+    },
+    {
+        "weapon_type": "SSG 08",
+        "skin_name": "Ghost Crusader",
+        "base_market_hash_name": "SSG 08 | Ghost Crusader"
+    },
+    {
+        "weapon_type": "XM1014",
+        "skin_name": "Black Tie",
+        "base_market_hash_name": "XM1014 | Black Tie"
+    },
+    {
+        "weapon_type": "Tec-9",
+        "skin_name": "Re-Entry",
+        "base_market_hash_name": "Tec-9 | Re-Entry"
+    },
+    {
+        "weapon_type": "CZ75-Auto",
+        "skin_name": "Red Astor",
+        "base_market_hash_name": "CZ75-Auto | Red Astor"
+    },
+    {
+        "weapon_type": "Galil AR",
+        "skin_name": "Firefight",
+        "base_market_hash_name": "Galil AR | Firefight"
+    },
+    {
+        "weapon_type": "Sawed-Off",
+        "skin_name": "Fubar",
+        "base_market_hash_name": "Sawed-Off | Fubar"
+    },
+    {
+        "weapon_type": "M249",
+        "skin_name": "Spectre",
+        "base_market_hash_name": "M249 | Spectre"
+    },
+    {
+        "weapon_type": "MP9",
+        "skin_name": "Bioleak",
+        "base_market_hash_name": "MP9 | Bioleak"
+    },
+    {
+        "weapon_type": "Dual Berettas",
+        "skin_name": "Ventilators",
+        "base_market_hash_name": "Dual Berettas | Ventilators"
+    },
+    {
+        "weapon_type": "P2000",
+        "skin_name": "Oceanic",
+        "base_market_hash_name": "P2000 | Oceanic"
+    },
+    {
+        "weapon_type": "G3SG1",
+        "skin_name": "Orange Crash",
+        "base_market_hash_name": "G3SG1 | Orange Crash"
+    },
+    {
+        "weapon_type": "SG 553",
+        "skin_name": "Atlas",
+        "base_market_hash_name": "SG 553 | Atlas"
+    },
+    {
+        "weapon_type": "Glock-18",
+        "skin_name": "Wasteland Rebel",
+        "base_market_hash_name": "Glock-18 | Wasteland Rebel"
+    },
+    {
+        "weapon_type": "M4A1-S",
+        "skin_name": "Mecha Industries",
+        "base_market_hash_name": "M4A1-S | Mecha Industries"
+    },
+    {
+        "weapon_type": "M4A4",
+        "skin_name": "Desolate Space",
+        "base_market_hash_name": "M4A4 | Desolate Space"
+    },
+    {
+        "weapon_type": "P2000",
+        "skin_name": "Imperial Dragon",
+        "base_market_hash_name": "P2000 | Imperial Dragon"
+    },
+    {
+        "weapon_type": "SCAR-20",
+        "skin_name": "Bloodsport",
+        "base_market_hash_name": "SCAR-20 | Bloodsport"
+    },
+    {
+        "weapon_type": "Sawed-Off",
+        "skin_name": "Limelight",
+        "base_market_hash_name": "Sawed-Off | Limelight"
+    },
+    {
+        "weapon_type": "AUG",
+        "skin_name": "Aristocrat",
+        "base_market_hash_name": "AUG | Aristocrat"
+    },
+    {
+        "weapon_type": "P90",
+        "skin_name": "Chopper",
+        "base_market_hash_name": "P90 | Chopper"
+    },
+    {
+        "weapon_type": "R8 Revolver",
+        "skin_name": "Reboot",
+        "base_market_hash_name": "R8 Revolver | Reboot"
+    },
+    {
+        "weapon_type": "AWP",
+        "skin_name": "Phobos",
+        "base_market_hash_name": "AWP | Phobos"
+    },
+    {
+        "weapon_type": "Nova",
+        "skin_name": "Exo",
+        "base_market_hash_name": "Nova | Exo"
+    },
+    {
+        "weapon_type": "Five-SeveN",
+        "skin_name": "Violent Daimyo",
+        "base_market_hash_name": "Five-SeveN | Violent Daimyo"
+    },
+    {
+        "weapon_type": "MAC-10",
+        "skin_name": "Carnivore",
+        "base_market_hash_name": "MAC-10 | Carnivore"
+    },
+    {
+        "weapon_type": "PP-Bizon",
+        "skin_name": "Harvester",
+        "base_market_hash_name": "PP-Bizon | Harvester"
+    },
+    {
+        "weapon_type": "Tec-9",
+        "skin_name": "Ice Cap",
+        "base_market_hash_name": "Tec-9 | Ice Cap"
+    },
+    {
+        "weapon_type": "SG 553",
+        "skin_name": "Aerial",
+        "base_market_hash_name": "SG 553 | Aerial"
+    },
+    {
+        "weapon_type": "P250",
+        "skin_name": "Iron Clad",
+        "base_market_hash_name": "P250 | Iron Clad"
+    },
+    {
+        "weapon_type": "AK-47",
+        "skin_name": "Neon Revolution",
+        "base_market_hash_name": "AK-47 | Neon Revolution"
+    },
+    {
+        "weapon_type": "FAMAS",
+        "skin_name": "Roll Cage",
+        "base_market_hash_name": "FAMAS | Roll Cage"
+    },
+    {
+        "weapon_type": "AUG",
+        "skin_name": "Syd Mead",
+        "base_market_hash_name": "AUG | Syd Mead"
+    },
+    {
+        "weapon_type": "MP9",
+        "skin_name": "Airlock",
+        "base_market_hash_name": "MP9 | Airlock"
+    },
+    {
+        "weapon_type": "Tec-9",
+        "skin_name": "Fuel Injector",
+        "base_market_hash_name": "Tec-9 | Fuel Injector"
+    },
+    {
+        "weapon_type": "Desert Eagle",
+        "skin_name": "Directive",
+        "base_market_hash_name": "Desert Eagle | Directive"
+    },
+    {
+        "weapon_type": "Glock-18",
+        "skin_name": "Weasel",
+        "base_market_hash_name": "Glock-18 | Weasel"
+    },
+    {
+        "weapon_type": "MAG-7",
+        "skin_name": "Petroglyph",
+        "base_market_hash_name": "MAG-7 | Petroglyph"
+    },
+    {
+        "weapon_type": "SCAR-20",
+        "skin_name": "Powercore",
+        "base_market_hash_name": "SCAR-20 | Powercore"
+    },
+    {
+        "weapon_type": "SG 553",
+        "skin_name": "Triarch",
+        "base_market_hash_name": "SG 553 | Triarch"
+    },
+    {
+        "weapon_type": "CZ75-Auto",
+        "skin_name": "Imprint",
+        "base_market_hash_name": "CZ75-Auto | Imprint"
+    },
+    {
+        "weapon_type": "Five-SeveN",
+        "skin_name": "Scumbria",
+        "base_market_hash_name": "Five-SeveN | Scumbria"
+    },
+    {
+        "weapon_type": "G3SG1",
+        "skin_name": "Ventilator",
+        "base_market_hash_name": "G3SG1 | Ventilator"
+    },
+    {
+        "weapon_type": "Negev",
+        "skin_name": "Dazzle",
+        "base_market_hash_name": "Negev | Dazzle"
+    },
+    {
+        "weapon_type": "P90",
+        "skin_name": "Grim",
+        "base_market_hash_name": "P90 | Grim"
+    },
+    {
+        "weapon_type": "UMP-45",
+        "skin_name": "Briefing",
+        "base_market_hash_name": "UMP-45 | Briefing"
+    },
+    {
+        "weapon_type": "XM1014",
+        "skin_name": "Slipstream",
+        "base_market_hash_name": "XM1014 | Slipstream"
+    },
+    {
+        "weapon_type": "SSG 08",
+        "skin_name": "Dragonfire",
+        "base_market_hash_name": "SSG 08 | Dragonfire"
+    },
+    {
+        "weapon_type": "M4A4",
+        "skin_name": "Buzz Kill",
+        "base_market_hash_name": "M4A4 | Buzz Kill"
+    },
+    {
+        "weapon_type": "FAMAS",
+        "skin_name": "Mecha Industries",
+        "base_market_hash_name": "FAMAS | Mecha Industries"
+    },
+    {
+        "weapon_type": "P90",
+        "skin_name": "Shallow Grave",
+        "base_market_hash_name": "P90 | Shallow Grave"
+    },
+    {
+        "weapon_type": "Sawed-Off",
+        "skin_name": "Wasteland Princess",
+        "base_market_hash_name": "Sawed-Off | Wasteland Princess"
+    },
+    {
+        "weapon_type": "Dual Berettas",
+        "skin_name": "Royal Consorts",
+        "base_market_hash_name": "Dual Berettas | Royal Consorts"
+    },
+    {
+        "weapon_type": "G3SG1",
+        "skin_name": "Stinger",
+        "base_market_hash_name": "G3SG1 | Stinger"
+    },
+    {
+        "weapon_type": "M4A1-S",
+        "skin_name": "Flashback",
+        "base_market_hash_name": "M4A1-S | Flashback"
+    },
+    {
+        "weapon_type": "Nova",
+        "skin_name": "Gila",
+        "base_market_hash_name": "Nova | Gila"
+    },
+    {
+        "weapon_type": "USP-S",
+        "skin_name": "Cyrex",
+        "base_market_hash_name": "USP-S | Cyrex"
+    },
+    {
+        "weapon_type": "CZ75-Auto",
+        "skin_name": "Polymer",
+        "base_market_hash_name": "CZ75-Auto | Polymer"
+    },
+    {
+        "weapon_type": "Glock-18",
+        "skin_name": "Ironwork",
+        "base_market_hash_name": "Glock-18 | Ironwork"
+    },
+    {
+        "weapon_type": "MP7",
+        "skin_name": "Cirrus",
+        "base_market_hash_name": "MP7 | Cirrus"
+    },
+    {
+        "weapon_type": "Galil AR",
+        "skin_name": "Black Sand",
+        "base_market_hash_name": "Galil AR | Black Sand"
+    },
+    {
+        "weapon_type": "MP9",
+        "skin_name": "Sand Scale",
+        "base_market_hash_name": "MP9 | Sand Scale"
+    },
+    {
+        "weapon_type": "MAG-7",
+        "skin_name": "Sonar",
+        "base_market_hash_name": "MAG-7 | Sonar"
+    },
+    {
+        "weapon_type": "P2000",
+        "skin_name": "Turf",
+        "base_market_hash_name": "P2000 | Turf"
+    },
+    {
+        "weapon_type": "USP-S",
+        "skin_name": "Neo-Noir",
+        "base_market_hash_name": "USP-S | Neo-Noir"
+    },
+    {
+        "weapon_type": "AK-47",
+        "skin_name": "Bloodsport",
+        "base_market_hash_name": "AK-47 | Bloodsport"
+    },
+    {
+        "weapon_type": "M4A1-S",
+        "skin_name": "Decimator",
+        "base_market_hash_name": "M4A1-S | Decimator"
+    },
+    {
+        "weapon_type": "CZ75-Auto",
+        "skin_name": "Xiangliu",
+        "base_market_hash_name": "CZ75-Auto | Xiangliu"
+    },
+    {
+        "weapon_type": "AWP",
+        "skin_name": "Fever Dream",
+        "base_market_hash_name": "AWP | Fever Dream"
+    },
+    {
+        "weapon_type": "M249",
+        "skin_name": "Emerald Poison Dart",
+        "base_market_hash_name": "M249 | Emerald Poison Dart"
+    },
+    {
+        "weapon_type": "Galil AR",
+        "skin_name": "Crimson Tsunami",
+        "base_market_hash_name": "Galil AR | Crimson Tsunami"
+    },
+    {
+        "weapon_type": "XM1014",
+        "skin_name": "Seasons",
+        "base_market_hash_name": "XM1014 | Seasons"
+    },
+    {
+        "weapon_type": "UMP-45",
+        "skin_name": "Scaffold",
+        "base_market_hash_name": "UMP-45 | Scaffold"
+    },
+    {
+        "weapon_type": "MAC-10",
+        "skin_name": "Last Dive",
+        "base_market_hash_name": "MAC-10 | Last Dive"
+    },
+    {
+        "weapon_type": "Desert Eagle",
+        "skin_name": "Oxide Blaze",
+        "base_market_hash_name": "Desert Eagle | Oxide Blaze"
+    },
+    {
+        "weapon_type": "Five-SeveN",
+        "skin_name": "Capillary",
+        "base_market_hash_name": "Five-SeveN | Capillary"
+    },
+    {
+        "weapon_type": "P250",
+        "skin_name": "Ripple",
+        "base_market_hash_name": "P250 | Ripple"
+    },
+    {
+        "weapon_type": "PP-Bizon",
+        "skin_name": "Jungle Slipstream",
+        "base_market_hash_name": "PP-Bizon | Jungle Slipstream"
+    },
+    {
+        "weapon_type": "SCAR-20",
+        "skin_name": "Blueprint",
+        "base_market_hash_name": "SCAR-20 | Blueprint"
+    },
+    {
+        "weapon_type": "Sawed-Off",
+        "skin_name": "Zander",
+        "base_market_hash_name": "Sawed-Off | Zander"
+    },
+    {
+        "weapon_type": "MP7",
+        "skin_name": "Akoben",
+        "base_market_hash_name": "MP7 | Akoben"
+    },
+    {
+        "weapon_type": "Five-SeveN",
+        "skin_name": "Hyper Beast",
+        "base_market_hash_name": "Five-SeveN | Hyper Beast"
+    },
+    {
+        "weapon_type": "AWP",
+        "skin_name": "Oni Taiji",
+        "base_market_hash_name": "AWP | Oni Taiji"
+    },
+    {
+        "weapon_type": "M4A4",
+        "skin_name": "Hellfire",
+        "base_market_hash_name": "M4A4 | Hellfire"
+    },
+    {
+        "weapon_type": "Galil AR",
+        "skin_name": "Sugar Rush",
+        "base_market_hash_name": "Galil AR | Sugar Rush"
+    },
+    {
+        "weapon_type": "Dual Berettas",
+        "skin_name": "Cobra Strike",
+        "base_market_hash_name": "Dual Berettas | Cobra Strike"
+    },
+    {
+        "weapon_type": "AK-47",
+        "skin_name": "Orbit Mk01",
+        "base_market_hash_name": "AK-47 | Orbit Mk01"
+    },
+    {
+        "weapon_type": "SSG 08",
+        "skin_name": "Death's Head",
+        "base_market_hash_name": "SSG 08 | Death's Head"
+    },
+    {
+        "weapon_type": "P90",
+        "skin_name": "Death Grip",
+        "base_market_hash_name": "P90 | Death Grip"
+    },
+    {
+        "weapon_type": "P250",
+        "skin_name": "Red Rock",
+        "base_market_hash_name": "P250 | Red Rock"
+    },
+    {
+        "weapon_type": "P2000",
+        "skin_name": "Woodsman",
+        "base_market_hash_name": "P2000 | Woodsman"
+    },
+    {
+        "weapon_type": "USP-S",
+        "skin_name": "Blueprint",
+        "base_market_hash_name": "USP-S | Blueprint"
+    },
+    {
+        "weapon_type": "FAMAS",
+        "skin_name": "Macabre",
+        "base_market_hash_name": "FAMAS | Macabre"
+    },
+    {
+        "weapon_type": "M4A1-S",
+        "skin_name": "Briefing",
+        "base_market_hash_name": "M4A1-S | Briefing"
+    },
+    {
+        "weapon_type": "MAC-10",
+        "skin_name": "Aloha",
+        "base_market_hash_name": "MAC-10 | Aloha"
+    },
+    {
+        "weapon_type": "MAG-7",
+        "skin_name": "Hard Water",
+        "base_market_hash_name": "MAG-7 | Hard Water"
+    },
+    {
+        "weapon_type": "Tec-9",
+        "skin_name": "Cut Out",
+        "base_market_hash_name": "Tec-9 | Cut Out"
+    },
+    {
+        "weapon_type": "UMP-45",
+        "skin_name": "Metal Flowers",
+        "base_market_hash_name": "UMP-45 | Metal Flowers"
+    },
+    {
+        "weapon_type": "AK-47",
+        "skin_name": "The Empress",
+        "base_market_hash_name": "AK-47 | The Empress"
+    },
+    {
+        "weapon_type": "P250",
+        "skin_name": "See Ya Later",
+        "base_market_hash_name": "P250 | See Ya Later"
+    },
+    {
+        "weapon_type": "M4A1-S",
+        "skin_name": "Leaded Glass",
+        "base_market_hash_name": "M4A1-S | Leaded Glass"
+    },
+    {
+        "weapon_type": "PP-Bizon",
+        "skin_name": "High Roller",
+        "base_market_hash_name": "PP-Bizon | High Roller"
+    },
+    {
+        "weapon_type": "R8 Revolver",
+        "skin_name": "Llama Cannon",
+        "base_market_hash_name": "R8 Revolver | Llama Cannon"
+    },
+    {
+        "weapon_type": "MP9",
+        "skin_name": "Goo",
+        "base_market_hash_name": "MP9 | Goo"
+    },
+    {
+        "weapon_type": "SG 553",
+        "skin_name": "Phantom",
+        "base_market_hash_name": "SG 553 | Phantom"
+    },
+    {
+        "weapon_type": "CZ75-Auto",
+        "skin_name": "Tacticat",
+        "base_market_hash_name": "CZ75-Auto | Tacticat"
+    },
+    {
+        "weapon_type": "UMP-45",
+        "skin_name": "Exposure",
+        "base_market_hash_name": "UMP-45 | Exposure"
+    },
+    {
+        "weapon_type": "XM1014",
+        "skin_name": "Ziggy",
+        "base_market_hash_name": "XM1014 | Ziggy"
+    },
+    {
+        "weapon_type": "Sawed-Off",
+        "skin_name": "Morris",
+        "base_market_hash_name": "Sawed-Off | Morris"
+    },
+    {
+        "weapon_type": "AUG",
+        "skin_name": "Triqua",
+        "base_market_hash_name": "AUG | Triqua"
+    },
+    {
+        "weapon_type": "G3SG1",
+        "skin_name": "Hunter",
+        "base_market_hash_name": "G3SG1 | Hunter"
+    },
+    {
+        "weapon_type": "Glock-18",
+        "skin_name": "Off World",
+        "base_market_hash_name": "Glock-18 | Off World"
+    },
+    {
+        "weapon_type": "MAC-10",
+        "skin_name": "Oceanic",
+        "base_market_hash_name": "MAC-10 | Oceanic"
+    },
+    {
+        "weapon_type": "Tec-9",
+        "skin_name": "Cracked Opal",
+        "base_market_hash_name": "Tec-9 | Cracked Opal"
+    },
+    {
+        "weapon_type": "SCAR-20",
+        "skin_name": "Jungle Slipstream",
+        "base_market_hash_name": "SCAR-20 | Jungle Slipstream"
+    },
+    {
+        "weapon_type": "M4A4",
+        "skin_name": "Neo-Noir",
+        "base_market_hash_name": "M4A4 | Neo-Noir"
+    },
+    {
+        "weapon_type": "MP7",
+        "skin_name": "Bloodsport",
+        "base_market_hash_name": "MP7 | Bloodsport"
+    },
+    {
+        "weapon_type": "AWP",
+        "skin_name": "Mortis",
+        "base_market_hash_name": "AWP | Mortis"
+    },
+    {
+        "weapon_type": "AUG",
+        "skin_name": "Stymphalian",
+        "base_market_hash_name": "AUG | Stymphalian"
+    },
+    {
+        "weapon_type": "USP-S",
+        "skin_name": "Cortex",
+        "base_market_hash_name": "USP-S | Cortex"
+    },
+    {
+        "weapon_type": "Glock-18",
+        "skin_name": "Moonrise",
+        "base_market_hash_name": "Glock-18 | Moonrise"
+    },
+    {
+        "weapon_type": "MAG-7",
+        "skin_name": "SWAG-7",
+        "base_market_hash_name": "MAG-7 | SWAG-7"
+    },
+    {
+        "weapon_type": "Negev",
+        "skin_name": "Lionfish",
+        "base_market_hash_name": "Negev | Lionfish"
+    },
+    {
+        "weapon_type": "Nova",
+        "skin_name": "Wild Six",
+        "base_market_hash_name": "Nova | Wild Six"
+    },
+    {
+        "weapon_type": "UMP-45",
+        "skin_name": "Arctic Wolf",
+        "base_market_hash_name": "UMP-45 | Arctic Wolf"
+    },
+    {
+        "weapon_type": "Five-SeveN",
+        "skin_name": "Flame Test",
+        "base_market_hash_name": "Five-SeveN | Flame Test"
+    },
+    {
+        "weapon_type": "MP9",
+        "skin_name": "Black Sand",
+        "base_market_hash_name": "MP9 | Black Sand"
+    },
+    {
+        "weapon_type": "P2000",
+        "skin_name": "Urban Hazard",
+        "base_market_hash_name": "P2000 | Urban Hazard"
+    },
+    {
+        "weapon_type": "PP-Bizon",
+        "skin_name": "Night Riot",
+        "base_market_hash_name": "PP-Bizon | Night Riot"
+    },
+    {
+        "weapon_type": "R8 Revolver",
+        "skin_name": "Grip",
+        "base_market_hash_name": "R8 Revolver | Grip"
+    },
+    {
+        "weapon_type": "SG 553",
+        "skin_name": "Aloha",
+        "base_market_hash_name": "SG 553 | Aloha"
+    },
+    {
+        "weapon_type": "XM1014",
+        "skin_name": "Oxide Blaze",
+        "base_market_hash_name": "XM1014 | Oxide Blaze"
+    },
+    {
+        "weapon_type": "AK-47",
+        "skin_name": "Neon Rider",
+        "base_market_hash_name": "AK-47 | Neon Rider"
+    },
+    {
+        "weapon_type": "Desert Eagle",
+        "skin_name": "Code Red",
+        "base_market_hash_name": "Desert Eagle | Code Red"
+    },
+    {
+        "weapon_type": "M4A1-S",
+        "skin_name": "Nightmare",
+        "base_market_hash_name": "M4A1-S | Nightmare"
+    },
+    {
+        "weapon_type": "FAMAS",
+        "skin_name": "Eye of Athena",
+        "base_market_hash_name": "FAMAS | Eye of Athena"
+    },
+    {
+        "weapon_type": "Sawed-Off",
+        "skin_name": "Devourer",
+        "base_market_hash_name": "Sawed-Off | Devourer"
+    },
+    {
+        "weapon_type": "CZ75-Auto",
+        "skin_name": "Eco",
+        "base_market_hash_name": "CZ75-Auto | Eco"
+    },
+    {
+        "weapon_type": "G3SG1",
+        "skin_name": "High Seas",
+        "base_market_hash_name": "G3SG1 | High Seas"
+    },
+    {
+        "weapon_type": "Nova",
+        "skin_name": "Toy Soldier",
+        "base_market_hash_name": "Nova | Toy Soldier"
+    },
+    {
+        "weapon_type": "AWP",
+        "skin_name": "PAW",
+        "base_market_hash_name": "AWP | PAW"
+    },
+    {
+        "weapon_type": "MP7",
+        "skin_name": "Powercore",
+        "base_market_hash_name": "MP7 | Powercore"
+    },
+    {
+        "weapon_type": "AUG",
+        "skin_name": "Amber Slipstream",
+        "base_market_hash_name": "AUG | Amber Slipstream"
+    },
+    {
+        "weapon_type": "Dual Berettas",
+        "skin_name": "Shred",
+        "base_market_hash_name": "Dual Berettas | Shred"
+    },
+    {
+        "weapon_type": "Glock-18",
+        "skin_name": "Warhawk",
+        "base_market_hash_name": "Glock-18 | Warhawk"
+    },
+    {
+        "weapon_type": "MP9",
+        "skin_name": "Capillary",
+        "base_market_hash_name": "MP9 | Capillary"
+    },
+    {
+        "weapon_type": "P90",
+        "skin_name": "Traction",
+        "base_market_hash_name": "P90 | Traction"
+    },
+    {
+        "weapon_type": "R8 Revolver",
+        "skin_name": "Survivalist",
+        "base_market_hash_name": "R8 Revolver | Survivalist"
+    },
+    {
+        "weapon_type": "Tec-9",
+        "skin_name": "Snek-9",
+        "base_market_hash_name": "Tec-9 | Snek-9"
+    },
+    {
+        "weapon_type": "SG 553",
+        "skin_name": "Integrale",
+        "base_market_hash_name": "SG 553 | Integrale"
+    },
+    {
+        "weapon_type": "Dual Berettas",
+        "skin_name": "Twin Turbo",
+        "base_market_hash_name": "Dual Berettas | Twin Turbo"
+    },
+    {
+        "weapon_type": "AK-47",
+        "skin_name": "Safety Net",
+        "base_market_hash_name": "AK-47 | Safety Net"
+    },
+    {
+        "weapon_type": "P250",
+        "skin_name": "Vino Primo",
+        "base_market_hash_name": "P250 | Vino Primo"
+    },
+    {
+        "weapon_type": "MP7",
+        "skin_name": "Fade",
+        "base_market_hash_name": "MP7 | Fade"
+    },
+    {
+        "weapon_type": "USP-S",
+        "skin_name": "Check Engine",
+        "base_market_hash_name": "USP-S | Check Engine"
+    },
+    {
+        "weapon_type": "M4A4",
+        "skin_name": "Converter",
+        "base_market_hash_name": "M4A4 | Converter"
+    },
+    {
+        "weapon_type": "SSG 08",
+        "skin_name": "Hand Brake",
+        "base_market_hash_name": "SSG 08 | Hand Brake"
+    },
+    {
+        "weapon_type": "Sawed-Off",
+        "skin_name": "Brake Light",
+        "base_market_hash_name": "Sawed-Off | Brake Light"
+    },
+    {
+        "weapon_type": "Glock-18",
+        "skin_name": "High Beam",
+        "base_market_hash_name": "Glock-18 | High Beam"
+    },
+    {
+        "weapon_type": "R8 Revolver",
+        "skin_name": "Nitro",
+        "base_market_hash_name": "R8 Revolver | Nitro"
+    },
+    {
+        "weapon_type": "MAC-10",
+        "skin_name": "Calf Skin",
+        "base_market_hash_name": "MAC-10 | Calf Skin"
+    },
+    {
+        "weapon_type": "PP-Bizon",
+        "skin_name": "Candy Apple",
+        "base_market_hash_name": "PP-Bizon | Candy Apple"
+    },
+    {
+        "weapon_type": "MP9",
+        "skin_name": "Slide",
+        "base_market_hash_name": "MP9 | Slide"
+    },
+    {
+        "weapon_type": "AUG",
+        "skin_name": "Sweeper",
+        "base_market_hash_name": "AUG | Sweeper"
+    },
+    {
+        "weapon_type": "UMP-45",
+        "skin_name": "Mudder",
+        "base_market_hash_name": "UMP-45 | Mudder"
+    },
+    {
+        "weapon_type": "MAG-7",
+        "skin_name": "Rust Coat",
+        "base_market_hash_name": "MAG-7 | Rust Coat"
+    },
+    {
+        "weapon_type": "MP5-SD",
+        "skin_name": "Dirt Drop",
+        "base_market_hash_name": "MP5-SD | Dirt Drop"
+    },
+    {
+        "weapon_type": "M4A1-S",
+        "skin_name": "Control Panel",
+        "base_market_hash_name": "M4A1-S | Control Panel"
+    },
+    {
+        "weapon_type": "Tec-9",
+        "skin_name": "Remote Control",
+        "base_market_hash_name": "Tec-9 | Remote Control"
+    },
+    {
+        "weapon_type": "Glock-18",
+        "skin_name": "Nuclear Garden",
+        "base_market_hash_name": "Glock-18 | Nuclear Garden"
+    },
+    {
+        "weapon_type": "MAG-7",
+        "skin_name": "Core Breach",
+        "base_market_hash_name": "MAG-7 | Core Breach"
+    },
+    {
+        "weapon_type": "AUG",
+        "skin_name": "Random Access",
+        "base_market_hash_name": "AUG | Random Access"
+    },
+    {
+        "weapon_type": "AWP",
+        "skin_name": "Acheron",
+        "base_market_hash_name": "AWP | Acheron"
+    },
+    {
+        "weapon_type": "P250",
+        "skin_name": "Exchanger",
+        "base_market_hash_name": "P250 | Exchanger"
+    },
+    {
+        "weapon_type": "MP5-SD",
+        "skin_name": "Co-Processor",
+        "base_market_hash_name": "MP5-SD | Co-Processor"
+    },
+    {
+        "weapon_type": "P90",
+        "skin_name": "Facility Negative",
+        "base_market_hash_name": "P90 | Facility Negative"
+    },
+    {
+        "weapon_type": "Galil AR",
+        "skin_name": "Cold Fusion",
+        "base_market_hash_name": "Galil AR | Cold Fusion"
+    },
+    {
+        "weapon_type": "Negev",
+        "skin_name": "Bulkhead",
+        "base_market_hash_name": "Negev | Bulkhead"
+    },
+    {
+        "weapon_type": "MP7",
+        "skin_name": "Motherboard",
+        "base_market_hash_name": "MP7 | Motherboard"
+    },
+    {
+        "weapon_type": "M4A4",
+        "skin_name": "Mainframe",
+        "base_market_hash_name": "M4A4 | Mainframe"
+    },
+    {
+        "weapon_type": "Nova",
+        "skin_name": "Mandrel",
+        "base_market_hash_name": "Nova | Mandrel"
+    },
+    {
+        "weapon_type": "Five-SeveN",
+        "skin_name": "Coolant",
+        "base_market_hash_name": "Five-SeveN | Coolant"
+    },
+    {
+        "weapon_type": "UMP-45",
+        "skin_name": "Facility Dark",
+        "base_market_hash_name": "UMP-45 | Facility Dark"
+    },
+    {
+        "weapon_type": "P250",
+        "skin_name": "Facility Draft",
+        "base_market_hash_name": "P250 | Facility Draft"
+    },
+    {
+        "weapon_type": "PP-Bizon",
+        "skin_name": "Facility Sketch",
+        "base_market_hash_name": "PP-Bizon | Facility Sketch"
+    },
+    {
+        "weapon_type": "MP5-SD",
+        "skin_name": "Lab Rats",
+        "base_market_hash_name": "MP5-SD | Lab Rats"
+    },
+    {
+        "weapon_type": "AK-47",
+        "skin_name": "Asiimov",
+        "base_market_hash_name": "AK-47 | Asiimov"
+    },
+    {
+        "weapon_type": "AWP",
+        "skin_name": "Neo-Noir",
+        "base_market_hash_name": "AWP | Neo-Noir"
+    },
+    {
+        "weapon_type": "MP5-SD",
+        "skin_name": "Phosphor",
+        "base_market_hash_name": "MP5-SD | Phosphor"
+    },
+    {
+        "weapon_type": "Desert Eagle",
+        "skin_name": "Mecha Industries",
+        "base_market_hash_name": "Desert Eagle | Mecha Industries"
+    },
+    {
+        "weapon_type": "UMP-45",
+        "skin_name": "Momentum",
+        "base_market_hash_name": "UMP-45 | Momentum"
+    },
+    {
+        "weapon_type": "USP-S",
+        "skin_name": "Flashback",
+        "base_market_hash_name": "USP-S | Flashback"
+    },
+    {
+        "weapon_type": "P250",
+        "skin_name": "Nevermore",
+        "base_market_hash_name": "P250 | Nevermore"
+    },
+    {
+        "weapon_type": "MAC-10",
+        "skin_name": "Pipe Down",
+        "base_market_hash_name": "MAC-10 | Pipe Down"
+    },
+    {
+        "weapon_type": "Galil AR",
+        "skin_name": "Signal",
+        "base_market_hash_name": "Galil AR | Signal"
+    },
+    {
+        "weapon_type": "G3SG1",
+        "skin_name": "Scavenger",
+        "base_market_hash_name": "G3SG1 | Scavenger"
+    },
+    {
+        "weapon_type": "Tec-9",
+        "skin_name": "Fubar",
+        "base_market_hash_name": "Tec-9 | Fubar"
+    },
+    {
+        "weapon_type": "SG 553",
+        "skin_name": "Danger Close",
+        "base_market_hash_name": "SG 553 | Danger Close"
+    },
+    {
+        "weapon_type": "Sawed-Off",
+        "skin_name": "Black Sand",
+        "base_market_hash_name": "Sawed-Off | Black Sand"
+    },
+    {
+        "weapon_type": "M4A4",
+        "skin_name": "Magnesium",
+        "base_market_hash_name": "M4A4 | Magnesium"
+    },
+    {
+        "weapon_type": "Nova",
+        "skin_name": "Wood Fired",
+        "base_market_hash_name": "Nova | Wood Fired"
+    },
+    {
+        "weapon_type": "Glock-18",
+        "skin_name": "Oxide Blaze",
+        "base_market_hash_name": "Glock-18 | Oxide Blaze"
+    },
+    {
+        "weapon_type": "MP9",
+        "skin_name": "Modest Threat",
+        "base_market_hash_name": "MP9 | Modest Threat"
+    },
+    {
+        "weapon_type": "M4A4",
+        "skin_name": "The Emperor",
+        "base_market_hash_name": "M4A4 | The Emperor"
+    },
+    {
+        "weapon_type": "Five-SeveN",
+        "skin_name": "Angry Mob",
+        "base_market_hash_name": "Five-SeveN | Angry Mob"
+    },
+    {
+        "weapon_type": "XM1014",
+        "skin_name": "Incinegator",
+        "base_market_hash_name": "XM1014 | Incinegator"
+    },
+    {
+        "weapon_type": "AUG",
+        "skin_name": "Momentum",
+        "base_market_hash_name": "AUG | Momentum"
+    },
+    {
+        "weapon_type": "R8 Revolver",
+        "skin_name": "Skull Crusher",
+        "base_market_hash_name": "R8 Revolver | Skull Crusher"
+    },
+    {
+        "weapon_type": "UMP-45",
+        "skin_name": "Moonrise",
+        "base_market_hash_name": "UMP-45 | Moonrise"
+    },
+    {
+        "weapon_type": "MP5-SD",
+        "skin_name": "Gauss",
+        "base_market_hash_name": "MP5-SD | Gauss"
+    },
+    {
+        "weapon_type": "Desert Eagle",
+        "skin_name": "Light Rail",
+        "base_market_hash_name": "Desert Eagle | Light Rail"
+    },
+    {
+        "weapon_type": "Tec-9",
+        "skin_name": "Bamboozle",
+        "base_market_hash_name": "Tec-9 | Bamboozle"
+    },
+    {
+        "weapon_type": "AWP",
+        "skin_name": "Atheris",
+        "base_market_hash_name": "AWP | Atheris"
+    },
+    {
+        "weapon_type": "P90",
+        "skin_name": "Off World",
+        "base_market_hash_name": "P90 | Off World"
+    },
+    {
+        "weapon_type": "P250",
+        "skin_name": "Verdigris",
+        "base_market_hash_name": "P250 | Verdigris"
+    },
+    {
+        "weapon_type": "MP7",
+        "skin_name": "Mischief",
+        "base_market_hash_name": "MP7 | Mischief"
+    },
+    {
+        "weapon_type": "Galil AR",
+        "skin_name": "Akoben",
+        "base_market_hash_name": "Galil AR | Akoben"
+    },
+    {
+        "weapon_type": "MAC-10",
+        "skin_name": "Whitefish",
+        "base_market_hash_name": "MAC-10 | Whitefish"
+    },
+    {
+        "weapon_type": "AK-47",
+        "skin_name": "Uncharted",
+        "base_market_hash_name": "AK-47 | Uncharted"
+    },
+    {
+        "weapon_type": "FAMAS",
+        "skin_name": "Crypsis",
+        "base_market_hash_name": "FAMAS | Crypsis"
+    },
+    {
+        "weapon_type": "P250",
+        "skin_name": "X-Ray",
+        "base_market_hash_name": "P250 | X-Ray"
+    },
+    {
+        "weapon_type": "AWP",
+        "skin_name": "Wildfire",
+        "base_market_hash_name": "AWP | Wildfire"
+    },
+    {
+        "weapon_type": "FAMAS",
+        "skin_name": "Commemoration",
+        "base_market_hash_name": "FAMAS | Commemoration"
+    },
+    {
+        "weapon_type": "AUG",
+        "skin_name": "Death by Puppy",
+        "base_market_hash_name": "AUG | Death by Puppy"
+    },
+    {
+        "weapon_type": "P90",
+        "skin_name": "Nostalgia",
+        "base_market_hash_name": "P90 | Nostalgia"
+    },
+    {
+        "weapon_type": "MP9",
+        "skin_name": "Hydra",
+        "base_market_hash_name": "MP9 | Hydra"
+    },
+    {
+        "weapon_type": "UMP-45",
+        "skin_name": "Plastique",
+        "base_market_hash_name": "UMP-45 | Plastique"
+    },
+    {
+        "weapon_type": "P250",
+        "skin_name": "Inferno",
+        "base_market_hash_name": "P250 | Inferno"
+    },
+    {
+        "weapon_type": "Five-SeveN",
+        "skin_name": "Buddy",
+        "base_market_hash_name": "Five-SeveN | Buddy"
+    },
+    {
+        "weapon_type": "MP5-SD",
+        "skin_name": "Agent",
+        "base_market_hash_name": "MP5-SD | Agent"
+    },
+    {
+        "weapon_type": "M249",
+        "skin_name": "Aztec",
+        "base_market_hash_name": "M249 | Aztec"
+    },
+    {
+        "weapon_type": "Glock-18",
+        "skin_name": "Sacrifice",
+        "base_market_hash_name": "Glock-18 | Sacrifice"
+    },
+    {
+        "weapon_type": "FAMAS",
+        "skin_name": "Decommissioned",
+        "base_market_hash_name": "FAMAS | Decommissioned"
+    },
+    {
+        "weapon_type": "SCAR-20",
+        "skin_name": "Assault",
+        "base_market_hash_name": "SCAR-20 | Assault"
+    },
+    {
+        "weapon_type": "MAG-7",
+        "skin_name": "Popdog",
+        "base_market_hash_name": "MAG-7 | Popdog"
+    },
+    {
+        "weapon_type": "MAC-10",
+        "skin_name": "Classic Crate",
+        "base_market_hash_name": "MAC-10 | Classic Crate"
+    },
+    {
+        "weapon_type": "Tec-9",
+        "skin_name": "Flash Out",
+        "base_market_hash_name": "Tec-9 | Flash Out"
+    },
+    {
+        "weapon_type": "Dual Berettas",
+        "skin_name": "Elite 1.6",
+        "base_market_hash_name": "Dual Berettas | Elite 1.6"
+    },
+    {
+        "weapon_type": "AWP",
+        "skin_name": "The Prince",
+        "base_market_hash_name": "AWP | The Prince"
+    },
+    {
+        "weapon_type": "MAG-7",
+        "skin_name": "Cinquedea",
+        "base_market_hash_name": "MAG-7 | Cinquedea"
+    },
+    {
+        "weapon_type": "MP9",
+        "skin_name": "Stained Glass",
+        "base_market_hash_name": "MP9 | Stained Glass"
+    },
+    {
+        "weapon_type": "MAC-10",
+        "skin_name": "Red Filigree",
+        "base_market_hash_name": "MAC-10 | Red Filigree"
+    },
+    {
+        "weapon_type": "Nova",
+        "skin_name": "Baroque Orange",
+        "base_market_hash_name": "Nova | Baroque Orange"
+    },
+    {
+        "weapon_type": "Dual Berettas",
+        "skin_name": "Emerald",
+        "base_market_hash_name": "Dual Berettas | Emerald"
+    },
+    {
+        "weapon_type": "G3SG1",
+        "skin_name": "Violet Murano",
+        "base_market_hash_name": "G3SG1 | Violet Murano"
+    },
+    {
+        "weapon_type": "SSG 08",
+        "skin_name": "Orange Filigree",
+        "base_market_hash_name": "SSG 08 | Orange Filigree"
+    },
+    {
+        "weapon_type": "P90",
+        "skin_name": "Baroque Red",
+        "base_market_hash_name": "P90 | Baroque Red"
+    },
+    {
+        "weapon_type": "AK-47",
+        "skin_name": "Baroque Purple",
+        "base_market_hash_name": "AK-47 | Baroque Purple"
+    },
+    {
+        "weapon_type": "SG 553",
+        "skin_name": "Candy Apple",
+        "base_market_hash_name": "SG 553 | Candy Apple"
+    },
+    {
+        "weapon_type": "Tec-9",
+        "skin_name": "Orange Murano",
+        "base_market_hash_name": "Tec-9 | Orange Murano"
+    },
+    {
+        "weapon_type": "P250",
+        "skin_name": "Dark Filigree",
+        "base_market_hash_name": "P250 | Dark Filigree"
+    },
+    {
+        "weapon_type": "CZ75-Auto",
+        "skin_name": "Indigo",
+        "base_market_hash_name": "CZ75-Auto | Indigo"
+    },
+    {
+        "weapon_type": "R8 Revolver",
+        "skin_name": "Canal Spray",
+        "base_market_hash_name": "R8 Revolver | Canal Spray"
+    },
+    {
+        "weapon_type": "AUG",
+        "skin_name": "Navy Murano",
+        "base_market_hash_name": "AUG | Navy Murano"
+    },
+    {
+        "weapon_type": "Negev",
+        "skin_name": "Boroque Sand",
+        "base_market_hash_name": "Negev | Boroque Sand"
+    },
+    {
+        "weapon_type": "SCAR-20",
+        "skin_name": "Stone Mosaico",
+        "base_market_hash_name": "SCAR-20 | Stone Mosaico"
+    },
+    {
+        "weapon_type": "AWP",
+        "skin_name": "Gungnir",
+        "base_market_hash_name": "AWP | Gungnir"
+    },
+    {
+        "weapon_type": "Negev",
+        "skin_name": "Mjölnir",
+        "base_market_hash_name": "Negev | Mjölnir"
+    },
+    {
+        "weapon_type": "AUG",
+        "skin_name": "Flame Jörmungandr",
+        "base_market_hash_name": "AUG | Flame Jörmungandr"
+    },
+    {
+        "weapon_type": "Desert Eagle",
+        "skin_name": "Emerald Jörmungandr",
+        "base_market_hash_name": "Desert Eagle | Emerald Jörmungandr"
+    },
+    {
+        "weapon_type": "P90",
+        "skin_name": "Astral Jörmungandr",
+        "base_market_hash_name": "P90 | Astral Jörmungandr"
+    },
+    {
+        "weapon_type": "CZ75-Auto",
+        "skin_name": "Emerald Quartz",
+        "base_market_hash_name": "CZ75-Auto | Emerald Quartz"
+    },
+    {
+        "weapon_type": "MAC-10",
+        "skin_name": "Copper Borre",
+        "base_market_hash_name": "MAC-10 | Copper Borre"
+    },
+    {
+        "weapon_type": "SCAR-20",
+        "skin_name": "Brass",
+        "base_market_hash_name": "SCAR-20 | Brass"
+    },
+    {
+        "weapon_type": "XM1014",
+        "skin_name": "Frost Borre",
+        "base_market_hash_name": "XM1014 | Frost Borre"
+    },
+    {
+        "weapon_type": "MAG-7",
+        "skin_name": "Chainmail",
+        "base_market_hash_name": "MAG-7 | Chainmail"
+    },
+    {
+        "weapon_type": "M4A1-S",
+        "skin_name": "Moss Quartz",
+        "base_market_hash_name": "M4A1-S | Moss Quartz"
+    },
+    {
+        "weapon_type": "USP-S",
+        "skin_name": "Pathfinder",
+        "base_market_hash_name": "USP-S | Pathfinder"
+    },
+    {
+        "weapon_type": "Dual Berettas",
+        "skin_name": "Pyre",
+        "base_market_hash_name": "Dual Berettas | Pyre"
+    },
+    {
+        "weapon_type": "MP7",
+        "skin_name": "Scorched",
+        "base_market_hash_name": "MP7 | Scorched"
+    },
+    {
+        "weapon_type": "FAMAS",
+        "skin_name": "Night Borre",
+        "base_market_hash_name": "FAMAS | Night Borre"
+    },
+    {
+        "weapon_type": "SSG 08",
+        "skin_name": "Red Stone",
+        "base_market_hash_name": "SSG 08 | Red Stone"
+    },
+    {
+        "weapon_type": "Galil AR",
+        "skin_name": "Tornado",
+        "base_market_hash_name": "Galil AR | Tornado"
+    },
+    {
+        "weapon_type": "SG 553",
+        "skin_name": "Barricade",
+        "base_market_hash_name": "SG 553 | Barricade"
+    },
+    {
+        "weapon_type": "AWP",
+        "skin_name": "Containment Breach",
+        "base_market_hash_name": "AWP | Containment Breach"
+    },
+    {
+        "weapon_type": "MAC-10",
+        "skin_name": "Stalker",
+        "base_market_hash_name": "MAC-10 | Stalker"
+    },
+    {
+        "weapon_type": "SG 553",
+        "skin_name": "Colony IV",
+        "base_market_hash_name": "SG 553 | Colony IV"
+    },
+    {
+        "weapon_type": "SSG 08",
+        "skin_name": "Bloodshot",
+        "base_market_hash_name": "SSG 08 | Bloodshot"
+    },
+    {
+        "weapon_type": "Tec-9",
+        "skin_name": "Decimator",
+        "base_market_hash_name": "Tec-9 | Decimator"
+    },
+    {
+        "weapon_type": "AK-47",
+        "skin_name": "Rat Rod",
+        "base_market_hash_name": "AK-47 | Rat Rod"
+    },
+    {
+        "weapon_type": "AUG",
+        "skin_name": "Arctic Wolf",
+        "base_market_hash_name": "AUG | Arctic Wolf"
+    },
+    {
+        "weapon_type": "MP7",
+        "skin_name": "Neon Ply",
+        "base_market_hash_name": "MP7 | Neon Ply"
+    },
+    {
+        "weapon_type": "PP-Bizon",
+        "skin_name": "Embargo",
+        "base_market_hash_name": "PP-Bizon | Embargo"
+    },
+    {
+        "weapon_type": "P2000",
+        "skin_name": "Obsidian",
+        "base_market_hash_name": "P2000 | Obsidian"
+    },
+    {
+        "weapon_type": "Dual Berettas",
+        "skin_name": "Balance",
+        "base_market_hash_name": "Dual Berettas | Balance"
+    },
+    {
+        "weapon_type": "G3SG1",
+        "skin_name": "Black Sand",
+        "base_market_hash_name": "G3SG1 | Black Sand"
+    },
+    {
+        "weapon_type": "M249",
+        "skin_name": "Warbird",
+        "base_market_hash_name": "M249 | Warbird"
+    },
+    {
+        "weapon_type": "MP5-SD",
+        "skin_name": "Acid Wash",
+        "base_market_hash_name": "MP5-SD | Acid Wash"
+    },
+    {
+        "weapon_type": "Nova",
+        "skin_name": "Plume",
+        "base_market_hash_name": "Nova | Plume"
+    },
+    {
+        "weapon_type": "R8 Revolver",
+        "skin_name": "Memento",
+        "base_market_hash_name": "R8 Revolver | Memento"
+    },
+    {
+        "weapon_type": "SCAR-20",
+        "skin_name": "Torn",
+        "base_market_hash_name": "SCAR-20 | Torn"
+    },
+    {
+        "weapon_type": "AK-47",
+        "skin_name": "Wild Lotus",
+        "base_market_hash_name": "AK-47 | Wild Lotus"
+    },
+    {
+        "weapon_type": "MP9",
+        "skin_name": "Wild Lily",
+        "base_market_hash_name": "MP9 | Wild Lily"
+    },
+    {
+        "weapon_type": "AUG",
+        "skin_name": "Midnight Lily",
+        "base_market_hash_name": "AUG | Midnight Lily"
+    },
+    {
+        "weapon_type": "Glock-18",
+        "skin_name": "Synth Leaf",
+        "base_market_hash_name": "Glock-18 | Synth Leaf"
+    },
+    {
+        "weapon_type": "SSG 08",
+        "skin_name": "Sea Calico",
+        "base_market_hash_name": "SSG 08 | Sea Calico"
+    },
+    {
+        "weapon_type": "FAMAS",
+        "skin_name": "Sundown",
+        "base_market_hash_name": "FAMAS | Sundown"
+    },
+    {
+        "weapon_type": "Five-SeveN",
+        "skin_name": "Crimson Blossom",
+        "base_market_hash_name": "Five-SeveN | Crimson Blossom"
+    },
+    {
+        "weapon_type": "MP7",
+        "skin_name": "Teal Blossom",
+        "base_market_hash_name": "MP7 | Teal Blossom"
+    },
+    {
+        "weapon_type": "UMP-45",
+        "skin_name": "Day Lily",
+        "base_market_hash_name": "UMP-45 | Day Lily"
+    },
+    {
+        "weapon_type": "M4A4",
+        "skin_name": "Dark Blossom",
+        "base_market_hash_name": "M4A4 | Dark Blossom"
+    },
+    {
+        "weapon_type": "P90",
+        "skin_name": "Sunset Lily",
+        "base_market_hash_name": "P90 | Sunset Lily"
+    },
+    {
+        "weapon_type": "Tec-9",
+        "skin_name": "Rust Leaf",
+        "base_market_hash_name": "Tec-9 | Rust Leaf"
+    },
+    {
+        "weapon_type": "XM1014",
+        "skin_name": "Banana Leaf",
+        "base_market_hash_name": "XM1014 | Banana Leaf"
+    },
+    {
+        "weapon_type": "M249",
+        "skin_name": "Jungle",
+        "base_market_hash_name": "M249 | Jungle"
+    },
+    {
+        "weapon_type": "MAC-10",
+        "skin_name": "Surfwood",
+        "base_market_hash_name": "MAC-10 | Surfwood"
+    },
+    {
+        "weapon_type": "MP5-SD",
+        "skin_name": "Bamboo Garden",
+        "base_market_hash_name": "MP5-SD | Bamboo Garden"
+    },
+    {
+        "weapon_type": "PP-Bizon",
+        "skin_name": "Seabird",
+        "base_market_hash_name": "PP-Bizon | Seabird"
+    },
+    {
+        "weapon_type": "Sawed-Off",
+        "skin_name": "Jungle Thicket",
+        "base_market_hash_name": "Sawed-Off | Jungle Thicket"
+    },
+    {
+        "weapon_type": "Glock-18",
+        "skin_name": "Bullet Queen",
+        "base_market_hash_name": "Glock-18 | Bullet Queen"
+    },
+    {
+        "weapon_type": "M4A1-S",
+        "skin_name": "Player Two",
+        "base_market_hash_name": "M4A1-S | Player Two"
+    },
+    {
+        "weapon_type": "MAG-7",
+        "skin_name": "Justice",
+        "base_market_hash_name": "MAG-7 | Justice"
+    },
+    {
+        "weapon_type": "MAC-10",
+        "skin_name": "Disco Tech",
+        "base_market_hash_name": "MAC-10 | Disco Tech"
+    },
+    {
+        "weapon_type": "AK-47",
+        "skin_name": "Phantom Disruptor",
+        "base_market_hash_name": "AK-47 | Phantom Disruptor"
+    },
+    {
+        "weapon_type": "SSG 08",
+        "skin_name": "Fever Dream",
+        "base_market_hash_name": "SSG 08 | Fever Dream"
+    },
+    {
+        "weapon_type": "SG 553",
+        "skin_name": "Darkwing",
+        "base_market_hash_name": "SG 553 | Darkwing"
+    },
+    {
+        "weapon_type": "SCAR-20",
+        "skin_name": "Enforcer",
+        "base_market_hash_name": "SCAR-20 | Enforcer"
+    },
+    {
+        "weapon_type": "Sawed-Off",
+        "skin_name": "Apocalypto",
+        "base_market_hash_name": "Sawed-Off | Apocalypto"
+    },
+    {
+        "weapon_type": "P2000",
+        "skin_name": "Acid Etched",
+        "base_market_hash_name": "P2000 | Acid Etched"
+    },
+    {
+        "weapon_type": "R8 Revolver",
+        "skin_name": "Bone Forged",
+        "base_market_hash_name": "R8 Revolver | Bone Forged"
+    },
+    {
+        "weapon_type": "Negev",
+        "skin_name": "Prototype",
+        "base_market_hash_name": "Negev | Prototype"
+    },
+    {
+        "weapon_type": "MP5-SD",
+        "skin_name": "Desert Strike",
+        "base_market_hash_name": "MP5-SD | Desert Strike"
+    },
+    {
+        "weapon_type": "Desert Eagle",
+        "skin_name": "Blue Ply",
+        "base_market_hash_name": "Desert Eagle | Blue Ply"
+    },
+    {
+        "weapon_type": "CZ75-Auto",
+        "skin_name": "Distressed",
+        "base_market_hash_name": "CZ75-Auto | Distressed"
+    },
+    {
+        "weapon_type": "AWP",
+        "skin_name": "Capillary",
+        "base_market_hash_name": "AWP | Capillary"
+    },
+    {
+        "weapon_type": "AUG",
+        "skin_name": "Tom Cat",
+        "base_market_hash_name": "AUG | Tom Cat"
+    },
+    {
+        "weapon_type": "AK-47",
+        "skin_name": "Legion of Anubis",
+        "base_market_hash_name": "AK-47 | Legion of Anubis"
+    },
+    {
+        "weapon_type": "Desert Eagle",
+        "skin_name": "Printstream",
+        "base_market_hash_name": "Desert Eagle | Printstream"
+    },
+    {
+        "weapon_type": "XM1014",
+        "skin_name": "Entombed",
+        "base_market_hash_name": "XM1014 | Entombed"
+    },
+    {
+        "weapon_type": "Glock-18",
+        "skin_name": "Vogue",
+        "base_market_hash_name": "Glock-18 | Vogue"
+    },
+    {
+        "weapon_type": "M4A4",
+        "skin_name": "Tooth Fairy",
+        "base_market_hash_name": "M4A4 | Tooth Fairy"
+    },
+    {
+        "weapon_type": "MP5-SD",
+        "skin_name": "Kitbash",
+        "base_market_hash_name": "MP5-SD | Kitbash"
+    },
+    {
+        "weapon_type": "Galil AR",
+        "skin_name": "Connexion",
+        "base_market_hash_name": "Galil AR | Connexion"
+    },
+    {
+        "weapon_type": "MAC-10",
+        "skin_name": "Allure",
+        "base_market_hash_name": "MAC-10 | Allure"
+    },
+    {
+        "weapon_type": "Tec-9",
+        "skin_name": "Brother",
+        "base_market_hash_name": "Tec-9 | Brother"
+    },
+    {
+        "weapon_type": "MAG-7",
+        "skin_name": "Monster Call",
+        "base_market_hash_name": "MAG-7 | Monster Call"
+    },
+    {
+        "weapon_type": "PP-Bizon",
+        "skin_name": "Runic",
+        "base_market_hash_name": "PP-Bizon | Runic"
+    },
+    {
+        "weapon_type": "P90",
+        "skin_name": "Freight",
+        "base_market_hash_name": "P90 | Freight"
+    },
+    {
+        "weapon_type": "P250",
+        "skin_name": "Cassette",
+        "base_market_hash_name": "P250 | Cassette"
+    },
+    {
+        "weapon_type": "SSG 08",
+        "skin_name": "Mainframe 001",
+        "base_market_hash_name": "SSG 08 | Mainframe 001"
+    },
+    {
+        "weapon_type": "SG 553",
+        "skin_name": "Ol' Rusty",
+        "base_market_hash_name": "SG 553 | Ol' Rusty"
+    },
+    {
+        "weapon_type": "P2000",
+        "skin_name": "Gnarled",
+        "base_market_hash_name": "P2000 | Gnarled"
+    },
+    {
+        "weapon_type": "Negev",
+        "skin_name": "Ultralight",
+        "base_market_hash_name": "Negev | Ultralight"
+    },
+    {
+        "weapon_type": "M4A1-S",
+        "skin_name": "Welcome to the Jungle",
+        "base_market_hash_name": "M4A1-S | Welcome to the Jungle"
+    },
+    {
+        "weapon_type": "AK-47",
+        "skin_name": "Panthera onca",
+        "base_market_hash_name": "AK-47 | Panthera onca"
+    },
+    {
+        "weapon_type": "P90",
+        "skin_name": "Run and Hide",
+        "base_market_hash_name": "P90 | Run and Hide"
+    },
+    {
+        "weapon_type": "USP-S",
+        "skin_name": "Ancient Visions",
+        "base_market_hash_name": "USP-S | Ancient Visions"
+    },
+    {
+        "weapon_type": "MAC-10",
+        "skin_name": "Gold Brick",
+        "base_market_hash_name": "MAC-10 | Gold Brick"
+    },
+    {
+        "weapon_type": "XM1014",
+        "skin_name": "Ancient Lore",
+        "base_market_hash_name": "XM1014 | Ancient Lore"
+    },
+    {
+        "weapon_type": "FAMAS",
+        "skin_name": "Dark Water",
+        "base_market_hash_name": "FAMAS | Dark Water"
+    },
+    {
+        "weapon_type": "Galil AR",
+        "skin_name": "Dusk Ruins",
+        "base_market_hash_name": "Galil AR | Dusk Ruins"
+    },
+    {
+        "weapon_type": "AUG",
+        "skin_name": "Carved Jade",
+        "base_market_hash_name": "AUG | Carved Jade"
+    },
+    {
+        "weapon_type": "Tec-9",
+        "skin_name": "Blast From the Past",
+        "base_market_hash_name": "Tec-9 | Blast From the Past"
+    },
+    {
+        "weapon_type": "CZ75-Auto",
+        "skin_name": "Silver",
+        "base_market_hash_name": "CZ75-Auto | Silver"
+    },
+    {
+        "weapon_type": "G3SG1",
+        "skin_name": "Ancient Ritual",
+        "base_market_hash_name": "G3SG1 | Ancient Ritual"
+    },
+    {
+        "weapon_type": "MP7",
+        "skin_name": "Tall Grass",
+        "base_market_hash_name": "MP7 | Tall Grass"
+    },
+    {
+        "weapon_type": "P2000",
+        "skin_name": "Panther Camo",
+        "base_market_hash_name": "P2000 | Panther Camo"
+    },
+    {
+        "weapon_type": "R8 Revolver",
+        "skin_name": "Night",
+        "base_market_hash_name": "R8 Revolver | Night"
+    },
+    {
+        "weapon_type": "SSG 08",
+        "skin_name": "Jungle Dashed",
+        "base_market_hash_name": "SSG 08 | Jungle Dashed"
+    },
+    {
+        "weapon_type": "Nova",
+        "skin_name": "Army Sheen",
+        "base_market_hash_name": "Nova | Army Sheen"
+    },
+    {
+        "weapon_type": "SG 553",
+        "skin_name": "Lush Ruins",
+        "base_market_hash_name": "SG 553 | Lush Ruins"
+    },
+    {
+        "weapon_type": "P90",
+        "skin_name": "Ancient Earth",
+        "base_market_hash_name": "P90 | Ancient Earth"
+    },
+    {
+        "weapon_type": "AWP",
+        "skin_name": "Fade",
+        "base_market_hash_name": "AWP | Fade"
+    },
+    {
+        "weapon_type": "M4A1-S",
+        "skin_name": "Blue Phosphor",
+        "base_market_hash_name": "M4A1-S | Blue Phosphor"
+    },
+    {
+        "weapon_type": "USP-S",
+        "skin_name": "Target Acquired",
+        "base_market_hash_name": "USP-S | Target Acquired"
+    },
+    {
+        "weapon_type": "UMP-45",
+        "skin_name": "Crime Scene",
+        "base_market_hash_name": "UMP-45 | Crime Scene"
+    },
+    {
+        "weapon_type": "Five-SeveN",
+        "skin_name": "Berries And Cherries",
+        "base_market_hash_name": "Five-SeveN | Berries And Cherries"
+    },
+    {
+        "weapon_type": "FAMAS",
+        "skin_name": "Prime Conspiracy",
+        "base_market_hash_name": "FAMAS | Prime Conspiracy"
+    },
+    {
+        "weapon_type": "SCAR-20",
+        "skin_name": "Magna Carta",
+        "base_market_hash_name": "SCAR-20 | Magna Carta"
+    },
+    {
+        "weapon_type": "P2000",
+        "skin_name": "Dispatch",
+        "base_market_hash_name": "P2000 | Dispatch"
+    },
+    {
+        "weapon_type": "SSG 08",
+        "skin_name": "Threat Detected",
+        "base_market_hash_name": "SSG 08 | Threat Detected"
+    },
+    {
+        "weapon_type": "M4A4",
+        "skin_name": "Global Offensive",
+        "base_market_hash_name": "M4A4 | Global Offensive"
+    },
+    {
+        "weapon_type": "MAG-7",
+        "skin_name": "Carbon Fiber",
+        "base_market_hash_name": "MAG-7 | Carbon Fiber"
+    },
+    {
+        "weapon_type": "MP5-SD",
+        "skin_name": "Nitro",
+        "base_market_hash_name": "MP5-SD | Nitro"
+    },
+    {
+        "weapon_type": "Dual Berettas",
+        "skin_name": "Switch Board",
+        "base_market_hash_name": "Dual Berettas | Switch Board"
+    },
+    {
+        "weapon_type": "Desert Eagle",
+        "skin_name": "The Bronze",
+        "base_market_hash_name": "Desert Eagle | The Bronze"
+    },
+    {
+        "weapon_type": "CZ75-Auto",
+        "skin_name": "Jungle Dashed",
+        "base_market_hash_name": "CZ75-Auto | Jungle Dashed"
+    },
+    {
+        "weapon_type": "P250",
+        "skin_name": "Forest Night",
+        "base_market_hash_name": "P250 | Forest Night"
+    },
+    {
+        "weapon_type": "MP9",
+        "skin_name": "Army Sheen",
+        "base_market_hash_name": "MP9 | Army Sheen"
+    },
+    {
+        "weapon_type": "AUG",
+        "skin_name": "Surveillance",
+        "base_market_hash_name": "AUG | Surveillance"
+    },
+    {
+        "weapon_type": "XM1014",
+        "skin_name": "Charter",
+        "base_market_hash_name": "XM1014 | Charter"
+    },
+    {
+        "weapon_type": "AK-47",
+        "skin_name": "X-Ray",
+        "base_market_hash_name": "AK-47 | X-Ray"
+    },
+    {
+        "weapon_type": "MAC-10",
+        "skin_name": "Hot Snakes",
+        "base_market_hash_name": "MAC-10 | Hot Snakes"
+    },
+    {
+        "weapon_type": "AWP",
+        "skin_name": "Silk Tiger",
+        "base_market_hash_name": "AWP | Silk Tiger"
+    },
+    {
+        "weapon_type": "SG 553",
+        "skin_name": "Hypnotic",
+        "base_market_hash_name": "SG 553 | Hypnotic"
+    },
+    {
+        "weapon_type": "Galil AR",
+        "skin_name": "Phoenix Blacklight",
+        "base_market_hash_name": "Galil AR | Phoenix Blacklight"
+    },
+    {
+        "weapon_type": "Glock-18",
+        "skin_name": "Franklin",
+        "base_market_hash_name": "Glock-18 | Franklin"
+    },
+    {
+        "weapon_type": "P250",
+        "skin_name": "Bengal Tiger",
+        "base_market_hash_name": "P250 | Bengal Tiger"
+    },
+    {
+        "weapon_type": "P90",
+        "skin_name": "Tiger Pit",
+        "base_market_hash_name": "P90 | Tiger Pit"
+    },
+    {
+        "weapon_type": "Negev",
+        "skin_name": "Phoenix Stencil",
+        "base_market_hash_name": "Negev | Phoenix Stencil"
+    },
+    {
+        "weapon_type": "Desert Eagle",
+        "skin_name": "Night Heist",
+        "base_market_hash_name": "Desert Eagle | Night Heist"
+    },
+    {
+        "weapon_type": "Nova",
+        "skin_name": "Rust Coat",
+        "base_market_hash_name": "Nova | Rust Coat"
+    },
+    {
+        "weapon_type": "R8 Revolver",
+        "skin_name": "Phoenix Marker",
+        "base_market_hash_name": "R8 Revolver | Phoenix Marker"
+    },
+    {
+        "weapon_type": "UMP-45",
+        "skin_name": "Houndstooth",
+        "base_market_hash_name": "UMP-45 | Houndstooth"
+    },
+    {
+        "weapon_type": "MP7",
+        "skin_name": "Vault Heist",
+        "base_market_hash_name": "MP7 | Vault Heist"
+    },
+    {
+        "weapon_type": "M249",
+        "skin_name": "Predator",
+        "base_market_hash_name": "M249 | Predator"
+    },
+    {
+        "weapon_type": "PP-Bizon",
+        "skin_name": "Death Rattle",
+        "base_market_hash_name": "PP-Bizon | Death Rattle"
+    },
+    {
+        "weapon_type": "Sawed-Off",
+        "skin_name": "Clay Ambush",
+        "base_market_hash_name": "Sawed-Off | Clay Ambush"
+    },
+    {
+        "weapon_type": "Tec-9",
+        "skin_name": "Phoenix Chalk",
+        "base_market_hash_name": "Tec-9 | Phoenix Chalk"
+    },
+    {
+        "weapon_type": "Dual Berettas",
+        "skin_name": "Heist",
+        "base_market_hash_name": "Dual Berettas | Heist"
+    },
+    {
+        "weapon_type": "M4A1-S",
+        "skin_name": "Printstream",
+        "base_market_hash_name": "M4A1-S | Printstream"
+    },
+    {
+        "weapon_type": "Glock-18",
+        "skin_name": "Neo-Noir",
+        "base_market_hash_name": "Glock-18 | Neo-Noir"
+    },
+    {
+        "weapon_type": "M4A4",
+        "skin_name": "Cyber Security",
+        "base_market_hash_name": "M4A4 | Cyber Security"
+    },
+    {
+        "weapon_type": "USP-S",
+        "skin_name": "Monster Mashup",
+        "base_market_hash_name": "USP-S | Monster Mashup"
+    },
+    {
+        "weapon_type": "Five-SeveN",
+        "skin_name": "Fairy Tale",
+        "base_market_hash_name": "Five-SeveN | Fairy Tale"
+    },
+    {
+        "weapon_type": "UMP-45",
+        "skin_name": "Gold Bismuth",
+        "base_market_hash_name": "UMP-45 | Gold Bismuth"
+    },
+    {
+        "weapon_type": "SSG 08",
+        "skin_name": "Parallax",
+        "base_market_hash_name": "SSG 08 | Parallax"
+    },
+    {
+        "weapon_type": "Dual Berettas",
+        "skin_name": "Dezastre",
+        "base_market_hash_name": "Dual Berettas | Dezastre"
+    },
+    {
+        "weapon_type": "AWP",
+        "skin_name": "Exoskeleton",
+        "base_market_hash_name": "AWP | Exoskeleton"
+    },
+    {
+        "weapon_type": "Nova",
+        "skin_name": "Clear Polymer",
+        "base_market_hash_name": "Nova | Clear Polymer"
+    },
+    {
+        "weapon_type": "MP5-SD",
+        "skin_name": "Condition Zero",
+        "base_market_hash_name": "MP5-SD | Condition Zero"
+    },
+    {
+        "weapon_type": "M249",
+        "skin_name": "Deep Relief",
+        "base_market_hash_name": "M249 | Deep Relief"
+    },
+    {
+        "weapon_type": "P250",
+        "skin_name": "Contaminant",
+        "base_market_hash_name": "P250 | Contaminant"
+    },
+    {
+        "weapon_type": "Galil AR",
+        "skin_name": "Vandal",
+        "base_market_hash_name": "Galil AR | Vandal"
+    },
+    {
+        "weapon_type": "G3SG1",
+        "skin_name": "Digital Mesh",
+        "base_market_hash_name": "G3SG1 | Digital Mesh"
+    },
+    {
+        "weapon_type": "P90",
+        "skin_name": "Cocoa Rampage",
+        "base_market_hash_name": "P90 | Cocoa Rampage"
+    },
+    {
+        "weapon_type": "CZ75-Auto",
+        "skin_name": "Vendetta",
+        "base_market_hash_name": "CZ75-Auto | Vendetta"
+    },
+    {
+        "weapon_type": "M4A4",
+        "skin_name": "In Living Color",
+        "base_market_hash_name": "M4A4 | In Living Color"
+    },
+    {
+        "weapon_type": "USP-S",
+        "skin_name": "The Traitor",
+        "base_market_hash_name": "USP-S | The Traitor"
+    },
+    {
+        "weapon_type": "Galil AR",
+        "skin_name": "Chromatic Aberration",
+        "base_market_hash_name": "Galil AR | Chromatic Aberration"
+    },
+    {
+        "weapon_type": "XM1014",
+        "skin_name": "XOXO",
+        "base_market_hash_name": "XM1014 | XOXO"
+    },
+    {
+        "weapon_type": "MP9",
+        "skin_name": "Food Chain",
+        "base_market_hash_name": "MP9 | Food Chain"
+    },
+    {
+        "weapon_type": "AK-47",
+        "skin_name": "Slate",
+        "base_market_hash_name": "AK-47 | Slate"
+    },
+    {
+        "weapon_type": "Desert Eagle",
+        "skin_name": "Trigger Discipline",
+        "base_market_hash_name": "Desert Eagle | Trigger Discipline"
+    },
+    {
+        "weapon_type": "MAC-10",
+        "skin_name": "Button Masher",
+        "base_market_hash_name": "MAC-10 | Button Masher"
+    },
+    {
+        "weapon_type": "Negev",
+        "skin_name": "dev_texture",
+        "base_market_hash_name": "Negev | dev_texture"
+    },
+    {
+        "weapon_type": "P250",
+        "skin_name": "Cyber Shell",
+        "base_market_hash_name": "P250 | Cyber Shell"
+    },
+    {
+        "weapon_type": "Nova",
+        "skin_name": "Windblown",
+        "base_market_hash_name": "Nova | Windblown"
+    },
+    {
+        "weapon_type": "R8 Revolver",
+        "skin_name": "Junk Yard",
+        "base_market_hash_name": "R8 Revolver | Junk Yard"
+    },
+    {
+        "weapon_type": "UMP-45",
+        "skin_name": "Oscillator",
+        "base_market_hash_name": "UMP-45 | Oscillator"
+    },
+    {
+        "weapon_type": "CZ75-Auto",
+        "skin_name": "Circaetus",
+        "base_market_hash_name": "CZ75-Auto | Circaetus"
+    },
+    {
+        "weapon_type": "M249",
+        "skin_name": "O.S.I.P.R.",
+        "base_market_hash_name": "M249 | O.S.I.P.R."
+    },
+    {
+        "weapon_type": "Glock-18",
+        "skin_name": "Clear Polymer",
+        "base_market_hash_name": "Glock-18 | Clear Polymer"
+    },
+    {
+        "weapon_type": "SG 553",
+        "skin_name": "Heavy Metal",
+        "base_market_hash_name": "SG 553 | Heavy Metal"
+    },
+    {
+        "weapon_type": "AK-47",
+        "skin_name": "Gold Arabesque",
+        "base_market_hash_name": "AK-47 | Gold Arabesque"
+    },
+    {
+        "weapon_type": "UMP-45",
+        "skin_name": "Fade",
+        "base_market_hash_name": "UMP-45 | Fade"
+    },
+    {
+        "weapon_type": "SSG 08",
+        "skin_name": "Death Strike",
+        "base_market_hash_name": "SSG 08 | Death Strike"
+    },
+    {
+        "weapon_type": "MAC-10",
+        "skin_name": "Case Hardened",
+        "base_market_hash_name": "MAC-10 | Case Hardened"
+    },
+    {
+        "weapon_type": "USP-S",
+        "skin_name": "Orange Anolis",
+        "base_market_hash_name": "USP-S | Orange Anolis"
+    },
+    {
+        "weapon_type": "M4A4",
+        "skin_name": "Red DDPAT",
+        "base_market_hash_name": "M4A4 | Red DDPAT"
+    },
+    {
+        "weapon_type": "Galil AR",
+        "skin_name": "Amber Fade",
+        "base_market_hash_name": "Galil AR | Amber Fade"
+    },
+    {
+        "weapon_type": "G3SG1",
+        "skin_name": "New Roots",
+        "base_market_hash_name": "G3SG1 | New Roots"
+    },
+    {
+        "weapon_type": "P250",
+        "skin_name": "Black & Tan",
+        "base_market_hash_name": "P250 | Black & Tan"
+    },
+    {
+        "weapon_type": "Nova",
+        "skin_name": "Quick Sand",
+        "base_market_hash_name": "Nova | Quick Sand"
+    },
+    {
+        "weapon_type": "M249",
+        "skin_name": "Midnight Palm",
+        "base_market_hash_name": "M249 | Midnight Palm"
+    },
+    {
+        "weapon_type": "MP9",
+        "skin_name": "Old Roots",
+        "base_market_hash_name": "MP9 | Old Roots"
+    },
+    {
+        "weapon_type": "AUG",
+        "skin_name": "Spalted Wood",
+        "base_market_hash_name": "AUG | Spalted Wood"
+    },
+    {
+        "weapon_type": "Five-SeveN",
+        "skin_name": "Withered Vine",
+        "base_market_hash_name": "Five-SeveN | Withered Vine"
+    },
+    {
+        "weapon_type": "SG 553",
+        "skin_name": "Bleached",
+        "base_market_hash_name": "SG 553 | Bleached"
+    },
+    {
+        "weapon_type": "MP7",
+        "skin_name": "Prey",
+        "base_market_hash_name": "MP7 | Prey"
+    },
+    {
+        "weapon_type": "P90",
+        "skin_name": "Desert DDPAT",
+        "base_market_hash_name": "P90 | Desert DDPAT"
+    },
+    {
+        "weapon_type": "Sawed-Off",
+        "skin_name": "Parched",
+        "base_market_hash_name": "Sawed-Off | Parched"
+    },
+    {
+        "weapon_type": "R8 Revolver",
+        "skin_name": "Desert Brush",
+        "base_market_hash_name": "R8 Revolver | Desert Brush"
+    },
+    {
+        "weapon_type": "AWP",
+        "skin_name": "Desert Hydra",
+        "base_market_hash_name": "AWP | Desert Hydra"
+    },
+    {
+        "weapon_type": "Desert Eagle",
+        "skin_name": "Fennec Fox",
+        "base_market_hash_name": "Desert Eagle | Fennec Fox"
+    },
+    {
+        "weapon_type": "MP5-SD",
+        "skin_name": "Oxide Oasis",
+        "base_market_hash_name": "MP5-SD | Oxide Oasis"
+    },
+    {
+        "weapon_type": "Glock-18",
+        "skin_name": "Pink DDPAT",
+        "base_market_hash_name": "Glock-18 | Pink DDPAT"
+    },
+    {
+        "weapon_type": "XM1014",
+        "skin_name": "Elegant Vines",
+        "base_market_hash_name": "XM1014 | Elegant Vines"
+    },
+    {
+        "weapon_type": "AUG",
+        "skin_name": "Sand Storm",
+        "base_market_hash_name": "AUG | Sand Storm"
+    },
+    {
+        "weapon_type": "USP-S",
+        "skin_name": "Purple DDPAT",
+        "base_market_hash_name": "USP-S | Purple DDPAT"
+    },
+    {
+        "weapon_type": "M249",
+        "skin_name": "Humidor",
+        "base_market_hash_name": "M249 | Humidor"
+    },
+    {
+        "weapon_type": "SG 553",
+        "skin_name": "Desert Blossom",
+        "base_market_hash_name": "SG 553 | Desert Blossom"
+    },
+    {
+        "weapon_type": "MP9",
+        "skin_name": "Music Box",
+        "base_market_hash_name": "MP9 | Music Box"
+    },
+    {
+        "weapon_type": "FAMAS",
+        "skin_name": "CaliCamo",
+        "base_market_hash_name": "FAMAS | CaliCamo"
+    },
+    {
+        "weapon_type": "Dual Berettas",
+        "skin_name": "Drift Wood",
+        "base_market_hash_name": "Dual Berettas | Drift Wood"
+    },
+    {
+        "weapon_type": "P90",
+        "skin_name": "Verdant Growth",
+        "base_market_hash_name": "P90 | Verdant Growth"
+    },
+    {
+        "weapon_type": "CZ75-Auto",
+        "skin_name": "Midnight Palm",
+        "base_market_hash_name": "CZ75-Auto | Midnight Palm"
+    },
+    {
+        "weapon_type": "P250",
+        "skin_name": "Drought",
+        "base_market_hash_name": "P250 | Drought"
+    },
+    {
+        "weapon_type": "MAG-7",
+        "skin_name": "Navy Sheen",
+        "base_market_hash_name": "MAG-7 | Navy Sheen"
+    },
+    {
+        "weapon_type": "PP-Bizon",
+        "skin_name": "Anolis",
+        "base_market_hash_name": "PP-Bizon | Anolis"
+    },
+    {
+        "weapon_type": "SSG 08",
+        "skin_name": "Prey",
+        "base_market_hash_name": "SSG 08 | Prey"
+    },
+    {
+        "weapon_type": "MAC-10",
+        "skin_name": "Sienna Damask",
+        "base_market_hash_name": "MAC-10 | Sienna Damask"
+    },
+    {
+        "weapon_type": "M4A4",
+        "skin_name": "The Coalition",
+        "base_market_hash_name": "M4A4 | The Coalition"
+    },
+    {
+        "weapon_type": "Glock-18",
+        "skin_name": "Gamma Doppler",
+        "base_market_hash_name": "Glock-18 | Gamma Doppler"
+    },
+    {
+        "weapon_type": "USP-S",
+        "skin_name": "Whiteout",
+        "base_market_hash_name": "USP-S | Whiteout"
+    },
+    {
+        "weapon_type": "FAMAS",
+        "skin_name": "Meltdown",
+        "base_market_hash_name": "FAMAS | Meltdown"
+    },
+    {
+        "weapon_type": "MAC-10",
+        "skin_name": "Propaganda",
+        "base_market_hash_name": "MAC-10 | Propaganda"
+    },
+    {
+        "weapon_type": "AWP",
+        "skin_name": "POP AWP",
+        "base_market_hash_name": "AWP | POP AWP"
+    },
+    {
+        "weapon_type": "Nova",
+        "skin_name": "Red Quartz",
+        "base_market_hash_name": "Nova | Red Quartz"
+    },
+    {
+        "weapon_type": "CZ75-Auto",
+        "skin_name": "Syndicate",
+        "base_market_hash_name": "CZ75-Auto | Syndicate"
+    },
+    {
+        "weapon_type": "MP5-SD",
+        "skin_name": "Autumn Twilly",
+        "base_market_hash_name": "MP5-SD | Autumn Twilly"
+    },
+    {
+        "weapon_type": "P2000",
+        "skin_name": "Space Race",
+        "base_market_hash_name": "P2000 | Space Race"
+    },
+    {
+        "weapon_type": "Desert Eagle",
+        "skin_name": "Sputnik",
+        "base_market_hash_name": "Desert Eagle | Sputnik"
+    },
+    {
+        "weapon_type": "M4A1-S",
+        "skin_name": "Fizzy POP",
+        "base_market_hash_name": "M4A1-S | Fizzy POP"
+    },
+    {
+        "weapon_type": "AUG",
+        "skin_name": "Amber Fade",
+        "base_market_hash_name": "AUG | Amber Fade"
+    },
+    {
+        "weapon_type": "Tec-9",
+        "skin_name": "Safety Net",
+        "base_market_hash_name": "Tec-9 | Safety Net"
+    },
+    {
+        "weapon_type": "SSG 08",
+        "skin_name": "Spring Twilly",
+        "base_market_hash_name": "SSG 08 | Spring Twilly"
+    },
+    {
+        "weapon_type": "UMP-45",
+        "skin_name": "Full Stop",
+        "base_market_hash_name": "UMP-45 | Full Stop"
+    },
+    {
+        "weapon_type": "R8 Revolver",
+        "skin_name": "Blaze",
+        "base_market_hash_name": "R8 Revolver | Blaze"
+    },
+    {
+        "weapon_type": "M4A1-S",
+        "skin_name": "Imminent Danger",
+        "base_market_hash_name": "M4A1-S | Imminent Danger"
+    },
+    {
+        "weapon_type": "Five-SeveN",
+        "skin_name": "Fall Hazard",
+        "base_market_hash_name": "Five-SeveN | Fall Hazard"
+    },
+    {
+        "weapon_type": "SG 553",
+        "skin_name": "Hazard Pay",
+        "base_market_hash_name": "SG 553 | Hazard Pay"
+    },
+    {
+        "weapon_type": "Galil AR",
+        "skin_name": "CAUTION!",
+        "base_market_hash_name": "Galil AR | CAUTION!"
+    },
+    {
+        "weapon_type": "MAG-7",
+        "skin_name": "Prism Terrace",
+        "base_market_hash_name": "MAG-7 | Prism Terrace"
+    },
+    {
+        "weapon_type": "P250",
+        "skin_name": "Digital Architect",
+        "base_market_hash_name": "P250 | Digital Architect"
+    },
+    {
+        "weapon_type": "Negev",
+        "skin_name": "Infrastructure",
+        "base_market_hash_name": "Negev | Infrastructure"
+    },
+    {
+        "weapon_type": "AK-47",
+        "skin_name": "Green Laminate",
+        "base_market_hash_name": "AK-47 | Green Laminate"
+    },
+    {
+        "weapon_type": "Nova",
+        "skin_name": "Interlock",
+        "base_market_hash_name": "Nova | Interlock"
+    },
+    {
+        "weapon_type": "P90",
+        "skin_name": "Schematic",
+        "base_market_hash_name": "P90 | Schematic"
+    },
+    {
+        "weapon_type": "UMP-45",
+        "skin_name": "Mechanism",
+        "base_market_hash_name": "UMP-45 | Mechanism"
+    },
+    {
+        "weapon_type": "Glock-18",
+        "skin_name": "Red Tire",
+        "base_market_hash_name": "Glock-18 | Red Tire"
+    },
+    {
+        "weapon_type": "SSG 08",
+        "skin_name": "Carbon Fiber",
+        "base_market_hash_name": "SSG 08 | Carbon Fiber"
+    },
+    {
+        "weapon_type": "PP-Bizon",
+        "skin_name": "Breaker Box",
+        "base_market_hash_name": "PP-Bizon | Breaker Box"
+    },
+    {
+        "weapon_type": "FAMAS",
+        "skin_name": "Faulty Wiring",
+        "base_market_hash_name": "FAMAS | Faulty Wiring"
+    },
+    {
+        "weapon_type": "CZ75-Auto",
+        "skin_name": "Framework",
+        "base_market_hash_name": "CZ75-Auto | Framework"
+    },
+    {
+        "weapon_type": "Dual Berettas",
+        "skin_name": "Oil Change",
+        "base_market_hash_name": "Dual Berettas | Oil Change"
+    },
+    {
+        "weapon_type": "MAC-10",
+        "skin_name": "Strats",
+        "base_market_hash_name": "MAC-10 | Strats"
+    },
+    {
+        "weapon_type": "XM1014",
+        "skin_name": "Blue Tire",
+        "base_market_hash_name": "XM1014 | Blue Tire"
+    },
+    {
+        "weapon_type": "Desert Eagle",
+        "skin_name": "Ocean Drive",
+        "base_market_hash_name": "Desert Eagle | Ocean Drive"
+    },
+    {
+        "weapon_type": "AK-47",
+        "skin_name": "Leet Museo",
+        "base_market_hash_name": "AK-47 | Leet Museo"
+    },
+    {
+        "weapon_type": "SSG 08",
+        "skin_name": "Turbo Peek",
+        "base_market_hash_name": "SSG 08 | Turbo Peek"
+    },
+    {
+        "weapon_type": "Glock-18",
+        "skin_name": "Snack Attack",
+        "base_market_hash_name": "Glock-18 | Snack Attack"
+    },
+    {
+        "weapon_type": "MAC-10",
+        "skin_name": "Toybox",
+        "base_market_hash_name": "MAC-10 | Toybox"
+    },
+    {
+        "weapon_type": "M4A4",
+        "skin_name": "Spider Lily",
+        "base_market_hash_name": "M4A4 | Spider Lily"
+    },
+    {
+        "weapon_type": "MP9",
+        "skin_name": "Mount Fuji",
+        "base_market_hash_name": "MP9 | Mount Fuji"
+    },
+    {
+        "weapon_type": "Five-SeveN",
+        "skin_name": "Boost Protocol",
+        "base_market_hash_name": "Five-SeveN | Boost Protocol"
+    },
+    {
+        "weapon_type": "FAMAS",
+        "skin_name": "ZX Spectron",
+        "base_market_hash_name": "FAMAS | ZX Spectron"
+    },
+    {
+        "weapon_type": "MAG-7",
+        "skin_name": "BI83 Spectrum",
+        "base_market_hash_name": "MAG-7 | BI83 Spectrum"
+    },
+    {
+        "weapon_type": "XM1014",
+        "skin_name": "Watchdog",
+        "base_market_hash_name": "XM1014 | Watchdog"
+    },
+    {
+        "weapon_type": "USP-S",
+        "skin_name": "Black Lotus",
+        "base_market_hash_name": "USP-S | Black Lotus"
+    },
+    {
+        "weapon_type": "PP-Bizon",
+        "skin_name": "Lumen",
+        "base_market_hash_name": "PP-Bizon | Lumen"
+    },
+    {
+        "weapon_type": "MP7",
+        "skin_name": "Guerrilla",
+        "base_market_hash_name": "MP7 | Guerrilla"
+    },
+    {
+        "weapon_type": "G3SG1",
+        "skin_name": "Keeping Tabs",
+        "base_market_hash_name": "G3SG1 | Keeping Tabs"
+    },
+    {
+        "weapon_type": "Dual Berettas",
+        "skin_name": "Tread",
+        "base_market_hash_name": "Dual Berettas | Tread"
+    },
+    {
+        "weapon_type": "AUG",
+        "skin_name": "Plague",
+        "base_market_hash_name": "AUG | Plague"
+    },
+    {
+        "weapon_type": "AK-47",
+        "skin_name": "Nightwish",
+        "base_market_hash_name": "AK-47 | Nightwish"
+    },
+    {
+        "weapon_type": "MP9",
+        "skin_name": "Starlight Protector",
+        "base_market_hash_name": "MP9 | Starlight Protector"
+    },
+    {
+        "weapon_type": "Dual Berettas",
+        "skin_name": "Melondrama",
+        "base_market_hash_name": "Dual Berettas | Melondrama"
+    },
+    {
+        "weapon_type": "FAMAS",
+        "skin_name": "Rapid Eye Movement",
+        "base_market_hash_name": "FAMAS | Rapid Eye Movement"
+    },
+    {
+        "weapon_type": "MP7",
+        "skin_name": "Abyssal Apparition",
+        "base_market_hash_name": "MP7 | Abyssal Apparition"
+    },
+    {
+        "weapon_type": "PP-Bizon",
+        "skin_name": "Space Cat",
+        "base_market_hash_name": "PP-Bizon | Space Cat"
+    },
+    {
+        "weapon_type": "G3SG1",
+        "skin_name": "Dream Glade",
+        "base_market_hash_name": "G3SG1 | Dream Glade"
+    },
+    {
+        "weapon_type": "M4A1-S",
+        "skin_name": "Night Terror",
+        "base_market_hash_name": "M4A1-S | Night Terror"
+    },
+    {
+        "weapon_type": "XM1014",
+        "skin_name": "Zombie Offensive",
+        "base_market_hash_name": "XM1014 | Zombie Offensive"
+    },
+    {
+        "weapon_type": "USP-S",
+        "skin_name": "Ticket to Hell",
+        "base_market_hash_name": "USP-S | Ticket to Hell"
+    },
+    {
+        "weapon_type": "Five-SeveN",
+        "skin_name": "Scrawl",
+        "base_market_hash_name": "Five-SeveN | Scrawl"
+    },
+    {
+        "weapon_type": "MAC-10",
+        "skin_name": "Ensnared",
+        "base_market_hash_name": "MAC-10 | Ensnared"
+    },
+    {
+        "weapon_type": "MAG-7",
+        "skin_name": "Foresight",
+        "base_market_hash_name": "MAG-7 | Foresight"
+    },
+    {
+        "weapon_type": "MP5-SD",
+        "skin_name": "Necro Jr.",
+        "base_market_hash_name": "MP5-SD | Necro Jr."
+    },
+    {
+        "weapon_type": "P2000",
+        "skin_name": "Lifted Spirits",
+        "base_market_hash_name": "P2000 | Lifted Spirits"
+    },
+    {
+        "weapon_type": "SCAR-20",
+        "skin_name": "Poultrygeist",
+        "base_market_hash_name": "SCAR-20 | Poultrygeist"
+    },
+    {
+        "weapon_type": "Sawed-Off",
+        "skin_name": "Spirit Board",
+        "base_market_hash_name": "Sawed-Off | Spirit Board"
+    },
+    {
+        "weapon_type": "USP-S",
+        "skin_name": "Printstream",
+        "base_market_hash_name": "USP-S | Printstream"
+    },
+    {
+        "weapon_type": "AWP",
+        "skin_name": "Chromatic Aberration",
+        "base_market_hash_name": "AWP | Chromatic Aberration"
+    },
+    {
+        "weapon_type": "AK-47",
+        "skin_name": "Ice Coaled",
+        "base_market_hash_name": "AK-47 | Ice Coaled"
+    },
+    {
+        "weapon_type": "P250",
+        "skin_name": "Visions",
+        "base_market_hash_name": "P250 | Visions"
+    },
+    {
+        "weapon_type": "Sawed-Off",
+        "skin_name": "Kiss♥Love",
+        "base_market_hash_name": "Sawed-Off | Kiss♥Love"
+    },
+    {
+        "weapon_type": "R8 Revolver",
+        "skin_name": "Crazy 8",
+        "base_market_hash_name": "R8 Revolver | Crazy 8"
+    },
+    {
+        "weapon_type": "M249",
+        "skin_name": "Downtown",
+        "base_market_hash_name": "M249 | Downtown"
+    },
+    {
+        "weapon_type": "SG 553",
+        "skin_name": "Dragon Tech",
+        "base_market_hash_name": "SG 553 | Dragon Tech"
+    },
+    {
+        "weapon_type": "P90",
+        "skin_name": "Vent Rush",
+        "base_market_hash_name": "P90 | Vent Rush"
+    },
+    {
+        "weapon_type": "Dual Berettas",
+        "skin_name": "Flora Carnivora",
+        "base_market_hash_name": "Dual Berettas | Flora Carnivora"
+    },
+    {
+        "weapon_type": "FAMAS",
+        "skin_name": "Meow 36",
+        "base_market_hash_name": "FAMAS | Meow 36"
+    },
+    {
+        "weapon_type": "Galil AR",
+        "skin_name": "Destroyer",
+        "base_market_hash_name": "Galil AR | Destroyer"
+    },
+    {
+        "weapon_type": "M4A4",
+        "skin_name": "Poly Mag",
+        "base_market_hash_name": "M4A4 | Poly Mag"
+    },
+    {
+        "weapon_type": "MAC-10",
+        "skin_name": "Monkeyflage",
+        "base_market_hash_name": "MAC-10 | Monkeyflage"
+    },
+    {
+        "weapon_type": "Negev",
+        "skin_name": "Drop Me",
+        "base_market_hash_name": "Negev | Drop Me"
+    },
+    {
+        "weapon_type": "UMP-45",
+        "skin_name": "Roadblock",
+        "base_market_hash_name": "UMP-45 | Roadblock"
+    },
+    {
+        "weapon_type": "Glock-18",
+        "skin_name": "Winterized",
+        "base_market_hash_name": "Glock-18 | Winterized"
+    },
+    {
+        "weapon_type": "AK-47",
+        "skin_name": "Head Shot",
+        "base_market_hash_name": "AK-47 | Head Shot"
+    },
+    {
+        "weapon_type": "M4A4",
+        "skin_name": "Temukau",
+        "base_market_hash_name": "M4A4 | Temukau"
+    },
+    {
+        "weapon_type": "P2000",
+        "skin_name": "Wicked Sick",
+        "base_market_hash_name": "P2000 | Wicked Sick"
+    },
+    {
+        "weapon_type": "UMP-45",
+        "skin_name": "Wild Child",
+        "base_market_hash_name": "UMP-45 | Wild Child"
+    },
+    {
+        "weapon_type": "M4A1-S",
+        "skin_name": "Emphorosaur-S",
+        "base_market_hash_name": "M4A1-S | Emphorosaur-S"
+    },
+    {
+        "weapon_type": "Glock-18",
+        "skin_name": "Umbral Rabbit",
+        "base_market_hash_name": "Glock-18 | Umbral Rabbit"
+    },
+    {
+        "weapon_type": "P90",
+        "skin_name": "Neoqueen",
+        "base_market_hash_name": "P90 | Neoqueen"
+    },
+    {
+        "weapon_type": "R8 Revolver",
+        "skin_name": "Banana Cannon",
+        "base_market_hash_name": "R8 Revolver | Banana Cannon"
+    },
+    {
+        "weapon_type": "MAC-10",
+        "skin_name": "Sakkaku",
+        "base_market_hash_name": "MAC-10 | Sakkaku"
+    },
+    {
+        "weapon_type": "MAG-7",
+        "skin_name": "Insomnia",
+        "base_market_hash_name": "MAG-7 | Insomnia"
+    },
+    {
+        "weapon_type": "MP9",
+        "skin_name": "Featherweight",
+        "base_market_hash_name": "MP9 | Featherweight"
+    },
+    {
+        "weapon_type": "SCAR-20",
+        "skin_name": "Fragments",
+        "base_market_hash_name": "SCAR-20 | Fragments"
+    },
+    {
+        "weapon_type": "P250",
+        "skin_name": "Re.built",
+        "base_market_hash_name": "P250 | Re.built"
+    },
+    {
+        "weapon_type": "MP5-SD",
+        "skin_name": "Liquidation",
+        "base_market_hash_name": "MP5-SD | Liquidation"
+    },
+    {
+        "weapon_type": "SG 553",
+        "skin_name": "Cyberforce",
+        "base_market_hash_name": "SG 553 | Cyberforce"
+    },
+    {
+        "weapon_type": "Tec-9",
+        "skin_name": "Rebel",
+        "base_market_hash_name": "Tec-9 | Rebel"
+    },
+    {
+        "weapon_type": "AWP",
+        "skin_name": "Duality",
+        "base_market_hash_name": "AWP | Duality"
+    },
+    {
+        "weapon_type": "M4A4",
+        "skin_name": "Eye of Horus",
+        "base_market_hash_name": "M4A4 | Eye of Horus"
+    },
+    {
+        "weapon_type": "FAMAS",
+        "skin_name": "Waters of Nephthys",
+        "base_market_hash_name": "FAMAS | Waters of Nephthys"
+    },
+    {
+        "weapon_type": "P250",
+        "skin_name": "Apep's Curse",
+        "base_market_hash_name": "P250 | Apep's Curse"
+    },
+    {
+        "weapon_type": "Glock-18",
+        "skin_name": "Ramese's Reach",
+        "base_market_hash_name": "Glock-18 | Ramese's Reach"
+    },
+    {
+        "weapon_type": "Nova",
+        "skin_name": "Sobek's Bite",
+        "base_market_hash_name": "Nova | Sobek's Bite"
+    },
+    {
+        "weapon_type": "P90",
+        "skin_name": "ScaraB Rush",
+        "base_market_hash_name": "P90 | ScaraB Rush"
+    },
+    {
+        "weapon_type": "AWP",
+        "skin_name": "Black Nile",
+        "base_market_hash_name": "AWP | Black Nile"
+    },
+    {
+        "weapon_type": "AK-47",
+        "skin_name": "Steel Delta",
+        "base_market_hash_name": "AK-47 | Steel Delta"
+    },
+    {
+        "weapon_type": "Tec-9",
+        "skin_name": "Mummy's Rot",
+        "base_market_hash_name": "Tec-9 | Mummy's Rot"
+    },
+    {
+        "weapon_type": "MAG-7",
+        "skin_name": "Copper Coated",
+        "base_market_hash_name": "MAG-7 | Copper Coated"
+    },
+    {
+        "weapon_type": "M4A1-S",
+        "skin_name": "Mud-Spec",
+        "base_market_hash_name": "M4A1-S | Mud-Spec"
+    },
+    {
+        "weapon_type": "USP-S",
+        "skin_name": "Desert Tactical",
+        "base_market_hash_name": "USP-S | Desert Tactical"
+    },
+    {
+        "weapon_type": "SSG 08",
+        "skin_name": "Azure Glyph",
+        "base_market_hash_name": "SSG 08 | Azure Glyph"
+    },
+    {
+        "weapon_type": "MAC-10",
+        "skin_name": "Echoing Sands",
+        "base_market_hash_name": "MAC-10 | Echoing Sands"
+    },
+    {
+        "weapon_type": "M249",
+        "skin_name": "Submerged",
+        "base_market_hash_name": "M249 | Submerged"
+    },
+    {
+        "weapon_type": "R8 Revolver",
+        "skin_name": "Inlay",
+        "base_market_hash_name": "R8 Revolver | Inlay"
+    },
+    {
+        "weapon_type": "XM1014",
+        "skin_name": "Hieroglyph",
+        "base_market_hash_name": "XM1014 | Hieroglyph"
+    },
+    {
+        "weapon_type": "AUG",
+        "skin_name": "Snake Pit",
+        "base_market_hash_name": "AUG | Snake Pit"
+    },
+    {
+        "weapon_type": "MP7",
+        "skin_name": "Sunbaked",
+        "base_market_hash_name": "MP7 | Sunbaked"
+    },
+    {
+        "weapon_type": "AK-47",
+        "skin_name": "Inheritance",
+        "base_market_hash_name": "AK-47 | Inheritance"
+    },
+    {
+        "weapon_type": "AWP",
+        "skin_name": "Chrome Cannon",
+        "base_market_hash_name": "AWP | Chrome Cannon"
+    },
+    {
+        "weapon_type": "USP-S",
+        "skin_name": "Jawbreaker",
+        "base_market_hash_name": "USP-S | Jawbreaker"
+    },
+    {
+        "weapon_type": "Zeus x27 Olympus",
+        "skin_name": "Zeus x27 Olympus",
+        "base_market_hash_name": "Zeus x27 Olympus"
+    },
+    {
+        "weapon_type": "M4A1-S",
+        "skin_name": "Black Lotus",
+        "base_market_hash_name": "M4A1-S | Black Lotus"
+    },
+    {
+        "weapon_type": "Sawed-Off",
+        "skin_name": "Analog Input",
+        "base_market_hash_name": "Sawed-Off | Analog Input"
+    },
+    {
+        "weapon_type": "MP7",
+        "skin_name": "Just Smile",
+        "base_market_hash_name": "MP7 | Just Smile"
+    },
+    {
+        "weapon_type": "Five-SeveN",
+        "skin_name": "Hybrid",
+        "base_market_hash_name": "Five-SeveN | Hybrid"
+    },
+    {
+        "weapon_type": "M4A4",
+        "skin_name": "Etch Lord",
+        "base_market_hash_name": "M4A4 | Etch Lord"
+    },
+    {
+        "weapon_type": "Glock-18",
+        "skin_name": "Block-18",
+        "base_market_hash_name": "Glock-18 | Block-18"
+    },
+    {
+        "weapon_type": "XM1014",
+        "skin_name": "Irezumi",
+        "base_market_hash_name": "XM1014 | Irezumi"
+    },
+    {
+        "weapon_type": "UMP-45",
+        "skin_name": "Motorized",
+        "base_market_hash_name": "UMP-45 | Motorized"
+    },
+    {
+        "weapon_type": "Tec-9",
+        "skin_name": "Slag",
+        "base_market_hash_name": "Tec-9 | Slag"
+    },
+    {
+        "weapon_type": "SSG 08",
+        "skin_name": "Dezastre",
+        "base_market_hash_name": "SSG 08 | Dezastre"
+    },
+    {
+        "weapon_type": "Nova",
+        "skin_name": "Dark Sigil",
+        "base_market_hash_name": "Nova | Dark Sigil"
+    },
+    {
+        "weapon_type": "MAC-10",
+        "skin_name": "Light Box",
+        "base_market_hash_name": "MAC-10 | Light Box"
+    },
+    {
+        "weapon_type": "Dual Berettas",
+        "skin_name": "Hideout",
+        "base_market_hash_name": "Dual Berettas | Hideout"
+    },
+    {
+        "weapon_type": "Desert Eagle",
+        "skin_name": "Heat Treated",
+        "base_market_hash_name": "Desert Eagle | Heat Treated"
+    },
+    {
+        "weapon_type": "M4A1-S",
+        "skin_name": "Vaporwave",
+        "base_market_hash_name": "M4A1-S | Vaporwave"
+    },
+    {
+        "weapon_type": "Glock-18",
+        "skin_name": "Gold Toof",
+        "base_market_hash_name": "Glock-18 | Gold Toof"
+    },
+    {
+        "weapon_type": "UMP-45",
+        "skin_name": "Neo-Noir",
+        "base_market_hash_name": "UMP-45 | Neo-Noir"
+    },
+    {
+        "weapon_type": "P250",
+        "skin_name": "Epicenter",
+        "base_market_hash_name": "P250 | Epicenter"
+    },
+    {
+        "weapon_type": "AK-47",
+        "skin_name": "The Outsiders",
+        "base_market_hash_name": "AK-47 | The Outsiders"
+    },
+    {
+        "weapon_type": "SSG 08",
+        "skin_name": "Rapid Transit",
+        "base_market_hash_name": "SSG 08 | Rapid Transit"
+    },
+    {
+        "weapon_type": "P90",
+        "skin_name": "Randy Rush",
+        "base_market_hash_name": "P90 | Randy Rush"
+    },
+    {
+        "weapon_type": "MAC-10",
+        "skin_name": "Saibā Oni",
+        "base_market_hash_name": "MAC-10 | Saibā Oni"
+    },
+    {
+        "weapon_type": "M4A4",
+        "skin_name": "Turbine",
+        "base_market_hash_name": "M4A4 | Turbine"
+    },
+    {
+        "weapon_type": "Dual Berettas",
+        "skin_name": "Hydro Strike",
+        "base_market_hash_name": "Dual Berettas | Hydro Strike"
+    },
+    {
+        "weapon_type": "USP-S",
+        "skin_name": "27",
+        "base_market_hash_name": "USP-S | 27"
+    },
+    {
+        "weapon_type": "SCAR-20",
+        "skin_name": "Trail Blazer",
+        "base_market_hash_name": "SCAR-20 | Trail Blazer"
+    },
+    {
+        "weapon_type": "R8 Revolver",
+        "skin_name": "Tango",
+        "base_market_hash_name": "R8 Revolver | Tango"
+    },
+    {
+        "weapon_type": "MP5-SD",
+        "skin_name": "Statics",
+        "base_market_hash_name": "MP5-SD | Statics"
+    },
+    {
+        "weapon_type": "M249",
+        "skin_name": "Hypnosis",
+        "base_market_hash_name": "M249 | Hypnosis"
+    },
+    {
+        "weapon_type": "Desert Eagle",
+        "skin_name": "Calligraffiti",
+        "base_market_hash_name": "Desert Eagle | Calligraffiti"
+    },
+    {
+        "weapon_type": "AUG",
+        "skin_name": "Luxe Trim",
+        "base_market_hash_name": "AUG | Luxe Trim"
+    },
+    {
+        "weapon_type": "AWP",
+        "skin_name": "CMYK",
+        "base_market_hash_name": "AWP | CMYK"
+    },
+    {
+        "weapon_type": "Desert Eagle",
+        "skin_name": "Starcade",
+        "base_market_hash_name": "Desert Eagle | Starcade"
+    },
+    {
+        "weapon_type": "AUG",
+        "skin_name": "Lil' Pig",
+        "base_market_hash_name": "AUG | Lil' Pig"
+    },
+    {
+        "weapon_type": "P90",
+        "skin_name": "Attack Vector",
+        "base_market_hash_name": "P90 | Attack Vector"
+    },
+    {
+        "weapon_type": "M4A4",
+        "skin_name": "Polysoup",
+        "base_market_hash_name": "M4A4 | Polysoup"
+    },
+    {
+        "weapon_type": "CZ75-Auto",
+        "skin_name": "Slalom",
+        "base_market_hash_name": "CZ75-Auto | Slalom"
+    },
+    {
+        "weapon_type": "XM1014",
+        "skin_name": "Halftone Shift",
+        "base_market_hash_name": "XM1014 | Halftone Shift"
+    },
+    {
+        "weapon_type": "SG 553",
+        "skin_name": "Berry Gel Coat",
+        "base_market_hash_name": "SG 553 | Berry Gel Coat"
+    },
+    {
+        "weapon_type": "SCAR-20",
+        "skin_name": "Wild Berry",
+        "base_market_hash_name": "SCAR-20 | Wild Berry"
+    },
+    {
+        "weapon_type": "AK-47",
+        "skin_name": "Crossfade",
+        "base_market_hash_name": "AK-47 | Crossfade"
+    },
+    {
+        "weapon_type": "SSG 08",
+        "skin_name": "Halftone Whorl",
+        "base_market_hash_name": "SSG 08 | Halftone Whorl"
+    },
+    {
+        "weapon_type": "P2000",
+        "skin_name": "Coral Halftone",
+        "base_market_hash_name": "P2000 | Coral Halftone"
+    },
+    {
+        "weapon_type": "MP7",
+        "skin_name": "Astrolabe",
+        "base_market_hash_name": "MP7 | Astrolabe"
+    },
+    {
+        "weapon_type": "M249",
+        "skin_name": "Spectrogram",
+        "base_market_hash_name": "M249 | Spectrogram"
+    },
+    {
+        "weapon_type": "Galil AR",
+        "skin_name": "NV",
+        "base_market_hash_name": "Galil AR | NV"
+    },
+    {
+        "weapon_type": "FAMAS",
+        "skin_name": "Halftone Wash",
+        "base_market_hash_name": "FAMAS | Halftone Wash"
+    },
+    {
+        "weapon_type": "AK-47",
+        "skin_name": "B the Monster",
+        "base_market_hash_name": "AK-47 | B the Monster"
+    },
+    {
+        "weapon_type": "Zeus x27 Dragon Snore",
+        "skin_name": "Zeus x27 Dragon Snore",
+        "base_market_hash_name": "Zeus x27 Dragon Snore"
+    },
+    {
+        "weapon_type": "AWP",
+        "skin_name": "Crakow!",
+        "base_market_hash_name": "AWP | Crakow!"
+    },
+    {
+        "weapon_type": "XM1014",
+        "skin_name": "Monster Melt",
+        "base_market_hash_name": "XM1014 | Monster Melt"
+    },
+    {
+        "weapon_type": "Dual Berettas",
+        "skin_name": "Sweet Little Angels",
+        "base_market_hash_name": "Dual Berettas | Sweet Little Angels"
+    },
+    {
+        "weapon_type": "AUG",
+        "skin_name": "Eye of Zapems",
+        "base_market_hash_name": "AUG | Eye of Zapems"
+    },
+    {
+        "weapon_type": "Nova",
+        "skin_name": "Wurst Hölle",
+        "base_market_hash_name": "Nova | Wurst Hölle"
+    },
+    {
+        "weapon_type": "MAC-10",
+        "skin_name": "Pipsqueak",
+        "base_market_hash_name": "MAC-10 | Pipsqueak"
+    },
+    {
+        "weapon_type": "Glock-18",
+        "skin_name": "Teal Graf",
+        "base_market_hash_name": "Glock-18 | Teal Graf"
+    },
+    {
+        "weapon_type": "Galil AR",
+        "skin_name": "Metallic Squeezer",
+        "base_market_hash_name": "Galil AR | Metallic Squeezer"
+    },
+    {
+        "weapon_type": "MP5-SD",
+        "skin_name": "Neon Squeezer",
+        "base_market_hash_name": "MP5-SD | Neon Squeezer"
+    },
+    {
+        "weapon_type": "P90",
+        "skin_name": "Wash me",
+        "base_market_hash_name": "P90 | Wash me"
+    },
+    {
+        "weapon_type": "Negev",
+        "skin_name": "Wall Bang",
+        "base_market_hash_name": "Negev | Wall Bang"
+    },
+    {
+        "weapon_type": "M4A1-S",
+        "skin_name": "Wash me plz",
+        "base_market_hash_name": "M4A1-S | Wash me plz"
+    },
+    {
+        "weapon_type": "Five-SeveN",
+        "skin_name": "Midnight Paintover",
+        "base_market_hash_name": "Five-SeveN | Midnight Paintover"
+    },
+    {
+        "weapon_type": "Desert Eagle",
+        "skin_name": "Tilted",
+        "base_market_hash_name": "Desert Eagle | Tilted"
+    },
+    {
+        "weapon_type": "M4A1-S",
+        "skin_name": "Fade",
+        "base_market_hash_name": "M4A1-S | Fade"
+    },
+    {
+        "weapon_type": "Glock-18",
+        "skin_name": "AXIA",
+        "base_market_hash_name": "Glock-18 | AXIA"
+    },
+    {
+        "weapon_type": "Galil AR",
+        "skin_name": "Rainbow Spoon",
+        "base_market_hash_name": "Galil AR | Rainbow Spoon"
+    },
+    {
+        "weapon_type": "UMP-45",
+        "skin_name": "Crimson Foil",
+        "base_market_hash_name": "UMP-45 | Crimson Foil"
+    },
+    {
+        "weapon_type": "MP9",
+        "skin_name": "Arctic Tri-Tone",
+        "base_market_hash_name": "MP9 | Arctic Tri-Tone"
+    },
+    {
+        "weapon_type": "Five-SeveN",
+        "skin_name": "Heat Treated",
+        "base_market_hash_name": "Five-SeveN | Heat Treated"
+    },
+    {
+        "weapon_type": "USP-S",
+        "skin_name": "Alpine Camo",
+        "base_market_hash_name": "USP-S | Alpine Camo"
+    },
+    {
+        "weapon_type": "SSG 08",
+        "skin_name": "Zeno",
+        "base_market_hash_name": "SSG 08 | Zeno"
+    },
+    {
+        "weapon_type": "P250",
+        "skin_name": "Small Game",
+        "base_market_hash_name": "P250 | Small Game"
+    },
+    {
+        "weapon_type": "Nova",
+        "skin_name": "Yorkshire",
+        "base_market_hash_name": "Nova | Yorkshire"
+    },
+    {
+        "weapon_type": "MP5-SD",
+        "skin_name": "Savannah Halftone",
+        "base_market_hash_name": "MP5-SD | Savannah Halftone"
+    },
+    {
+        "weapon_type": "PP-Bizon",
+        "skin_name": "Cold Cell",
+        "base_market_hash_name": "PP-Bizon | Cold Cell"
+    },
+    {
+        "weapon_type": "Tec-9",
+        "skin_name": "Tiger Stencil",
+        "base_market_hash_name": "Tec-9 | Tiger Stencil"
+    },
+    {
+        "weapon_type": "MAG-7",
+        "skin_name": "Wildwood",
+        "base_market_hash_name": "MAG-7 | Wildwood"
+    },
+    {
+        "weapon_type": "FAMAS",
+        "skin_name": "Half Sleeve",
+        "base_market_hash_name": "FAMAS | Half Sleeve"
+    },
+    {
+        "weapon_type": "AK-47",
+        "skin_name": "Olive Polycam",
+        "base_market_hash_name": "AK-47 | Olive Polycam"
+    },
+    {
+        "weapon_type": "XM1014",
+        "skin_name": "Solitude",
+        "base_market_hash_name": "XM1014 | Solitude"
+    },
+    {
+        "weapon_type": "M4A1-S",
+        "skin_name": "Stratosphere",
+        "base_market_hash_name": "M4A1-S | Stratosphere"
+    },
+    {
+        "weapon_type": "USP-S",
+        "skin_name": "Royal Guard",
+        "base_market_hash_name": "USP-S | Royal Guard"
+    },
+    {
+        "weapon_type": "AK-47",
+        "skin_name": "Midnight Laminate",
+        "base_market_hash_name": "AK-47 | Midnight Laminate"
+    },
+    {
+        "weapon_type": "Desert Eagle",
+        "skin_name": "Mint Fan",
+        "base_market_hash_name": "Desert Eagle | Mint Fan"
+    },
+    {
+        "weapon_type": "FAMAS",
+        "skin_name": "Yeti Camo",
+        "base_market_hash_name": "FAMAS | Yeti Camo"
+    },
+    {
+        "weapon_type": "P2000",
+        "skin_name": "Royal Baroque",
+        "base_market_hash_name": "P2000 | Royal Baroque"
+    },
+    {
+        "weapon_type": "MP9",
+        "skin_name": "Cobalt Paisley",
+        "base_market_hash_name": "MP9 | Cobalt Paisley"
+    },
+    {
+        "weapon_type": "P90",
+        "skin_name": "Reef Grief",
+        "base_market_hash_name": "P90 | Reef Grief"
+    },
+    {
+        "weapon_type": "Zeus x27 Electric Blue",
+        "skin_name": "Zeus x27 Electric Blue",
+        "base_market_hash_name": "Zeus x27 Electric Blue"
+    },
+    {
+        "weapon_type": "Nova",
+        "skin_name": "Turquoise Pour",
+        "base_market_hash_name": "Nova | Turquoise Pour"
+    },
+    {
+        "weapon_type": "M4A4",
+        "skin_name": "Naval Shred Camo",
+        "base_market_hash_name": "M4A4 | Naval Shred Camo"
+    },
+    {
+        "weapon_type": "Galil AR",
+        "skin_name": "Robin's Egg",
+        "base_market_hash_name": "Galil AR | Robin's Egg"
+    },
+    {
+        "weapon_type": "Glock-18",
+        "skin_name": "Ocean Topo",
+        "base_market_hash_name": "Glock-18 | Ocean Topo"
+    },
+    {
+        "weapon_type": "Dual Berettas",
+        "skin_name": "Rose Nacre",
+        "base_market_hash_name": "Dual Berettas | Rose Nacre"
+    },
+    {
+        "weapon_type": "Five-SeveN",
+        "skin_name": "Sky Blue",
+        "base_market_hash_name": "Five-SeveN | Sky Blue"
+    },
+    {
+        "weapon_type": "XM1014",
+        "skin_name": "Gum Wall Camo",
+        "base_market_hash_name": "XM1014 | Gum Wall Camo"
+    },
+    {
+        "weapon_type": "Negev",
+        "skin_name": "Sour Grapes",
+        "base_market_hash_name": "Negev | Sour Grapes"
+    },
+    {
+        "weapon_type": "Tec-9",
+        "skin_name": "Blue Blast",
+        "base_market_hash_name": "Tec-9 | Blue Blast"
+    },
+    {
+        "weapon_type": "MP9",
+        "skin_name": "Buff Blue",
+        "base_market_hash_name": "MP9 | Buff Blue"
+    },
+    {
+        "weapon_type": "P90",
+        "skin_name": "Blue Tac",
+        "base_market_hash_name": "P90 | Blue Tac"
+    },
+    {
+        "weapon_type": "P250",
+        "skin_name": "Plum Netting",
+        "base_market_hash_name": "P250 | Plum Netting"
+    },
+    {
+        "weapon_type": "SG 553",
+        "skin_name": "Night Camo",
+        "base_market_hash_name": "SG 553 | Night Camo"
+    },
+    {
+        "weapon_type": "Sawed-Off",
+        "skin_name": "Runoff",
+        "base_market_hash_name": "Sawed-Off | Runoff"
+    },
+    {
+        "weapon_type": "R8 Revolver",
+        "skin_name": "Cobalt Grip",
+        "base_market_hash_name": "R8 Revolver | Cobalt Grip"
+    },
+    {
+        "weapon_type": "Galil AR",
+        "skin_name": "Grey Smoke",
+        "base_market_hash_name": "Galil AR | Grey Smoke"
+    },
+    {
+        "weapon_type": "SSG 08",
+        "skin_name": "Grey Smoke",
+        "base_market_hash_name": "SSG 08 | Grey Smoke"
+    },
+    {
+        "weapon_type": "MP5-SD",
+        "skin_name": "Lime Hex",
+        "base_market_hash_name": "MP5-SD | Lime Hex"
+    },
+    {
+        "weapon_type": "MAC-10",
+        "skin_name": "Storm Camo",
+        "base_market_hash_name": "MAC-10 | Storm Camo"
+    },
+    {
+        "weapon_type": "AWP",
+        "skin_name": "Green Energy",
+        "base_market_hash_name": "AWP | Green Energy"
+    },
+    {
+        "weapon_type": "Glock-18",
+        "skin_name": "Glockingbird",
+        "base_market_hash_name": "Glock-18 | Glockingbird"
+    },
+    {
+        "weapon_type": "M4A4",
+        "skin_name": "Sheet Lightning",
+        "base_market_hash_name": "M4A4 | Sheet Lightning"
+    },
+    {
+        "weapon_type": "AK-47",
+        "skin_name": "Wintergreen",
+        "base_market_hash_name": "AK-47 | Wintergreen"
+    },
+    {
+        "weapon_type": "USP-S",
+        "skin_name": "Tropical Breeze",
+        "base_market_hash_name": "USP-S | Tropical Breeze"
+    },
+    {
+        "weapon_type": "MAC-10",
+        "skin_name": "Poplar Thicket",
+        "base_market_hash_name": "MAC-10 | Poplar Thicket"
+    },
+    {
+        "weapon_type": "MP5-SD",
+        "skin_name": "Gold Leaf",
+        "base_market_hash_name": "MP5-SD | Gold Leaf"
+    },
+    {
+        "weapon_type": "XM1014",
+        "skin_name": "Copperflage",
+        "base_market_hash_name": "XM1014 | Copperflage"
+    },
+    {
+        "weapon_type": "MAC-10",
+        "skin_name": "Acid Hex",
+        "base_market_hash_name": "MAC-10 | Acid Hex"
+    },
+    {
+        "weapon_type": "AK-47",
+        "skin_name": "VariCamo Grey",
+        "base_market_hash_name": "AK-47 | VariCamo Grey"
+    },
+    {
+        "weapon_type": "P90",
+        "skin_name": "Mustard Gas",
+        "base_market_hash_name": "P90 | Mustard Gas"
+    },
+    {
+        "weapon_type": "R8 Revolver",
+        "skin_name": "Leafhopper",
+        "base_market_hash_name": "R8 Revolver | Leafhopper"
+    },
+    {
+        "weapon_type": "Galil AR",
+        "skin_name": "Acid Dart",
+        "base_market_hash_name": "Galil AR | Acid Dart"
+    },
+    {
+        "weapon_type": "SSG 08",
+        "skin_name": "Tiger Tear",
+        "base_market_hash_name": "SSG 08 | Tiger Tear"
+    },
+    {
+        "weapon_type": "Tec-9",
+        "skin_name": "Garter-9",
+        "base_market_hash_name": "Tec-9 | Garter-9"
+    },
+    {
+        "weapon_type": "P2000",
+        "skin_name": "Marsh",
+        "base_market_hash_name": "P2000 | Marsh"
+    },
+    {
+        "weapon_type": "Dual Berettas",
+        "skin_name": "Polished Malachite",
+        "base_market_hash_name": "Dual Berettas | Polished Malachite"
+    },
+    {
+        "weapon_type": "Zeus x27 Swamp DDPAT",
+        "skin_name": "Zeus x27 Swamp DDPAT",
+        "base_market_hash_name": "Zeus x27 Swamp DDPAT"
+    },
+    {
+        "weapon_type": "P250",
+        "skin_name": "Copper Oxide",
+        "base_market_hash_name": "P250 | Copper Oxide"
+    },
+    {
+        "weapon_type": "Negev",
+        "skin_name": "Raw Ceramic",
+        "base_market_hash_name": "Negev | Raw Ceramic"
+    },
+    {
+        "weapon_type": "AUG",
+        "skin_name": "Commando Company",
+        "base_market_hash_name": "AUG | Commando Company"
+    },
+    {
+        "weapon_type": "SSG 08",
+        "skin_name": "Green Ceramic",
+        "base_market_hash_name": "SSG 08 | Green Ceramic"
+    },
+    {
+        "weapon_type": "MP9",
+        "skin_name": "Pine",
+        "base_market_hash_name": "MP9 | Pine"
+    },
+    {
+        "weapon_type": "FAMAS",
+        "skin_name": "Palm",
+        "base_market_hash_name": "FAMAS | Palm"
+    },
+    {
+        "weapon_type": "Tec-9",
+        "skin_name": "Raw Ceramic",
+        "base_market_hash_name": "Tec-9 | Raw Ceramic"
+    },
+    {
+        "weapon_type": "M249",
+        "skin_name": "Sage Camo",
+        "base_market_hash_name": "M249 | Sage Camo"
+    },
+    {
+        "weapon_type": "MAG-7",
+        "skin_name": "Copper Oxide",
+        "base_market_hash_name": "MAG-7 | Copper Oxide"
+    },
+    {
+        "weapon_type": "UMP-45",
+        "skin_name": "Green Swirl",
+        "base_market_hash_name": "UMP-45 | Green Swirl"
+    },
+    {
+        "weapon_type": "G3SG1",
+        "skin_name": "Green Cell",
+        "base_market_hash_name": "G3SG1 | Green Cell"
+    },
+    {
+        "weapon_type": "AWP",
+        "skin_name": "Printstream",
+        "base_market_hash_name": "AWP | Printstream"
+    },
+    {
+        "weapon_type": "FAMAS",
+        "skin_name": "Bad Trip",
+        "base_market_hash_name": "FAMAS | Bad Trip"
+    },
+    {
+        "weapon_type": "UMP-45",
+        "skin_name": "K.O. Factory",
+        "base_market_hash_name": "UMP-45 | K.O. Factory"
+    },
+    {
+        "weapon_type": "Glock-18",
+        "skin_name": "Shinobu",
+        "base_market_hash_name": "Glock-18 | Shinobu"
+    },
+    {
+        "weapon_type": "AK-47",
+        "skin_name": "Searing Rage",
+        "base_market_hash_name": "AK-47 | Searing Rage"
+    },
+    {
+        "weapon_type": "Zeus x27 Tosai",
+        "skin_name": "Zeus x27 Tosai",
+        "base_market_hash_name": "Zeus x27 Tosai"
+    },
+    {
+        "weapon_type": "P90",
+        "skin_name": "Wave Breaker",
+        "base_market_hash_name": "P90 | Wave Breaker"
+    },
+    {
+        "weapon_type": "Nova",
+        "skin_name": "Rising Sun",
+        "base_market_hash_name": "Nova | Rising Sun"
+    },
+    {
+        "weapon_type": "Galil AR",
+        "skin_name": "Control",
+        "base_market_hash_name": "Galil AR | Control"
+    },
+    {
+        "weapon_type": "Desert Eagle",
+        "skin_name": "Serpent Strike",
+        "base_market_hash_name": "Desert Eagle | Serpent Strike"
+    },
+    {
+        "weapon_type": "XM1014",
+        "skin_name": "Mockingbird",
+        "base_market_hash_name": "XM1014 | Mockingbird"
+    },
+    {
+        "weapon_type": "USP-S",
+        "skin_name": "PC-GRN",
+        "base_market_hash_name": "USP-S | PC-GRN"
+    },
+    {
+        "weapon_type": "SSG 08",
+        "skin_name": "Memorial",
+        "base_market_hash_name": "SSG 08 | Memorial"
+    },
+    {
+        "weapon_type": "P2000",
+        "skin_name": "Sure Grip",
+        "base_market_hash_name": "P2000 | Sure Grip"
+    },
+    {
+        "weapon_type": "MP9",
+        "skin_name": "Nexus",
+        "base_market_hash_name": "MP9 | Nexus"
+    },
+    {
+        "weapon_type": "MAG-7",
+        "skin_name": "Resupply",
+        "base_market_hash_name": "MAG-7 | Resupply"
+    },
+    {
+        "weapon_type": "M4A4",
+        "skin_name": "Choppa",
+        "base_market_hash_name": "M4A4 | Choppa"
+    },
+    {
+        "weapon_type": "AK-47",
+        "skin_name": "Nouveau Rouge",
+        "base_market_hash_name": "AK-47 | Nouveau Rouge"
+    },
+    {
+        "weapon_type": "M4A1-S",
+        "skin_name": "Glitched Paint",
+        "base_market_hash_name": "M4A1-S | Glitched Paint"
+    },
+    {
+        "weapon_type": "Desert Eagle",
+        "skin_name": "Mulberry",
+        "base_market_hash_name": "Desert Eagle | Mulberry"
+    },
+    {
+        "weapon_type": "USP-S",
+        "skin_name": "Bleeding Edge",
+        "base_market_hash_name": "USP-S | Bleeding Edge"
+    },
+    {
+        "weapon_type": "SSG 08",
+        "skin_name": "Blush Pour",
+        "base_market_hash_name": "SSG 08 | Blush Pour"
+    },
+    {
+        "weapon_type": "AWP",
+        "skin_name": "Arsenic Spill",
+        "base_market_hash_name": "AWP | Arsenic Spill"
+    },
+    {
+        "weapon_type": "M4A1-S",
+        "skin_name": "Rose Hex",
+        "base_market_hash_name": "M4A1-S | Rose Hex"
+    },
+    {
+        "weapon_type": "P250",
+        "skin_name": "Red Tide",
+        "base_market_hash_name": "P250 | Red Tide"
+    },
+    {
+        "weapon_type": "Glock-18",
+        "skin_name": "Coral Bloom",
+        "base_market_hash_name": "Glock-18 | Coral Bloom"
+    },
+    {
+        "weapon_type": "MP9",
+        "skin_name": "Shredded",
+        "base_market_hash_name": "MP9 | Shredded"
+    },
+    {
+        "weapon_type": "FAMAS",
+        "skin_name": "Grey Ghost",
+        "base_market_hash_name": "FAMAS | Grey Ghost"
+    },
+    {
+        "weapon_type": "M4A4",
+        "skin_name": "Steel Work",
+        "base_market_hash_name": "M4A4 | Steel Work"
+    },
+    {
+        "weapon_type": "P250",
+        "skin_name": "Sedimentary",
+        "base_market_hash_name": "P250 | Sedimentary"
+    },
+    {
+        "weapon_type": "Galil AR",
+        "skin_name": "O-Ranger",
+        "base_market_hash_name": "Galil AR | O-Ranger"
+    },
+    {
+        "weapon_type": "SG 553",
+        "skin_name": "Basket Halftone",
+        "base_market_hash_name": "SG 553 | Basket Halftone"
+    },
+    {
+        "weapon_type": "Tec-9",
+        "skin_name": "Citric Acid",
+        "base_market_hash_name": "Tec-9 | Citric Acid"
+    },
+    {
+        "weapon_type": "MP7",
+        "skin_name": "Short Ochre",
+        "base_market_hash_name": "MP7 | Short Ochre"
+    },
+    {
+        "weapon_type": "Five-SeveN",
+        "skin_name": "Autumn Thicket",
+        "base_market_hash_name": "Five-SeveN | Autumn Thicket"
+    },
+    {
+        "weapon_type": "G3SG1",
+        "skin_name": "Red Jasper",
+        "base_market_hash_name": "G3SG1 | Red Jasper"
+    },
+    {
+        "weapon_type": "PP-Bizon",
+        "skin_name": "Wood Block Camo",
+        "base_market_hash_name": "PP-Bizon | Wood Block Camo"
+    },
+    {
+        "weapon_type": "Dual Berettas",
+        "skin_name": "BorDeux",
+        "base_market_hash_name": "Dual Berettas | BorDeux"
+    },
+    {
+        "weapon_type": "Nova",
+        "skin_name": "Marsh Grass",
+        "base_market_hash_name": "Nova | Marsh Grass"
+    },
+    {
+        "weapon_type": "SCAR-20",
+        "skin_name": "Short Ochre",
+        "base_market_hash_name": "SCAR-20 | Short Ochre"
+    },
+    {
+        "weapon_type": "XM1014",
+        "skin_name": "Canvas Cloud",
+        "base_market_hash_name": "XM1014 | Canvas Cloud"
+    },
+    {
+        "weapon_type": "CZ75-Auto",
+        "skin_name": "Pink Pearl",
+        "base_market_hash_name": "CZ75-Auto | Pink Pearl"
+    },
+    {
+        "weapon_type": "MAC-10",
+        "skin_name": "Bronzer",
+        "base_market_hash_name": "MAC-10 | Bronzer"
+    },
+    {
+        "weapon_type": "P90",
+        "skin_name": "Desert Halftone",
+        "base_market_hash_name": "P90 | Desert Halftone"
+    },
+    {
+        "weapon_type": "MP9",
+        "skin_name": "Multi-Terrain",
+        "base_market_hash_name": "MP9 | Multi-Terrain"
+    },
+    {
+        "weapon_type": "AWP",
+        "skin_name": "LongDog",
+        "base_market_hash_name": "AWP | LongDog"
+    },
+    {
+        "weapon_type": "MP9",
+        "skin_name": "Latte Rush",
+        "base_market_hash_name": "MP9 | Latte Rush"
+    },
+    {
+        "weapon_type": "M4A4",
+        "skin_name": "Hellish",
+        "base_market_hash_name": "M4A4 | Hellish"
+    },
+    {
+        "weapon_type": "Zeus x27 Charged Up",
+        "skin_name": "Zeus x27 Charged Up",
+        "base_market_hash_name": "Zeus x27 Charged Up"
+    },
+    {
+        "weapon_type": "Tec-9",
+        "skin_name": "Whiteout",
+        "base_market_hash_name": "Tec-9 | Whiteout"
+    },
+    {
+        "weapon_type": "MAC-10",
+        "skin_name": "Derailment",
+        "base_market_hash_name": "MAC-10 | Derailment"
+    },
+    {
+        "weapon_type": "XM1014",
+        "skin_name": "Run Run Run",
+        "base_market_hash_name": "XM1014 | Run Run Run"
+    },
+    {
+        "weapon_type": "UMP-45",
+        "skin_name": "Late Night Transit",
+        "base_market_hash_name": "UMP-45 | Late Night Transit"
+    },
+    {
+        "weapon_type": "FAMAS",
+        "skin_name": "2A2F",
+        "base_market_hash_name": "FAMAS | 2A2F"
+    },
+    {
+        "weapon_type": "Glock-18",
+        "skin_name": "Green Line",
+        "base_market_hash_name": "Glock-18 | Green Line"
+    },
+    {
+        "weapon_type": "P250",
+        "skin_name": "Constructivist",
+        "base_market_hash_name": "P250 | Constructivist"
+    },
+    {
+        "weapon_type": "Nova",
+        "skin_name": "Rain Station",
+        "base_market_hash_name": "Nova | Rain Station"
+    },
+    {
+        "weapon_type": "Galil AR",
+        "skin_name": "Green Apple",
+        "base_market_hash_name": "Galil AR | Green Apple"
+    },
+    {
+        "weapon_type": "P90",
+        "skin_name": "Straight Dimes",
+        "base_market_hash_name": "P90 | Straight Dimes"
+    },
+    {
+        "weapon_type": "CZ75-Auto",
+        "skin_name": "Copper Fiber",
+        "base_market_hash_name": "CZ75-Auto | Copper Fiber"
+    },
+    {
+        "weapon_type": "AUG",
+        "skin_name": "Steel Sentinel",
+        "base_market_hash_name": "AUG | Steel Sentinel"
+    },
+    {
+        "weapon_type": "M4A1-S",
+        "skin_name": "Solitude",
+        "base_market_hash_name": "M4A1-S | Solitude"
+    },
+    {
+        "weapon_type": "AK-47",
+        "skin_name": "The Oligarch",
+        "base_market_hash_name": "AK-47 | The Oligarch"
+    },
+    {
+        "weapon_type": "M4A4",
+        "skin_name": "Full Throttle",
+        "base_market_hash_name": "M4A4 | Full Throttle"
+    },
+    {
+        "weapon_type": "Glock-18",
+        "skin_name": "Mirror Mosaic",
+        "base_market_hash_name": "Glock-18 | Mirror Mosaic"
+    },
+    {
+        "weapon_type": "MP7",
+        "skin_name": "Smoking Kills",
+        "base_market_hash_name": "MP7 | Smoking Kills"
+    },
+    {
+        "weapon_type": "AWP",
+        "skin_name": "Ice Coaled",
+        "base_market_hash_name": "AWP | Ice Coaled"
+    },
+    {
+        "weapon_type": "UMP-45",
+        "skin_name": "Continuum",
+        "base_market_hash_name": "UMP-45 | Continuum"
+    },
+    {
+        "weapon_type": "MAC-10",
+        "skin_name": "Cat Fight",
+        "base_market_hash_name": "MAC-10 | Cat Fight"
+    },
+    {
+        "weapon_type": "Dual Berettas",
+        "skin_name": "Angel Eyes",
+        "base_market_hash_name": "Dual Berettas | Angel Eyes"
+    },
+    {
+        "weapon_type": "M4A1-S",
+        "skin_name": "Liquidation",
+        "base_market_hash_name": "M4A1-S | Liquidation"
+    },
+    {
+        "weapon_type": "Nova",
+        "skin_name": "Ocular",
+        "base_market_hash_name": "Nova | Ocular"
+    },
+    {
+        "weapon_type": "MP5-SD",
+        "skin_name": "Focus",
+        "base_market_hash_name": "MP5-SD | Focus"
+    },
+    {
+        "weapon_type": "MAG-7",
+        "skin_name": "MAGnitude",
+        "base_market_hash_name": "MAG-7 | MAGnitude"
+    },
+    {
+        "weapon_type": "P250",
+        "skin_name": "Bullfrog",
+        "base_market_hash_name": "P250 | Bullfrog"
+    },
+    {
+        "weapon_type": "MP9",
+        "skin_name": "Broken Record",
+        "base_market_hash_name": "MP9 | Broken Record"
+    },
+    {
+        "weapon_type": "P2000",
+        "skin_name": "Red Wing",
+        "base_market_hash_name": "P2000 | Red Wing"
+    },
+    {
+        "weapon_type": "AUG",
+        "skin_name": "Trigger Discipline",
+        "base_market_hash_name": "AUG | Trigger Discipline"
+    },
+    {
+        "weapon_type": "SCAR-20",
+        "skin_name": "Caged",
+        "base_market_hash_name": "SCAR-20 | Caged"
+    },
+    {
+        "weapon_type": "AK-47",
+        "skin_name": "Aphrodite",
+        "base_market_hash_name": "AK-47 | Aphrodite"
+    },
+    {
+        "weapon_type": "AWP",
+        "skin_name": "The End",
+        "base_market_hash_name": "AWP | The End"
+    },
+    {
+        "weapon_type": "AK-47",
+        "skin_name": "Breakthrough",
+        "base_market_hash_name": "AK-47 | Breakthrough"
+    },
+    {
+        "weapon_type": "Glock-18",
+        "skin_name": "Trace Lock",
+        "base_market_hash_name": "Glock-18 | Trace Lock"
+    },
+    {
+        "weapon_type": "AUG",
+        "skin_name": "Creep",
+        "base_market_hash_name": "AUG | Creep"
+    },
+    {
+        "weapon_type": "Desert Eagle",
+        "skin_name": "The Daily Deagle",
+        "base_market_hash_name": "Desert Eagle | The Daily Deagle"
+    },
+    {
+        "weapon_type": "P2000",
+        "skin_name": "Grip Tape",
+        "base_market_hash_name": "P2000 | Grip Tape"
+    },
+    {
+        "weapon_type": "P90",
+        "skin_name": "Aeolian Light",
+        "base_market_hash_name": "P90 | Aeolian Light"
+    },
+    {
+        "weapon_type": "FAMAS",
+        "skin_name": "Vendetta",
+        "base_market_hash_name": "FAMAS | Vendetta"
+    },
+    {
+        "weapon_type": "M4A4",
+        "skin_name": "Aeolian Dark",
+        "base_market_hash_name": "M4A4 | Aeolian Dark"
+    },
+    {
+        "weapon_type": "MAC-10",
+        "skin_name": "Snow Splash",
+        "base_market_hash_name": "MAC-10 | Snow Splash"
+    },
+    {
+        "weapon_type": "MP5-SD",
+        "skin_name": "Snow Splash",
+        "base_market_hash_name": "MP5-SD | Snow Splash"
+    },
+    {
+        "weapon_type": "R8 Revolver",
+        "skin_name": "Dark Chamber",
+        "base_market_hash_name": "R8 Revolver | Dark Chamber"
+    },
+    {
+        "weapon_type": "PP-Bizon",
+        "skin_name": "Bizoom",
+        "base_market_hash_name": "PP-Bizon | Bizoom"
+    },
+    {
+        "weapon_type": "Dual Berettas",
+        "skin_name": "Silver Pour",
+        "base_market_hash_name": "Dual Berettas | Silver Pour"
+    },
+    {
+        "weapon_type": "M249",
+        "skin_name": "Sleet",
+        "base_market_hash_name": "M249 | Sleet"
+    },
+    {
+        "weapon_type": "MP9",
+        "skin_name": "Dizzy",
+        "base_market_hash_name": "MP9 | Dizzy"
+    },
+    {
+        "weapon_type": "Nova",
+        "skin_name": "Currents",
+        "base_market_hash_name": "Nova | Currents"
+    },
+    {
+        "weapon_type": "P250",
+        "skin_name": "Sleet",
+        "base_market_hash_name": "P250 | Sleet"
+    },
+    {
+        "weapon_type": "SCAR-20",
+        "skin_name": "Zinc",
+        "base_market_hash_name": "SCAR-20 | Zinc"
+    },
+    {
+        "weapon_type": "SSG 08",
+        "skin_name": "Sans Comic",
+        "base_market_hash_name": "SSG 08 | Sans Comic"
+    },
+    {
+        "weapon_type": "M4A1-S",
+        "skin_name": "Party Animal",
+        "base_market_hash_name": "M4A1-S | Party Animal"
+    },
+    {
+        "weapon_type": "AWP",
+        "skin_name": "Exothermic",
+        "base_market_hash_name": "AWP | Exothermic"
+    },
+    {
+        "weapon_type": "USP-S",
+        "skin_name": "Sleeping Potion",
+        "base_market_hash_name": "USP-S | Sleeping Potion"
+    },
+    {
+        "weapon_type": "Zeus x27 Earth Mandala",
+        "skin_name": "Zeus x27 Earth Mandala",
+        "base_market_hash_name": "Zeus x27 Earth Mandala"
+    },
+    {
+        "weapon_type": "UMP-45",
+        "skin_name": "Warm Blooded",
+        "base_market_hash_name": "UMP-45 | Warm Blooded"
+    },
+    {
+        "weapon_type": "Galil AR",
+        "skin_name": "Sky Mandala",
+        "base_market_hash_name": "Galil AR | Sky Mandala"
+    },
+    {
+        "weapon_type": "Five-SeveN",
+        "skin_name": "Fraise Crane",
+        "base_market_hash_name": "Five-SeveN | Fraise Crane"
+    },
+    {
+        "weapon_type": "XM1014",
+        "skin_name": "XoooM",
+        "base_market_hash_name": "XM1014 | XoooM"
+    },
+    {
+        "weapon_type": "Tec-9",
+        "skin_name": "Banana Leaf",
+        "base_market_hash_name": "Tec-9 | Banana Leaf"
+    },
+    {
+        "weapon_type": "SSG 08",
+        "skin_name": "Calligrafaux",
+        "base_market_hash_name": "SSG 08 | Calligrafaux"
+    },
+    {
+        "weapon_type": "MP7",
+        "skin_name": "Coral Paisley",
+        "base_market_hash_name": "MP7 | Coral Paisley"
+    },
+    {
+        "weapon_type": "MP5-SD",
+        "skin_name": "Picnic",
+        "base_market_hash_name": "MP5-SD | Picnic"
+    },
+    {
+        "weapon_type": "Sawed-Off",
+        "skin_name": "Crimson Batik",
+        "base_market_hash_name": "Sawed-Off | Crimson Batik"
+    },
+    {
+        "weapon_type": "SG 553",
+        "skin_name": "Safari Print",
+        "base_market_hash_name": "SG 553 | Safari Print"
+    },
+    {
+        "weapon_type": "R8 Revolver",
+        "skin_name": "Mauve Aside",
+        "base_market_hash_name": "R8 Revolver | Mauve Aside"
+    },
+    {
+        "weapon_type": "PP-Bizon",
+        "skin_name": "Thermal Currents",
+        "base_market_hash_name": "PP-Bizon | Thermal Currents"
+    },
+    {
+        "weapon_type": "MP9",
+        "skin_name": "Bee-Tron",
+        "base_market_hash_name": "MP9 | Bee-Tron"
+    },
+    {
+        "weapon_type": "FAMAS",
+        "skin_name": "Byproduct",
+        "base_market_hash_name": "FAMAS | Byproduct"
+    },
+    {
+        "weapon_type": "CZ75-Auto",
+        "skin_name": "Honey Paisley",
+        "base_market_hash_name": "CZ75-Auto | Honey Paisley"
+    },
+    {
+        "weapon_type": "AWP",
+        "skin_name": "Queen's Gambit",
+        "base_market_hash_name": "AWP | Queen's Gambit"
+    },
+    {
+        "weapon_type": "Glock-18",
+        "skin_name": "Fully Tuned",
+        "base_market_hash_name": "Glock-18 | Fully Tuned"
+    },
+    {
+        "weapon_type": "P90",
+        "skin_name": "Deathgaze",
+        "base_market_hash_name": "P90 | Deathgaze"
+    },
+    {
+        "weapon_type": "P250",
+        "skin_name": "Kintsugi",
+        "base_market_hash_name": "P250 | Kintsugi"
+    },
+    {
+        "weapon_type": "AK-47",
+        "skin_name": "Crane Flight",
+        "base_market_hash_name": "AK-47 | Crane Flight"
+    },
+    {
+        "weapon_type": "MP9",
+        "skin_name": "Urban Sovereign",
+        "base_market_hash_name": "MP9 | Urban Sovereign"
+    },
+    {
+        "weapon_type": "Galil AR",
+        "skin_name": "Galigator",
+        "base_market_hash_name": "Galil AR | Galigator"
+    },
+    {
+        "weapon_type": "MP7",
+        "skin_name": "Amberline",
+        "base_market_hash_name": "MP7 | Amberline"
+    },
+    {
+        "weapon_type": "M4A1-S",
+        "skin_name": "Electrum",
+        "base_market_hash_name": "M4A1-S | Electrum"
+    },
+    {
+        "weapon_type": "Desert Eagle",
+        "skin_name": "Firebreathing",
+        "base_market_hash_name": "Desert Eagle | Firebreathing"
+    },
+    {
+        "weapon_type": "PP-Bizon",
+        "skin_name": "RMX",
+        "base_market_hash_name": "PP-Bizon | RMX"
+    },
+    {
+        "weapon_type": "USP-S",
+        "skin_name": "Silent Shot",
+        "base_market_hash_name": "USP-S | Silent Shot"
+    },
+    {
+        "weapon_type": "Five-SeveN",
+        "skin_name": "Dark Polymer",
+        "base_market_hash_name": "Five-SeveN | Dark Polymer"
+    },
+    {
+        "weapon_type": "Sawed-Off",
+        "skin_name": "Fusion",
+        "base_market_hash_name": "Sawed-Off | Fusion"
+    },
+    {
+        "weapon_type": "UMP-45",
+        "skin_name": "Fragment",
+        "base_market_hash_name": "UMP-45 | Fragment"
+    },
+    {
+        "weapon_type": "M4A4",
+        "skin_name": "Zubastick",
+        "base_market_hash_name": "M4A4 | Zubastick"
+    },
+    {
+        "weapon_type": "M249",
+        "skin_name": "Bock Blocks",
+        "base_market_hash_name": "M249 | Bock Blocks"
+    }
+]
