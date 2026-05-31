@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="uk">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Моніторинг Віртуальних Активів Steam</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <div class="container">
+        <div class="flex-header">
+            <div>
+                <h1>Система агрегації віртуальних активів Steam</h1>
+                <p class="subtitle">Панель моніторингу вартості та пошуку арбітражних вікон у реальному часі</p>
+            </div>
+            <button id="massMonitorBtn" class="btn-secondary">📊 Масовий моніторинг кешу</button>
+        </div>
+
+        <div class="control-panel">
+            <input type="text" id="skinInput" value="AK-47 | Redline (Field-Tested)" list="skinsList">
+            <datalist id="skinsList"></datalist>
+            
+            <button id="startBtn">Аналізувати ринок</button>
+        </div>
+        <div id="statusTxt" class="status-box"></div>
+
+        <div class="dashboard" id="mainDashboard">
+            <div>
+                <div class="section-title">Порівняння цін на маркетах</div>
+                <table class="price-table">
+                    <thead>
+                        <tr>
+                            <th>Майданчик</th>
+                            <th>Брутто ціна</th>
+                            <th>Чиста ціна (-Комісія)</th>
+                        </tr>
+                    </thead>
+                    <tbody id="pricesTableBody"></tbody>
+                </table>
+            </div>
+
+            <div>
+                <div class="section-title">Виявлені арбітражні вікна</div>
+                <div id="arbitrageDealsContainer"></div>
+            </div>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>

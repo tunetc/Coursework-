@@ -1,0 +1,47 @@
+name: CI/CD Pipeline for FastAPI Aggregator
+
+on:
+  push:
+    branches: [ "main" ] 
+
+jobs:
+  build-and-test:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Checkout repository code
+      uses: actions/checkout@v4
+
+    - name: Set up Python 3.12
+      uses: actions/setup-python@v5
+      with:
+        python-version: "3.12"
+
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install fastapi uvicorn pydantic
+
+    - name: Lint with flake8 (Syntax check)
+      run: |
+        pip install flake8
+        # Зупиняє збірку, якщо є синтаксичні помилки Python
+        flake8 . --count --select=E9,F63,F7,F82 --show-source --statistics
+
+  deploy-to-vps:
+    needs: build-and-test 
+    runs-on: ubuntu-latest
+    steps:
+    - name: Executing remote ssh commands to deploy
+      uses: appleboy/ssh-action@v1.0.3
+      with:
+        host: ${{ secrets.HOST }}        
+        username: ${{ secrets.USERNAME }}  
+        key: ${{ secrets.SSH_KEY }}        
+        port: 22
+        script: |
+          cd /var/www/steam  # Шлях до папки з твоїм проектом на VPS
+          git pull origin main
+          source venv/bin/activate
+          pip install -r requirements.txt
+          sudo systemctl restart coolclim.service  # Перезапуск асинхронного сервера
+          echo "🚀 Деплой завершено успішно!"

@@ -1,0 +1,177 @@
+:root {
+    --bg-color: #1a1a24;
+    --card-bg: #242432;
+    --accent: #5c6bc0;
+    --text-main: #ffffff;
+    --text-muted: #aaaaaa;
+    --success: #4caf50;
+    --warning: #ff9800;
+}
+
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 0;
+    padding: 30px;
+    background-color: var(--bg-color);
+    color: var(--text-main);
+}
+
+.container {
+    max-width: 1000px;
+    margin: 0 auto;
+}
+
+.flex-header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 25px;
+}
+
+h1 {
+    font-size: 28px;
+    margin-bottom: 5px;
+    color: var(--text-main);
+}
+
+.subtitle {
+    color: var(--text-muted);
+    margin-bottom: 25px;
+}
+
+.control-panel {
+    background: var(--card-bg);
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 4px 15px rgba(0,0,0,0.2);
+    margin-bottom: 30px;
+    display: flex;
+    gap: 15px;
+    align-items: center;
+}
+
+input[type="text"] {
+    flex: 1;
+    padding: 12px;
+    background: #14141c;
+    border: 1px solid #444;
+    border-radius: 4px;
+    color: white;
+    font-size: 16px;
+}
+
+button {
+    padding: 12px 24px;
+    font-size: 16px;
+    font-weight: 600;
+    cursor: pointer;
+    background: var(--accent);
+    color: white;
+    border: none;
+    border-radius: 4px;
+    transition: background 0.2s;
+}
+
+button:hover {
+    background: #4a59a8;
+}
+
+.btn-secondary {
+    background: #3f51b5;
+}
+
+.btn-secondary:hover {
+    background: #303f9f;
+}
+
+.status-box {
+    margin-top: 10px;
+    font-size: 14px;
+    color: var(--warning);
+}
+
+.dashboard {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 25px;
+    display: none;
+}
+
+@media (max-width: 768px) {
+    .dashboard { grid-template-columns: 1fr; }
+}
+
+.section-title {
+    font-size: 20px;
+    margin-bottom: 15px;
+    border-left: 4px solid var(--accent);
+    padding-left: 10px;
+}
+
+.price-table {
+    width: 100%;
+    border-collapse: collapse;
+    background: var(--card-bg);
+    border-radius: 8px;
+    overflow: hidden;
+}
+
+.price-table th, .price-table td {
+    padding: 14px;
+    text-align: left;
+}
+
+.price-table th {
+    background: #2e2e3f;
+    color: var(--text-muted);
+    font-size: 14px;
+    text-transform: uppercase;
+}
+
+.price-table tr {
+    border-bottom: 1px solid #333;
+}
+
+.price-table tr:last-child {
+    border-bottom: none;
+}
+
+.deal-card {
+    background: #2e3047;
+    border: 1px solid #444;
+    border-radius: 8px;
+    padding: 20px;
+    margin-bottom: 15px;
+    position: relative;
+}
+
+.deal-card .badge {
+    position: absolute;
+    top: 20px;
+    right: 20px;
+    background: var(--success);
+    padding: 5px 10px;
+    border-radius: 4px;
+    font-weight: bold;
+    font-size: 14px;
+}
+
+.deal-route {
+    font-size: 18px;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+
+.deal-details {
+    font-size: 14px;
+    color: var(--text-muted);
+    line-height: 1.5;
+}
+
+.no-deals {
+    background: var(--card-bg);
+    padding: 20px;
+    text-align: center;
+    color: var(--text-muted);
+    border-radius: 8px;
+}
