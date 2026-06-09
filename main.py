@@ -2,11 +2,14 @@ import asyncio
 import json
 import logging
 import time
+import os
 from typing import List, Dict, Optional
 from fastapi import FastAPI, HTTPException
 from fastapi.middleware.cors import CORSMiddleware
 from pydantic import BaseModel, Field
 
+from fastapi.responses import HTMLResponse
+from fastapi.staticfiles import StaticFiles
 
 logging.basicConfig(level=logging.INFO, format="%(asctime)s [%(levelname)s] %(message)s")
 logger = logging.getLogger(__name__)
@@ -28,6 +31,21 @@ SKINS_DATABASE: List[str] = []
 FILE_PATH = 'cs2_skins.json'
 
 PARSING_QUEUE: asyncio.Queue = asyncio.Queue()
+
+@app.get("/", response_class=HTMLResponse)
+async def serve_index():
+    file_path = "client/index.html"
+    if not os.path.exists(file_path):
+        logger.error(f"❌ Фронтенд-файл '{file_path}' не знайдено! Перевірте структуру папок.")
+        return HTMLResponse(
+            content="<h1>Внутрішня помилка сервера</h1><p>Файл client/index.html відсутній.</p>", 
+            status_code=404
+        )
+    with open(file_path, "r", encoding="utf-8") as f:
+        return HTMLResponse(content=f.read(), status_code=200)
+
+if os.path.exists("client"):
+    app.mount("/client", StaticFiles(directory="client"), name="client")
 
 class RawMarketInput(BaseModel):
     market_name: str
