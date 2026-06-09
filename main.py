@@ -14,7 +14,10 @@ from fastapi.staticfiles import StaticFiles
 logging.basicConfig(level=logging.INFO, format="%(asctime)s [%(levelname)s] %(message)s")
 logger = logging.getLogger(__name__)
 
-app = FastAPI(title="Steam & DMarket Decentralized Aggregator API")
+app = FastAPI(
+    title="Steam & DMarket Decentralized Aggregator API",
+    root_path="/steam" 
+)
 
 app.add_middleware(
     CORSMiddleware,
